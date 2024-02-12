@@ -1,0 +1,404 @@
+ID,cattle,State,Farm,Date_of_colleciton,Status,RectTemp,animal
+Dairy1,Dairy 1,IN,Warren,2/20/21,BRD,101.7,calf
+Dairy10,Dairy 10,IN,Warren,2/20/21,Healthy,,calf
+Dairy100,Dairy 100,IN,Warren,2/27/21,Healthy,,calf
+Dairy101,Dairy 101,NY,Lambs,05/18-19/2021,Healthy,102.8,calf
+Dairy102,Dairy 102,NY,Lambs,05/18-19/2021,Healthy,101.8,calf
+Dairy103,Dairy 103,NY,Lambs,05/18-19/2021,Healthy,102.6,calf
+Dairy104,Dairy 104,NY,Lambs,05/18-19/2021,Healthy,102.6,calf
+Dairy105,Dairy 105,NY,Lambs,05/18-19/2021,Healthy,102.4,calf
+Dairy106,Dairy 106,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy107,Dairy 107,NY,Lambs,05/18-19/2021,Healthy,102.5,calf
+Dairy108,Dairy 108,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy109,Dairy 109,NY,Lambs,05/18-19/2021,Healthy,101.7,calf
+Dairy11,Dairy 11,IN,Warren,2/20/21,BRD,103.5,Cow
+Dairy110,Dairy 110,NY,Lambs,05/18-19/2021,Healthy,102,calf
+Dairy111,Dairy 111,NY,Lambs,05/18-19/2021,Healthy,102,calf
+Dairy112,Dairy 112,NY,Lambs,05/18-19/2021,Healthy,102.2,calf
+Dairy113,Dairy 113,NY,Lambs,05/18-19/2021,Healthy,102.7,calf
+Dairy114,Dairy 114,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy115,Dairy 115,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy116,Dairy 116,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy117,Dairy 117,NY,Lambs,05/18-19/2021,Healthy,102.1,calf
+Dairy118,Dairy 118,NY,Lambs,05/18-19/2021,Healthy,102.8,calf
+Dairy119,Dairy 119,NY,Lambs,05/18-19/2021,Healthy,101.4,calf
+Dairy12,Dairy 12,IN,Warren,2/20/21,BRD,102.6,calf
+Dairy120,Dairy 120,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy121,Dairy 121,NY,Lambs,05/18-19/2021,Healthy,102.5,calf
+Dairy122,Dairy 122,NY,Lambs,05/18-19/2021,Healthy,101.9,calf
+Dairy123,Dairy 123,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy124,Dairy 124,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy125,Dairy 125,NY,Lambs,05/18-19/2021,Healthy,102.7,calf
+Dairy126,Dairy 126,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy127,Dairy 127,NY,Lambs,05/18-19/2021,Healthy,104,calf
+Dairy128,Dairy 128,NY,Lambs,05/18-19/2021,Healthy,102.3,calf
+Dairy129,Dairy 129,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy13,Dairy 13,IN,Warren,2/20/21,Healthy,,Cow
+Dairy130,Dairy 130,NY,Lambs,05/18-19/2021,Healthy,102.3,calf
+Dairy131,Dairy 131,NY,Lambs,05/18-19/2021,Healthy,,calf
+Dairy132,Dairy 132,NY,Lambs,05/18-19/2021,Healthy,102.3,calf
+Dairy133,Dairy 133,NY,Lambs,05/18-19/2021,Healthy,102.7,calf
+Dairy134,Dairy 134,NY,Lambs,05/18-19/2021,Healthy,102.3,calf
+Dairy135,Dairy 135,NY,Lambs,05/18-19/2021,Healthy,102.4,calf
+Dairy136,Dairy 136,NY,Lambs,05/18-19/2021,BRD,102.5,calf
+Dairy137,Dairy 137,NY,Lambs,05/18-19/2021,BRD,102.7,calf
+Dairy138,Dairy 138,NY,Lambs,05/18-19/2021,BRD,102.3,calf
+Dairy139,Dairy 139,NY,Lambs,05/18-19/2021,BRD,102.6,calf
+Dairy14,Dairy 14,IN,Warren,2/20/21,BRD,101.8,Cow
+Dairy140,Dairy 140,NY,Lambs,05/18-19/2021,BRD,103.1,calf
+Dairy141,Dairy 141,NY,Lambs,05/18-19/2021,BRD,102.3,calf
+Dairy142,Dairy 142,NY,Lambs,05/18-19/2021,BRD,103.1,calf
+Dairy143,Dairy 143,NY,Lambs,05/18-19/2021,BRD,103,calf
+Dairy144,Dairy 144,NY,Lambs,05/18-19/2021,BRD,102,calf
+Dairy145,Dairy 145,NY,Lambs,05/18-19/2021,BRD,102.2,calf
+Dairy146,Dairy 146,NY,Lambs,05/18-19/2021,BRD,102.2,calf
+Dairy147,Dairy 147,NY,Lambs,05/18-19/2021,BRD,102.5,calf
+Dairy148,Dairy 148,NY,Lambs,05/18-19/2021,BRD,103.5,calf
+Dairy149,Dairy 149,NY,Lambs,05/18-19/2021,BRD,103,calf
+Dairy15,Dairy 15,IN,Warren,2/20/21,Healthy,,calf
+Dairy150,Dairy 150,NY,Lambs,05/18-19/2021,BRD,103,calf
+Dairy151,Dairy 151,NY,Lambs,05/18-19/2021,BRD,101.7,calf
+Dairy152,Dairy 152,NY,Lambs,05/18-19/2021,BRD,103,calf
+Dairy153,Dairy 153,NY,Lambs,05/18-19/2021,BRD,105.8,calf
+Dairy154,Dairy 154,NY,Lambs,05/18-19/2021,BRD,105.3,calf
+Dairy155,Dairy 155,NY,Lambs,05/18-19/2021,BRD,102,calf
+Dairy156,Dairy 156,NY,Lambs,05/18-19/2021,BRD,102.4,calf
+Dairy157,Dairy 157,NY,Lambs,05/18-19/2021,BRD,106,calf
+Dairy158,Dairy 158,NY,Lambs,05/18-19/2021,BRD,106.3,calf
+Dairy159,Dairy 159,NY,Lambs,05/18-19/2021,BRD,101.2,calf
+Dairy16,Dairy 16,IN,Warren,2/20/21,BRD,102.4,calf
+Dairy160,Dairy 160,NY,Lambs,05/18-19/2021,BRD,102.1,calf
+Dairy161,Dairy 161,NY,Lambs,05/18-19/2021,BRD,102.4,calf
+Dairy162,Dairy 162,NY,Lambs,05/18-19/2021,BRD,102.8,calf
+Dairy163,Dairy 163,NY,Lambs,05/18-19/2021,BRD,102.6,calf
+Dairy164,Dairy 164,NY,Lambs,05/18-19/2021,BRD,104.9,calf
+Dairy165,Dairy 165,NY,Lambs,05/18-19/2021,BRD,101.6,calf
+Dairy166,Dairy 166,NY,Lambs,05/18-19/2021,BRD,102,calf
+Dairy167,Dairy 167,NY,Lambs,05/18-19/2021,BRD,,calf
+Dairy168,Dairy 168,NY,Lambs,05/18-19/2021,BRD,101.2,calf
+Dairy169,Dairy 169,NY,Lambs,05/18-19/2021,BRD,102,calf
+Dairy17,Dairy 17,IN,Warren,2/20/21,BRD,101.2,calf
+Dairy170,Dairy 170,NY,Lambs,05/18-19/2021,BRD,104,calf
+Dairy171,Dairy 171,NY,Southview,5/20/21,Healthy,101.6,Cow
+Dairy172,Dairy 172,NY,Southview,5/20/21,Healthy,101.2,calf
+Dairy173,Dairy 173,NY,Southview,5/20/21,Healthy,102.7,calf
+Dairy174,Dairy 174,NY,Southview,5/20/21,Healthy,101.7,Cow
+Dairy177,Dairy 177,NY,Southview,5/20/21,Healthy,,Cow
+Dairy178,Dairy 178,NY,Southview,5/20/21,Healthy,,Cow
+Dairy179,Dairy 179,NY,Southview,5/20/21,Healthy,,Cow
+Dairy18,Dairy 18,IN,Warren,2/20/21,BRD,102.7,calf
+Dairy180,Dairy 180,NY,Southview,5/20/21,Healthy,102.5,Cow
+Dairy181,Dairy 181,NY,Southview,5/20/21,Healthy,,Cow
+Dairy182,Dairy 182,NY,Southview,5/20/21,Healthy,,Cow
+Dairy183,Dairy 183,NY,Southview,5/20/21,Healthy,,Cow
+Dairy184,Dairy 184,NY,Southview,5/20/21,Healthy,101.5,Cow
+Dairy185,Dairy 185,NY,Southview,5/20/21,Healthy,102,calf
+Dairy186,Dairy 186,NY,Southview,5/20/21,Healthy,101.5,Cow
+Dairy187,Dairy 187,NY,Southview,5/20/21,Healthy,102,calf
+Dairy188,Dairy 188,NY,Southview,5/20/21,BRD,103.2,calf
+Dairy189,Dairy 189,NY,Southview,5/20/21,BRD,101.2,Cow
+Dairy19,Dairy 19,IN,Warren,2/20/21,BRD,102.3,calf
+Dairy190,Dairy 190,NY,Southview,5/20/21,BRD,103,Cow
+Dairy191,Dairy 191,NY,Southview,5/20/21,BRD,102.5,Cow
+Dairy192,Dairy 192,NY,Southview,5/20/21,BRD,102.4,Cow
+Dairy193,Dairy 193,NY,Southview,5/20/21,BRD,101.4,Cow
+Dairy194,Dairy 194,NY,Southview,5/20/21,BRD,102,Cow
+Dairy195,Dairy 195,NY,Southview,5/20/21,BRD,100.1,Cow
+Dairy196,Dairy 196,NY,Southview,5/20/21,BRD,103.9,Cow
+Dairy197,Dairy 197,NY,Southview,5/20/21,BRD,102,calf
+Dairy198,Dairy 198,NY,Southview,5/20/21,BRD,102.3,calf
+Dairy199,Dairy 199,NY,Southview,5/20/21,BRD,102.5,calf
+Dairy20,Dairy 20,IN,Warren,2/20/21,BRD,101.5,calf
+Dairy200,Dairy 200,NY,Southview,5/20/21,BRD,101.8,Cow
+Dairy201,Dairy 201,NY,Southview,5/20/21,BRD,102.9,calf
+Dairy202,Dairy 202,NY,Southview,5/20/21,BRD,102.6,calf
+Dairy203,Dairy 203,NY,Southview,5/20/21,BRD,102.8,calf
+Dairy204,Dairy 204,TX,Full Circle,1/1/22,BRD,101.6,calf
+Dairy205,Dairy 205,TX,Full Circle,1/1/22,BRD,100.5,calf
+Dairy206,Dairy 206,TX,Full Circle,1/1/22,BRD,102.9,calf
+Dairy207,Dairy 207,TX,Full Circle,1/1/22,Healthy,101.9,calf
+Dairy208,Dairy 208,TX,Full Circle,1/1/22,Healthy,102.7,calf
+Dairy209,Dairy 209,TX,Full Circle,1/1/22,Healthy,101.5,calf
+Dairy21,Dairy 21,IN,Warren,2/20/21,BRD,104.1,calf
+Dairy210,Dairy 210,TX,Full Circle,1/1/22,BRD,102.1,calf
+Dairy211,Dairy 211,TX,Full Circle,1/1/22,Healthy,102.1,calf
+Dairy212,Dairy 212,TX,Full Circle,1/1/22,BRD,101.2,calf
+Dairy213,Dairy 213,TX,Full Circle,1/1/22,Healthy,101.4,calf
+Dairy214,Dairy 214,TX,Full Circle,1/1/22,BRD,102.6,calf
+Dairy215,Dairy 215,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy216,Dairy 216,TX,Full Circle,1/1/22,Healthy,101.9,calf
+Dairy217,Dairy 217,TX,Full Circle,1/1/22,Healthy,101.7,calf
+Dairy218,Dairy 218,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy219,Dairy 219,TX,Full Circle,1/1/22,BRD,102.8,calf
+Dairy22,Dairy 22,IN,Warren,2/20/21,BRD,102.7,calf
+Dairy220,Dairy 220,TX,Full Circle,1/1/22,Healthy,100.6,calf
+Dairy221,Dairy 221,TX,Full Circle,1/1/22,Healthy,101.9,calf
+Dairy222,Dairy 222,TX,Full Circle,1/1/22,BRD,105.1,calf
+Dairy223,Dairy 223,TX,Full Circle,1/1/22,Healthy,101.7,calf
+Dairy224,Dairy 224,TX,Full Circle,1/1/22,BRD,101.7,calf
+Dairy225,Dairy 225,TX,Full Circle,1/1/22,BRD,97.8,calf
+Dairy226,Dairy 226,TX,Full Circle,1/1/22,Healthy,101.2,calf
+Dairy227,Dairy 227,TX,Full Circle,1/1/22,Healthy,102.1,calf
+Dairy228,Dairy 228,TX,Full Circle,1/1/22,BRD,101.4,calf
+Dairy229,Dairy 229,TX,Full Circle,1/1/22,Healthy,100.8,calf
+Dairy23,Dairy 23,IN,Warren,2/20/21,BRD,103,calf
+Dairy230,Dairy 230,TX,Full Circle,1/1/22,BRD,100.9,calf
+Dairy231,Dairy 231,TX,Full Circle,1/1/22,Healthy,102,calf
+Dairy232,Dairy 232,TX,Full Circle,1/1/22,BRD,101,calf
+Dairy233,Dairy 233,TX,Full Circle,1/1/22,Healthy,102,calf
+Dairy234,Dairy 234,TX,Full Circle,1/1/22,BRD,101.2,calf
+Dairy235,Dairy 235,TX,Full Circle,1/1/22,Healthy,102.4,calf
+Dairy236,Dairy 236,TX,Full Circle,1/1/22,BRD,102.4,calf
+Dairy237,Dairy 237,TX,Full Circle,1/1/22,Healthy,102.3,calf
+Dairy238,Dairy 238,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy239,Dairy 239,TX,Full Circle,1/1/22,Healthy,101.5,calf
+Dairy24,Dairy 24,IN,Warren,2/20/21,BRD,102.3,calf
+Dairy240,Dairy 240,TX,Full Circle,1/1/22,BRD,102.1,calf
+Dairy241,Dairy 241,TX,Full Circle,1/1/22,BRD,102.7,calf
+Dairy242,Dairy 242,TX,Full Circle,1/1/22,Healthy,102.8,calf
+Dairy243,Dairy 243,TX,Full Circle,1/1/22,Healthy,102.3,calf
+Dairy244,Dairy 244,TX,Full Circle,1/1/22,BRD,101.7,calf
+Dairy245,Dairy 245,TX,Full Circle,1/1/22,Healthy,103.3,calf
+Dairy246,Dairy 246,TX,Full Circle,1/1/22,Healthy,101.8,calf
+Dairy247,Dairy 247,TX,Full Circle,1/1/22,BRD,101.7,calf
+Dairy248,Dairy 248,TX,Full Circle,1/1/22,BRD,101.8,calf
+Dairy249,Dairy 249,TX,Full Circle,1/1/22,Healthy,101.6,calf
+Dairy25,Dairy 25,IN,Warren,2/20/21,BRD,102.4,calf
+Dairy250,Dairy 250,TX,Full Circle,1/1/22,BRD,101.9,calf
+Dairy251,Dairy 251,TX,Full Circle,1/1/22,BRD,101.4,calf
+Dairy252,Dairy 252,TX,Full Circle,1/1/22,Healthy,101.9,calf
+Dairy253,Dairy 253,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy254,Dairy 254,TX,Full Circle,1/1/22,BRD,102.6,calf
+Dairy255,Dairy 255,TX,Full Circle,1/1/22,Healthy,101.7,calf
+Dairy256,Dairy 256,TX,Full Circle,1/1/22,BRD,102,calf
+Dairy257,Dairy 257,TX,Full Circle,1/1/22,BRD,102.5,calf
+Dairy258,Dairy 258,TX,Full Circle,1/1/22,Healthy,103.1,calf
+Dairy259,Dairy 259,TX,Full Circle,1/1/22,Healthy,102.4,calf
+Dairy26,Dairy 26,IN,Warren,2/20/21,BRD,102.5,calf
+Dairy260,Dairy 260,TX,Full Circle,1/1/22,BRD,105,calf
+Dairy261,Dairy261,TX,Full Circle,1/1/22,Healthy,102.7,calf
+Dairy262,Dairy262,TX,Full Circle,1/1/22,BRD,102.7,calf
+Dairy263,Dairy263,TX,Full Circle,1/1/22,Healthy,101.8,calf
+Dairy264,Dairy264,TX,Full Circle,1/1/22,BRD,102.8,calf
+Dairy265,Dairy265,TX,Full Circle,1/1/22,Healthy,103,calf
+Dairy266,Dairy266,TX,Full Circle,1/1/22,Healthy,102.1,calf
+Dairy267,Dairy267,TX,Full Circle,1/1/22,BRD,104.9,calf
+Dairy268,Dairy268,TX,Full Circle,1/1/22,Healthy,101.9,calf
+Dairy269,Dairy269,TX,Full Circle,1/1/22,Healthy,101.7,calf
+Dairy27,Dairy 27,IN,Warren,2/20/21,BRD,103.2,calf
+Dairy270,Dairy270,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy271,Dairy271,TX,Full Circle,1/1/22,BRD,104.8,calf
+Dairy272,Dairy272,TX,Full Circle,1/1/22,Healthy,102.6,calf
+Dairy273,Dairy273,TX,Full Circle,1/1/22,BRD,103.8,calf
+Dairy274,Dairy274,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy275,Dairy275,TX,Full Circle,1/1/22,Healthy,102.9,calf
+Dairy276,Dairy276,TX,Full Circle,1/1/22,BRD,102.5,calf
+Dairy277,Dairy277,TX,Full Circle,1/1/22,BRD,102.7,calf
+Dairy278,Dairy278,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy279,Dairy279,TX,Full Circle,1/1/22,Healthy,103.2,calf
+Dairy28,Dairy 28,IN,Warren,2/20/21,BRD,102,calf
+Dairy280,Dairy280,TX,Full Circle,1/1/22,BRD,103.8,calf
+Dairy281,Dairy281,TX,Full Circle,1/1/22,Healthy,102.1,calf
+Dairy282,Dairy282,TX,Full Circle,1/1/22,BRD,103,calf
+Dairy283,Dairy283,TX,Full Circle,1/1/22,BRD,103,calf
+Dairy284,Dairy284,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy285,Dairy 285,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy286,Dairy 286,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy287,Dairy 287,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy288,Dairy 288,TX,Full Circle,1/1/22,BRD,102.2,calf
+Dairy289,Dairy 289,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy29,Dairy 29,IN,Warren,2/20/21,BRD,102,calf
+Dairy290,Dairy 290,TX,Full Circle,1/1/22,BRD,101.2,calf
+Dairy291,Dairy 291,TX,Full Circle,1/1/22,Healthy,102.9,calf
+Dairy292,Dairy 292,TX,Full Circle,1/1/22,BRD,101.8,calf
+Dairy293,Dairy 293,TX,Full Circle,1/1/22,Healthy,101.3,calf
+Dairy294,Dairy 294,TX,Full Circle,1/1/22,BRD,101.6,calf
+Dairy295,Dairy 295,TX,Full Circle,1/1/22,BRD,102,calf
+Dairy296,Dairy 296,TX,Full Circle,1/1/22,BRD,102.5,calf
+Dairy298,Dairy 298,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy299,Dairy 299,TX,Full Circle,1/1/22,Healthy,102.8,calf
+Dairy3,Dairy 3,IN,Warren,2/20/21,BRD,100.5,Cow
+Dairy30,Dairy 30,IN,Warren,2/20/21,BRD,103.5,calf
+Dairy300,Dairy 300,TX,Full Circle,1/1/22,BRD,102.4,calf
+Dairy302,Dairy 302,TX,Full Circle,1/1/22,Healthy,101.5,calf
+Dairy303,Dairy 303,TX,Full Circle,1/1/22,BRD,101.2,calf
+Dairy304,Dairy 304,TX,Full Circle,1/1/22,BRD,102.1,calf
+Dairy305,Dairy 305,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy306,Dairy 306,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy307,Dairy 307,TX,Full Circle,1/1/22,BRD,104.3,calf
+Dairy308,Dairy 308,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy309,Dairy 309,TX,Full Circle,1/1/22,BRD,101.7,calf
+Dairy31,Dairy 31,IN,Warren,2/20/21,BRD,103.3,calf
+Dairy310,Dairy 310,TX,Full Circle,1/1/22,Healthy,100.5,calf
+Dairy311,Dairy 311,TX,Full Circle,1/1/22,BRD,102.3,calf
+Dairy312,Dairy 312,TX,Full Circle,1/1/22,Healthy,102.2,calf
+Dairy313,Dairy 313,TX,Full Circle,1/1/22,BRD,102.5,calf
+Dairy314,Dairy 314,TX,Full Circle,1/1/22,BRD,101.1,calf
+Dairy315,Dairy 315,TX,Full Circle,1/1/22,Healthy,101.6,calf
+Dairy317,Dairy 317,CA,Gold Star Cattle,07/14-15/2022,Healthy,104.8,calf
+Dairy318,Dairy 318,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.1,calf
+Dairy320,Dairy 320,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.3,calf
+Dairy321,Dairy 321,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy322,Dairy 322,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.7,calf
+Dairy323,Dairy 323,CA,Gold Star Cattle,07/14-15/2022,Healthy,103,calf
+Dairy324,Dairy 324,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.1,calf
+Dairy325,Dairy 325,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.4,calf
+Dairy326,Dairy 326,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.7,calf
+Dairy327,Dairy 327,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.7,calf
+Dairy328,Dairy 328,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.7,calf
+Dairy329,Dairy 329,CA,Gold Star Cattle,07/14-15/2022,Healthy,103.2,calf
+Dairy33,Dairy 33,IN,Warren,2/20/21,BRD,102.1,calf
+Dairy330,Dairy 330,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.5,calf
+Dairy331,Dairy 331,CA,Gold Star Cattle,07/14-15/2022,Healthy,105.1,calf
+Dairy332,Dairy 332,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.4,calf
+Dairy333,Dairy 333,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.3,calf
+Dairy334,Dairy 334,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.1,calf
+Dairy335,Dairy 335,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.9,calf
+Dairy336,Dairy 336,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy337,Dairy 337,CA,Gold Star Cattle,07/14-15/2022,Healthy,103,calf
+Dairy338,Dairy 338,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.8,calf
+Dairy34,Dairy 34,IN,Warren,2/20/21,BRD,101.4,calf
+Dairy340,Dairy 340,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.5,calf
+Dairy341,Dairy 341,CA,Gold Star Cattle,07/14-15/2022,Healthy,102,calf
+Dairy342,Dairy 342,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.9,calf
+Dairy343,Dairy 343,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.9,calf
+Dairy344,Dairy 344,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.6,calf
+Dairy345,Dairy 345,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy346,Dairy 346,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy347,Dairy 347,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.3,calf
+Dairy348,Dairy 348,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.7,calf
+Dairy349,Dairy 349,CA,Gold Star Cattle,07/14-15/2022,Healthy,103.8,calf
+Dairy35,Dairy 35,IN,Warren,2/20/21,Healthy,102.3,calf
+Dairy351,Dairy 351,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy352,Dairy 352,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.7,calf
+Dairy355,Dairy 355,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.8,calf
+Dairy356,Dairy 356,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.9,calf
+Dairy357,Dairy 357,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.7,calf
+Dairy358,Dairy 358,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.2,calf
+Dairy359,Dairy 359,CA,Gold Star Cattle,07/14-15/2022,Healthy,100.9,calf
+Dairy36,Dairy 36,IN,Warren,2/20/21,BRD,103.3,calf
+Dairy360,Dairy 360,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.4,calf
+Dairy361,Dairy 361,CA,Gold Star Cattle,07/14-15/2022,Healthy,102,calf
+Dairy362,Dairy 362,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.8,calf
+Dairy363,Dairy 363,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.2,calf
+Dairy364,Dairy 364,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.8,calf
+Dairy365,Dairy 365,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.3,calf
+Dairy366,Dairy 366,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.3,calf
+Dairy367,Dairy 367,CA,Gold Star Cattle,07/14-15/2022,Healthy,101.8,calf
+Dairy368,Dairy 368,CA,Gold Star Cattle,07/14-15/2022,BRD,101.2,calf
+Dairy369,Dairy 369,CA,Gold Star Cattle,07/14-15/2022,BRD,101.2,calf
+Dairy37,Dairy 37,IN,Warren,2/20/21,BRD,101.4,calf
+Dairy370,Dairy 370,CA,Gold Star Cattle,07/14-15/2022,BRD,101.2,calf
+Dairy372,Dairy 372,CA,Gold Star Cattle,07/14-15/2022,BRD,100.8,calf
+Dairy373,Dairy 373,CA,Gold Star Cattle,07/14-15/2022,BRD,101.2,calf
+Dairy374,Dairy 374,CA,Gold Star Cattle,07/14-15/2022,BRD,102.9,calf
+Dairy375,Dairy 375,CA,Gold Star Cattle,07/14-15/2022,BRD,101.6,calf
+Dairy376,Dairy 376,CA,Gold Star Cattle,07/14-15/2022,BRD,101.8,calf
+Dairy377,Dairy 377,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy378,Dairy 378,CA,Gold Star Cattle,07/14-15/2022,BRD,101.5,calf
+Dairy379,Dairy 379,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy38,Dairy 38,IN,Warren,2/20/21,Healthy,102.1,calf
+Dairy381,Dairy 381,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy382,Dairy 382,CA,Gold Star Cattle,07/14-15/2022,BRD,105,calf
+Dairy383,Dairy 383,CA,Gold Star Cattle,07/14-15/2022,Healthy,102.1,calf
+Dairy384,Dairy 384,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy385,Dairy 385,CA,Gold Star Cattle,07/14-15/2022,BRD,102.4,calf
+Dairy386,Dairy 386,CA,Gold Star Cattle,07/14-15/2022,BRD,104.3,calf
+Dairy387,Dairy 387,CA,Gold Star Cattle,07/14-15/2022,BRD,102.1,calf
+Dairy388,Dairy 388,CA,Gold Star Cattle,07/14-15/2022,BRD,101.3,calf
+Dairy389,Dairy 389,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy39,Dairy 39,IN,Warren,2/20/21,BRD,101.9,calf
+Dairy390,Dairy 390,CA,Gold Star Cattle,07/14-15/2022,BRD,101.7,calf
+Dairy391,Dairy 391,CA,Gold Star Cattle,07/14-15/2022,BRD,102.5,calf
+Dairy392,Dairy 392,CA,Gold Star Cattle,07/14-15/2022,BRD,102,calf
+Dairy393,Dairy 393,CA,Gold Star Cattle,07/14-15/2022,BRD,102.3,calf
+Dairy394,Dairy 394,CA,Gold Star Cattle,07/14-15/2022,BRD,102.1,calf
+Dairy395,Dairy 395,CA,Gold Star Cattle,07/14-15/2022,BRD,101.7,calf
+Dairy396,Dairy 396,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy398,Dairy 398,CA,Gold Star Cattle,07/14-15/2022,BRD,103,calf
+Dairy399,Dairy 399,CA,Gold Star Cattle,07/14-15/2022,BRD,101.7,calf
+Dairy4,Dairy 4,IN,Warren,2/20/21,Healthy,,calf
+Dairy40,Dairy 40,IN,Warren,2/20/21,Healthy,101.3,calf
+Dairy401,Dairy 401,CA,Gold Star Cattle,07/14-15/2022,BRD,102.2,calf
+Dairy402,Dairy 402,CA,Gold Star Cattle,07/14-15/2022,BRD,101.9,calf
+Dairy403,Dairy 403,CA,Gold Star Cattle,07/14-15/2022,BRD,101.8,calf
+Dairy404,Dairy 404,CA,Gold Star Cattle,07/14-15/2022,BRD,101.7,calf
+Dairy405,Dairy 405,CA,Gold Star Cattle,07/14-15/2022,BRD,97.8,calf
+Dairy406,Dairy 406,CA,Gold Star Cattle,07/14-15/2022,BRD,102.1,calf
+Dairy407,Dairy 407,CA,Gold Star Cattle,07/14-15/2022,BRD,102.7,calf
+Dairy408,Dairy 408,CA,Gold Star Cattle,07/14-15/2022,BRD,102.6,calf
+Dairy409,Dairy 409,CA,Gold Star Cattle,07/14-15/2022,BRD,101.9,calf
+Dairy41,Dairy 41,IN,Warren,2/20/21,Healthy,101.9,calf
+Dairy410,Dairy 410,CA,Gold Star Cattle,07/14-15/2022,BRD,101.5,calf
+Dairy411,Dairy 411,CA,Gold Star Cattle,07/14-15/2022,BRD,102.7,calf
+Dairy412,Dairy 412,CA,Gold Star Cattle,07/14-15/2022,BRD,101.9,calf
+Dairy413,Dairy 413,CA,Gold Star Cattle,07/14-15/2022,BRD,102.4,calf
+Dairy414,Dairy 414,CA,Gold Star Cattle,07/14-15/2022,BRD,103.8,calf
+Dairy415,Dairy 415,CA,Gold Star Cattle,07/14-15/2022,BRD,102.6,calf
+Dairy416,Dairy 416,CA,Gold Star Cattle,07/14-15/2022,BRD,100.6,calf
+Dairy417,Dairy 417,CA,Gold Star Cattle,07/14-15/2022,BRD,101.6,calf
+Dairy418,Dairy 418,CA,Gold Star Cattle,07/14-15/2022,BRD,102.8,calf
+Dairy419,Dairy 419,CA,Gold Star Cattle,07/14-15/2022,BRD,103.3,calf
+Dairy42,Dairy 42,IN,Warren,2/27/21,Healthy,101.8,calf
+Dairy420,Dairy 420,CA,Gold Star Cattle,07/14-15/2022,BRD,102.6,calf
+Dairy421,Dairy 421,CA,Gold Star Cattle,07/14-15/2022,BRD,102.9,calf
+Dairy43,Dairy 43,IN,Warren,2/27/21,Healthy,,calf
+Dairy44,Dairy 44,IN,Warren,2/27/21,Healthy,,calf
+Dairy45,Dairy 45,IN,Warren,2/27/21,Healthy,,calf
+Dairy46,Dairy 46,IN,Warren,2/27/21,Healthy,,calf
+Dairy47,Dairy 47,IN,Warren,2/27/21,BRD,104.5,calf
+Dairy48,Dairy 48,IN,Warren,2/27/21,Healthy,,calf
+Dairy49,Dairy 49,IN,Warren,2/27/21,BRD,103.4,calf
+Dairy5,Dairy 5,IN,Warren,2/20/21,Healthy,101.6,Cow
+Dairy50,Dairy 50,IN,Warren,2/27/21,BRD,102.1,calf
+Dairy51,Dairy 51,IN,Warren,2/27/21,BRD,103.4,calf
+Dairy52,Dairy 52,IN,Warren,2/27/21,Healthy,103.2,calf
+Dairy53,Dairy 53,IN,Warren,2/27/21,BRD,102.7,calf
+Dairy54,Dairy 54,IN,Warren,2/27/21,Healthy,102.6,calf
+Dairy55,Dairy 55,IN,Warren,2/27/21,Healthy,102.8,calf
+Dairy56,Dairy 56,IN,Warren,2/27/21,Healthy,102.7,calf
+Dairy57,Dairy 57,IN,Warren,2/27/21,BRD,102.6,calf
+Dairy58,Dairy 58,IN,Warren,2/27/21,BRD,102.3,calf
+Dairy59,Dairy 59,IN,Warren,2/27/21,Healthy,102.4,calf
+Dairy6,Dairy 6,IN,Warren,2/20/21,BRD,103.2,Cow
+Dairy60,Dairy 60,IN,Warren,2/27/21,BRD,102.3,calf
+Dairy61,Dairy 61,IN,Warren,2/27/21,Healthy,102.6,calf
+Dairy62,Dairy 62,IN,Warren,2/27/21,BRD,102.5,calf
+Dairy63,Dairy 63,IN,Warren,2/27/21,Healthy,103.5,calf
+Dairy65,Dairy 65,IN,Warren,2/27/21,BRD,102.1,calf
+Dairy66,Dairy 66,IN,Warren,2/27/21,Healthy,102.2,calf
+Dairy67,Dairy 67,IN,Warren,2/27/21,Healthy,102.5,calf
+Dairy68,Dairy 68,IN,Warren,2/27/21,BRD,102.3,calf
+Dairy69,Dairy 69,IN,Warren,2/27/21,Healthy,102.3,calf
+Dairy7,Dairy 7,IN,Warren,2/20/21,Healthy,,calf
+Dairy70,Dairy 70,IN,Warren,2/27/21,Healthy,102.8,calf
+Dairy71,Dairy 71,IN,Warren,2/27/21,Healthy,102.3,calf
+Dairy72,Dairy 72,IN,Warren,2/27/21,BRD,103.7,calf
+Dairy73,Dairy 73,IN,Warren,2/27/21,Healthy,101.9,calf
+Dairy74,Dairy 74,IN,Warren,2/27/21,Healthy,102.8,calf
+Dairy75,Dairy 75,IN,Warren,2/27/21,Healthy,102,calf
+Dairy77,Dairy 77,IN,Warren,2/27/21,Healthy,101.9,calf
+Dairy78,Dairy 78,IN,Warren,2/27/21,BRD,101.9,calf
+Dairy79,Dairy 79,IN,Warren,2/27/21,BRD,102.6,calf
+Dairy8,Dairy 8,IN,Warren,2/20/21,BRD,104.3,calf
+Dairy80,Dairy 80,IN,Warren,2/27/21,BRD,102.1,calf
+Dairy81,Dairy 81,IN,Warren,2/27/21,Healthy,101,calf
+Dairy82,Dairy 82,IN,Warren,2/27/21,Healthy,101.4,calf
+Dairy83,Dairy 83,IN,Warren,2/27/21,Healthy,,calf
+Dairy84,Dairy 84,IN,Warren,2/27/21,Healthy,100.9,calf
+Dairy85,Dairy 85,IN,Warren,2/27/21,Healthy,,calf
+Dairy86,Dairy 86,IN,Warren,2/27/21,Healthy,101.6,calf
+Dairy87,Dairy 87,IN,Warren,2/27/21,BRD,101,calf
+Dairy88,Dairy 88,IN,Warren,2/27/21,Healthy,,calf
+Dairy89,Dairy 89,IN,Warren,2/27/21,BRD,103,calf
+Dairy9,Dairy 9,IN,Warren,2/20/21,Healthy,,calf
+Dairy90,Dairy 90,IN,Warren,2/27/21,BRD,102.3,calf
+Dairy91,Dairy 91,IN,Warren,2/27/21,BRD,102.2,calf
+Dairy92,Dairy 92,IN,Warren,2/27/21,Healthy,,calf
+Dairy93,Dairy 93,IN,Warren,2/27/21,Healthy,,calf
+Dairy94,Dairy 94,IN,Warren,2/27/21,Healthy,,calf
+Dairy95,Dairy 95,IN,Warren,2/27/21,Healthy,,calf
+Dairy96,Dairy 96,IN,Warren,2/27/21,Healthy,,calf
+Dairy97,Dairy 97,IN,Warren,2/27/21,Healthy,,calf
+Dairy98,Dairy 98,IN,Warren,2/27/21,BRD,103.6,calf
+Dairy99,Dairy 99,IN,Warren,2/27/21,BRD,102.8,calf

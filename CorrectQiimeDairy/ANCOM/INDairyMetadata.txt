@@ -1,0 +1,98 @@
+ID	cattle	State	Farm	Date_of_colleciton	Status	RectTemp
+#q2:types	categorical	categorical	categorical	categorical	categorical	numeric
+Dairy1	Dairy 1	IN	Warren	2/20/21	BRD	101.7
+Dairy10	Dairy 10	IN	Warren	2/20/21	Healthy	
+Dairy100	Dairy 100	IN	Warren	2/27/21	Healthy	
+Dairy11	Dairy 11	IN	Warren	2/20/21	BRD	103.5
+Dairy12	Dairy 12	IN	Warren	2/20/21	BRD	102.6
+Dairy13	Dairy 13	IN	Warren	2/20/21	Healthy	
+Dairy14	Dairy 14	IN	Warren	2/20/21	BRD	101.8
+Dairy15	Dairy 15	IN	Warren	2/20/21	Healthy	
+Dairy16	Dairy 16	IN	Warren	2/20/21	BRD	102.4
+Dairy17	Dairy 17	IN	Warren	2/20/21	BRD	101.2
+Dairy18	Dairy 18	IN	Warren	2/20/21	BRD	102.7
+Dairy19	Dairy 19	IN	Warren	2/20/21	BRD	102.3
+Dairy20	Dairy 20	IN	Warren	2/20/21	BRD	101.5
+Dairy21	Dairy 21	IN	Warren	2/20/21	BRD	104.1
+Dairy22	Dairy 22	IN	Warren	2/20/21	BRD	102.7
+Dairy23	Dairy 23	IN	Warren	2/20/21	BRD	103
+Dairy24	Dairy 24	IN	Warren	2/20/21	BRD	102.3
+Dairy25	Dairy 25	IN	Warren	2/20/21	BRD	102.4
+Dairy26	Dairy 26	IN	Warren	2/20/21	BRD	102.5
+Dairy27	Dairy 27	IN	Warren	2/20/21	BRD	103.2
+Dairy28	Dairy 28	IN	Warren	2/20/21	BRD	102
+Dairy29	Dairy 29	IN	Warren	2/20/21	BRD	102
+Dairy3	Dairy 3	IN	Warren	2/20/21	BRD	100.5
+Dairy30	Dairy 30	IN	Warren	2/20/21	BRD	103.5
+Dairy31	Dairy 31	IN	Warren	2/20/21	BRD	103.3
+Dairy33	Dairy 33	IN	Warren	2/20/21	BRD	102.1
+Dairy34	Dairy 34	IN	Warren	2/20/21	BRD	101.4
+Dairy35	Dairy 35	IN	Warren	2/20/21	Healthy	102.3
+Dairy36	Dairy 36	IN	Warren	2/20/21	BRD	103.3
+Dairy37	Dairy 37	IN	Warren	2/20/21	BRD	101.4
+Dairy38	Dairy 38	IN	Warren	2/20/21	Healthy	102.1
+Dairy39	Dairy 39	IN	Warren	2/20/21	BRD	101.9
+Dairy4	Dairy 4	IN	Warren	2/20/21	Healthy	
+Dairy40	Dairy 40	IN	Warren	2/20/21	Healthy	101.3
+Dairy41	Dairy 41	IN	Warren	2/20/21	Healthy	101.9
+Dairy42	Dairy 42	IN	Warren	2/27/21	Healthy	101.8
+Dairy43	Dairy 43	IN	Warren	2/27/21	Healthy	
+Dairy44	Dairy 44	IN	Warren	2/27/21	Healthy	
+Dairy45	Dairy 45	IN	Warren	2/27/21	Healthy	
+Dairy46	Dairy 46	IN	Warren	2/27/21	Healthy	
+Dairy47	Dairy 47	IN	Warren	2/27/21	BRD	104.5
+Dairy48	Dairy 48	IN	Warren	2/27/21	Healthy	
+Dairy49	Dairy 49	IN	Warren	2/27/21	BRD	103.4
+Dairy5	Dairy 5	IN	Warren	2/20/21	Healthy	101.6
+Dairy50	Dairy 50	IN	Warren	2/27/21	BRD	102.1
+Dairy51	Dairy 51	IN	Warren	2/27/21	BRD	103.4
+Dairy52	Dairy 52	IN	Warren	2/27/21	Healthy	103.2
+Dairy53	Dairy 53	IN	Warren	2/27/21	BRD	102.7
+Dairy54	Dairy 54	IN	Warren	2/27/21	Healthy	102.6
+Dairy55	Dairy 55	IN	Warren	2/27/21	Healthy	102.8
+Dairy56	Dairy 56	IN	Warren	2/27/21	Healthy	102.7
+Dairy57	Dairy 57	IN	Warren	2/27/21	BRD	102.6
+Dairy58	Dairy 58	IN	Warren	2/27/21	BRD	102.3
+Dairy59	Dairy 59	IN	Warren	2/27/21	Healthy	102.4
+Dairy6	Dairy 6	IN	Warren	2/20/21	BRD	103.2
+Dairy60	Dairy 60	IN	Warren	2/27/21	BRD	102.3
+Dairy61	Dairy 61	IN	Warren	2/27/21	Healthy	102.6
+Dairy62	Dairy 62	IN	Warren	2/27/21	BRD	102.5
+Dairy63	Dairy 63	IN	Warren	2/27/21	Healthy	103.5
+Dairy65	Dairy 65	IN	Warren	2/27/21	BRD	102.1
+Dairy66	Dairy 66	IN	Warren	2/27/21	Healthy	102.2
+Dairy67	Dairy 67	IN	Warren	2/27/21	Healthy	102.5
+Dairy68	Dairy 68	IN	Warren	2/27/21	BRD	102.3
+Dairy69	Dairy 69	IN	Warren	2/27/21	Healthy	102.3
+Dairy7	Dairy 7	IN	Warren	2/20/21	Healthy	
+Dairy70	Dairy 70	IN	Warren	2/27/21	Healthy	102.8
+Dairy71	Dairy 71	IN	Warren	2/27/21	Healthy	102.3
+Dairy72	Dairy 72	IN	Warren	2/27/21	BRD	103.7
+Dairy73	Dairy 73	IN	Warren	2/27/21	Healthy	101.9
+Dairy74	Dairy 74	IN	Warren	2/27/21	Healthy	102.8
+Dairy75	Dairy 75	IN	Warren	2/27/21	Healthy	102
+Dairy77	Dairy 77	IN	Warren	2/27/21	Healthy	101.9
+Dairy78	Dairy 78	IN	Warren	2/27/21	BRD	101.9
+Dairy79	Dairy 79	IN	Warren	2/27/21	BRD	102.6
+Dairy8	Dairy 8	IN	Warren	2/20/21	BRD	104.3
+Dairy80	Dairy 80	IN	Warren	2/27/21	BRD	102.1
+Dairy81	Dairy 81	IN	Warren	2/27/21	Healthy	101
+Dairy82	Dairy 82	IN	Warren	2/27/21	Healthy	101.4
+Dairy83	Dairy 83	IN	Warren	2/27/21	Healthy	
+Dairy84	Dairy 84	IN	Warren	2/27/21	Healthy	100.9
+Dairy85	Dairy 85	IN	Warren	2/27/21	Healthy	
+Dairy86	Dairy 86	IN	Warren	2/27/21	Healthy	101.6
+Dairy87	Dairy 87	IN	Warren	2/27/21	BRD	101
+Dairy88	Dairy 88	IN	Warren	2/27/21	Healthy	
+Dairy89	Dairy 89	IN	Warren	2/27/21	BRD	103
+Dairy9	Dairy 9	IN	Warren	2/20/21	Healthy	
+Dairy90	Dairy 90	IN	Warren	2/27/21	BRD	102.3
+Dairy91	Dairy 91	IN	Warren	2/27/21	BRD	102.2
+Dairy92	Dairy 92	IN	Warren	2/27/21	Healthy	
+Dairy93	Dairy 93	IN	Warren	2/27/21	Healthy	
+Dairy94	Dairy 94	IN	Warren	2/27/21	Healthy	
+Dairy95	Dairy 95	IN	Warren	2/27/21	Healthy	
+Dairy96	Dairy 96	IN	Warren	2/27/21	Healthy	
+Dairy97	Dairy 97	IN	Warren	2/27/21	Healthy	
+Dairy98	Dairy 98	IN	Warren	2/27/21	BRD	103.6
+Dairy99	Dairy 99	IN	Warren	2/27/21	BRD	102.8
