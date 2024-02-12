@@ -1,0 +1,71 @@
+srun -N 1 --tasks-per-node=8 -t 10:00:00 -A microbiome -I --pty /bin/bash
+sinteractive -A highmem -N2 -n128 -t 10:00:00
+sinteractive -A john2185 -t 6:00:00 -N4 -n80 #new command Getting set upYou will need the necessary modules to run qiimemodule load bioinfo module load mothurmothur  make.file(inputdir=., type=gz, prefix=ControlDairy.stability)CHANGe the first row to (use “Tab” to separate it)sample-id   forward-absolute-filepath       reverse-absolute-filepathTo look at the MANIFESTfilemodule load Qiime/2-2022.8module listsilva-138-99-515-806-nb-classifier.qza
+qiime tools import \--type 'SampleData[PairedEndSequencesWithQuality]' \--input-path BRDBeef.stability.files \--input-format PairedEndFastqManifestPhred33V2 \--output-path ./Qiime_new/demux-paired-end.qzaqiime demux summarize \  --i-data ./Qiime_new/demux-paired-end.qza \  --o-visualization ./Qiime_new/demux-paired-end.qzv
+
+#before deoinsing: 22198779Denoising stepTotal features:340073Total sequences 22198779Samples: 405qiime dada2 denoise-paired \  --i-demultiplexed-seqs ./Qiime_new/demux-paired-end.qza \  --p-trim-left-f 0 \  --p-trim-left-r 0 \  --p-trunc-len-f 0 \  --p-trunc-len-r 238 \  --o-table ./Qiime_new/table2.qza \  --o-representative-sequences ./Qiime_new/rep-seqs2.qza \  --o-denoising-stats ./Qiime_new/denoising-stats2.qzaFeatureTable and FeatureData summariesqiime feature-table summarize \  --i-table ./Qiime_new/table2.qza \  --o-visualization ./Qiime_new/table2.qzv \  --m-sample-metadata-file BRDBigMetadataDairy.txt#after denoising #samples 405# number of features 12,072
+#total frequency 18,312,880qiime feature-table tabulate-seqs \  --i-data ./Qiime_new/rep-seqs2.qza \  --o-visualization ./Qiime_new/rep-seqs2.qzv qiime metadata tabulate \  --m-input-file ./Qiime_new/denoising-stats2.qza \  --o-visualization ./Qiime_new/denoising-stats2.qzv##Generating the phylogenetic treeqiime phylogeny align-to-tree-mafft-fasttree \  --i-sequences ./Qiime_new/rep-seqs2.qza \  --o-alignment ./Qiime_new/aligned-rep-seqs.qza \  --o-masked-alignment ./Qiime_new/masked-aligned-rep-seqs.qza \  --o-tree ./Qiime_new/unrooted-tree.qza \  --o-rooted-tree ./Qiime_new/rooted-tree.qza qiime diversity alpha-rarefaction \  --i-table ./Qiime_new/table2.qza \  --i-phylogeny ./Qiime_new/rooted-tree.qza \  --p-max-depth 10589 \  --m-metadata-file BRDBigMetadataDairy.txt   \  --o-visualization ./Qiime_new/alpha-rarefaction-10589.qzvqiime diversity core-metrics-phylogenetic \  --i-phylogeny ./Qiime_new/rooted-tree.qza \  --i-table ./Qiime_new/table2.qza \  --p-sampling-depth 12237 \  --m-metadata-file BRDBigMetadataDairy.txt \  --output-dir ./Qiime_new/core-metrics-result
+
+qiime feature-table summarize \  --i-table ./Qiime_new/core-metrics-results/rarefied_table.qza \  --o-visualization ./Qiime_new/core-metrics-results/rarefied_table.qzv \  --m-sample-metadata-file BRDBigMetadataDairy.txtQ#380 samples after rarefying
+#number of features 10,939
+#total frequency 4,942,660Taxonomic analysisqiime feature-classifier classify-sklearn \  --i-classifier silva-138-99-515-806-nb-classifier.qza \  --i-reads ./Qiime_new/rep-seqs2.qza \  --o-classification ./Qiime_new/taxonomy.qzaqiime metadata tabulate \  --m-input-file ./Qiime_new/taxonomy.qza \  --o-visualization ./Qiime_new/taxonomy.qzvqiime taxa barplot \
+  --i-table ./Qiime_new/table2.qza \
+  --i-taxonomy ./Qiime_new/taxonomy.qza \
+  --m-metadata-file BRDBigMetadataDairy.txt \
+  --o-visualization taxa-barplotDairy.qzv## Export the documents from the cluster to the computerqiime tools export --input-path ./Qiime_new/taxonomy.qza --output-path ./Qiime_new/You are in core-metric-results-2 directory ls
+qiime tools export --input-path ./rarefied_table.qza --output-path exported/qiime tools export --input-path ./faith_pd_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/faith_pd.tsvqiime tools export --input-path ./shannon_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/shannon.tsvqiime tools export --input-path ./observed_otus_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/observed_otus.tsvls exportedqiime tools export --input-path ./evenness_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/evenness.tsvbiom convert -i exported/feature-table.biom -o exported/rarified-table.tsv --to-tsvExport beta diversity, you have to move to the Dairy directoryqiime tools export \  --input-path ./Qiime_new/core-metrics-results/unweighted_unifrac_pcoa_results.qza \  --output-path ./Qiime_new/core-metrics-results/exported-unweighted_unifracmv ./Qiime_new/core-metrics-results/exported-unweighted_unifrac/ordination.txt ./Qiime_new/core-metrics-results/exported-unweighted_unifrac/ordination_unweighted.txtqiime tools export \  --input-path ./Qiime_new/core-metrics-results/bray_curtis_pcoa_results.qza \  --output-path ./Qiime_new/core-metrics-results/exported-bray_curtismv ./Qiime_new/core-metrics-results/exported-bray_curtis/ordination.txt ./Qiime_new/core-metrics-results/exported-bray_curtis/ordination_braycurtis.txtqiime tools export \  --input-path ./Qiime_new/core-metrics-results/weighted_unifrac_pcoa_results.qza \  --output-path ./Qiime_new/core-metrics-results/exported-weighted_unifracmv ./Qiime_new/core-metrics-results/exported-weighted_unifrac/ordination.txt ./Qiime_new/core-metrics-results/exported-weighted_unifrac/ordination_weighted.txtqiime tools export \  --input-path ./Qiime_new/core-metrics-results/weighted_unifrac_distance_matrix.qza \  --output-path ./Qiime_new/core-metrics-results/exported-weighted_distancemv ./Qiime_new/core-metrics-results/exported-weighted_distance/distance-matrix.tsv ./Qiime_new/core-metrics-results/exported-weighted_distance/weighted-distance-matrix.tsv#### Removing Pseudoalteromonas and Vibrio from the data### Revoming the Pseudoalteromonas from the samplesqiime taxa filter-table \     --i-table ./Qiime_new/table2.qza \     --i-taxonomy ./Qiime_new/taxonomy.qza \     --p-mode exact \     --p-exclude "D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Alteromonadales;D_4__Pseudoalteromonadaceae;D_5__Pseudoalteromonas" \     --o-filtered-table ./Qiime_new/table-no-pseudo.qza## Creating the new table.qza fileqiime feature-table summarize \  --i-table ./Qiime_new/table-no-pseudo.qza \  --o-visualization ./Qiime_new/table-no-pseudo.qzv \  --m-sample-metadata-file BRDBigMetadataDairy.txt#number of samples 402
+# number of features 12,051
+# total frequency 17,043,985## Filtering the representative sequences##You need to download first the taxonomy metadata because the ID it’s going to be use for the filtering step## The id for Pseudoalteromonasqiime taxa filter-seqs \  --i-sequences ./Qiime_new/rep-seqs2.qza \  --i-taxonomy ./Qiime_new/taxonomy.qza \  --p-exclude "D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Alteromonadales;D_4__Pseudoalteromonadaceae;D_5__Pseudoalteromonas" \  --o-filtered-sequences ./Qiime_new/rep-seqs-nopseudo.qzaqiime feature-table tabulate-seqs \  --i-data ./Qiime_new/rep-seqs-nopseudo.qza\  --o-visualization ./Qiime_new/rep-seqs-nopseudo.qzvqiime phylogeny align-to-tree-mafft-fasttree \  --i-sequences ./Qiime_new/rep-seqs-nopseudo.qza \  --o-alignment ./Qiime_filtered/aligned-rep-seqs.qza \  --o-masked-alignment ./Qiime_filtered/masked-aligned-rep-seqs.qza \  --o-tree ./Qiime_filtered/unrooted-tree.qza \  --o-rooted-tree ./Qiime_filtered/rooted-tree.qzaqiime taxa barplot \
+  --i-table ./Qiime_new/table-no-pseudo.qza \
+  --i-taxonomy ./Qiime_new/taxonomy.qza \
+  --m-metadata-file BRDBigMetadataDairy.txt \
+  --o-visualization ./Qiime_filtered/taxa-barplotDairyNPseudo.qzvTest the rarefaction number before removing pseudo 12237
+New rarefaction 12312qiime diversity alpha-rarefaction \  --i-table ./Qiime_new/table-no-pseudo.qza \  --i-phylogeny ./Qiime_filtered/rooted-tree.qza \  --p-max-depth 12312 \  --m-metadata-file BRDBigMetadataDairy.txt \  --o-visualization ./Qiime_filtered/alpha-rarefactionNPseudo-12312.qzv### Rarefying at 1897qiime diversity core-metrics-phylogenetic \  --i-phylogeny ./Qiime_filtered/rooted-tree.qza \  --i-table ./Qiime_new/table-no-pseudo.qza \  --p-sampling-depth 12312 \  --m-metadata-file BRDBigMetadataDairy.txt  \  --output-dir ./Qiime_filtered/core-metrics-results## Creating the new table.qza fileqiime feature-table summarize \  --i-table ./Qiime_filtered/core-metrics-results/rarefied_table.qza \  --o-visualization ./Qiime_filtered/core-metrics-results/rarefiedFiltered_table.qzv \  --m-sample-metadata-file BRDBigMetadataDairy.txtYou are in core-metric-results directoryqiime tools export --input-path ./rarefied_table.qza --output-path exported/qiime tools export --input-path ./faith_pd_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/faith_pd.tsvqiime tools export --input-path ./shannon_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/shannon.tsvls exportedbiom convert -i exported/feature-table.biom -o exported/rarified-table.tsv --to-tsvqiime tools export --input-path observed_otus_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/observed_otus.tsvqiime tools export --input-path evenness_vector.qza --output-path exported/mv exported/alpha-diversity.tsv exported/evenness.tsvqiime tools export --input-path ./Qiime_filtered/taxonomy.qza --output-path ./Qiime_filtered/#exporting beta diversity resultsqiime tools export \  --input-path ./Qiime_filtered/core-metrics-results/unweighted_unifrac_pcoa_results.qza \  --output-path ./Qiime_filtered/core-metrics-results/exported-unweighted_unifracmv ./Qiime_filtered/core-metrics-results/exported-unweighted_unifrac/ordination.txt ./Qiime_filtered/core-metrics-results/exported-unweighted_unifrac/ordination_unweighted.txtqiime tools export \  --input-path ./Qiime_filtered/core-metrics-results/bray_curtis_pcoa_results.qza \  --output-path ./Qiime_filtered/core-metrics-results/exported-bray_curtismv ./Qiime_filtered/core-metrics-results/exported-bray_curtis/ordination.txt ./Qiime_filtered/core-metrics-results/exported-bray_curtis/ordination_braycurtis.txtqiime tools export \  --input-path ./Qiime_filtered/core-metrics-results/weighted_unifrac_pcoa_results.qza \  --output-path ./Qiime_filtered/core-metrics-results/exported-weighted_unifracmv ./Qiime_filtered/core-metrics-results/exported-weighted_unifrac/ordination.txt ./Qiime_filtered/core-metrics-results/exported-weighted_unifrac/ordination_weighted.txtqiime tools export \  --input-path ./Qiime_filtered/core-metrics-results/weighted_unifrac_distance_matrix.qza \  --output-path ./Qiime_filtered/core-metrics-results/exported-weighted_distancemv ./Qiime_filtered/core-metrics-results/exported-weighted_distance/distance-matrix.tsv ./Qiime_filtered/core-metrics-results/exported-weighted_distance/weighted-distance-matrix.tsvqiime tools export \  --input-path ./Qiime_filtered/core-metrics-results/bray_curtis_distance_matrix.qza \  --output-path ./Qiime_filtered/core-metrics-results/exported-bray_curtis_distancemv ./Qiime_filtered/core-metrics-results/exported-bray_curtis_distance/distance-matrix.tsv ./Qiime_filtered/core-metrics-results/exported-bray_curtis_distance/bray_curtis-distance-matrix.tsvTaxonomic analysisqiime feature-classifier classify-sklearn \  --i-classifier silva-138-99-515-806-nb-classifier.qza \  --i-reads ./Qiime_new/rep-seqs-nopseudo.qza \  --o-classification ./Qiime_filtered/taxonomy2.qzaqiime metadata tabulate \  --m-input-file ./Qiime_filtered/taxonomy2.qza \  --o-visualization ./Qiime_filtered/taxonomy2.qzvqiime taxa barplot \  --i-table ./Qiime_new/table-no-pseudo.qza \  --i-taxonomy ./Qiime_filtered/taxonomy2.qza \  --m-metadata-file BRDBigMetadataDairy.txt \  --o-visualization ./Qiime_filtered/taxa-bar-plots2.qzv## Getting Chao1qiime diversity alpha \--i-table ./Qiime_filtered/core-metrics-results/rarefied_table.qza \--p-metric chao1 \--o-alpha-diversity ./Qiime_filtered/chao1.qzaqiime tools export --input-path ./chao1.qza --output-path ./core-metrics-results/exported/mv alpha-diversity.tsv chao1.tsv####Let's do ANCOM
+You need the table.qza, this file Is in Qiime_new-- table-no-pseudo.qza within the Dairy directory
+
+#first we need to creare a featureTable composition which is based on frequencies of features on a per-sample bases, but cannot tolerate zeros
+
+#adjust compositional data with no zeros
+biom convert -i DairyNewASVTableFiltered.tsv -o DairyNewASVTableFiltered.biom --to-hdf5
+
+qiime tools import \
+--input-path DairyNewASVTableFiltered.biom \
+--type 'FeatureTable[Frequency]' \
+--input-format BIOMV210Format \
+--output-path DairyNewASVTableFiltered.qza
+
+qiime composition add-pseudocount \
+  --i-table DairyNewASVTableFiltered.qza \
+  --o-composition-table ./ANCOM/comp-DairyNewASVTableFiltered.qza
+
+Run ANCOM
+
+qiime composition ancom \
+  --i-table ./ANCOM/comp-DairyNewASVTableFiltered.qza \
+  --m-metadata-file BRDBigMetadataDairy2.txt \
+  --m-metadata-column Status \
+  --o-visualization ./ANCOM/ancom-DairyStatus.qzv
+
+##Now let's try ANCOM for every state
+NYDairyMetadata.txt
+NY_OTUDairyMetadata.tsv#adjust compositional data with no zeros
+biom convert -i NY_OTUDairyMetadata.tsv -o NY_OTUDairyMetadata.biom --to-hdf5
+
+qiime tools import \
+--input-path NY_OTUDairyMetadata.biom \
+--type 'FeatureTable[Frequency]' \
+--input-format BIOMV210Format \
+--output-path NY_OTUDairyMetadata.qza
+
+qiime composition add-pseudocount \
+  --i-table NY_OTUDairyMetadata.qza \
+  --o-composition-table ./ANCOM/comp-NY_OTUDairyMetadata.qza
+
+Run ANCOM
+
+qiime composition ancom \
+  --i-table ./ANCOM/comp-NY_OTUDairyMetadata.qza \
+  --m-metadata-file NYDairyMetadata.txt \
+  --m-metadata-column Status \
+  --o-visualization ./ANCOM/ancom-NYDairyStatus.qzv
+
