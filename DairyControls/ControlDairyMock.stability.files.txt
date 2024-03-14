@@ -1,7 +1,0 @@
-sample-id	forward-absolute-filepath	reverse-absolute-filepath
-Mock1	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062083_Mock_S221_run963_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062083_Mock_S221_run963_L001_R2_001.fastq.gz
-Mock2	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062372_Mock_S180_run966_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062372_Mock_S180_run966_L001_R2_001.fastq.gz
-Mock3	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062578_Mock_S160_run970_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/062578_Mock_S160_run970_L001_R2_001.fastq.gz
-Mock4	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064211_Mock_S14_run979_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064211_Mock_S14_run979_L001_R2_001.fastq.gz
-Mock5	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064211_Mock_S90_run981_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064211_Mock_S90_run981_L001_R2_001.fastq.gz
-Mock6	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064446_Mock_S61_run977_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CDairy/064446_Mock_S61_run977_L001_R2_001.fastq.gz

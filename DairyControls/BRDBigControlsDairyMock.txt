@@ -1,8 +1,0 @@
-ID	Sample
-#q2:types	categorical
-Mock1	Mock
-Mock2	Mock
-Mock3	Mock
-Mock4	Mock
-Mock5	Mock
-Mock6	Mock
