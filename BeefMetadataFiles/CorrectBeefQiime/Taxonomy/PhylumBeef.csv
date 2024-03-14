@@ -1,0 +1,9 @@
+Phylum,Status,Abundance.average,overall.max,
+Proteobacteria,BRD,0.538553834,0.538553834,0.513837626
+Proteobacteria,Healthy,0.489121418,0.489121418,
+Firmicutes,Healthy,0.235849399,0.235849399,0.2283916
+Firmicutes,BRD,0.2209338,0.2209338,
+Bacteroidota,Healthy,0.125085325,0.125085325,0.122947165
+Bacteroidota,BRD,0.120809004,0.120809004,
+Actinobacteriota,Healthy,0.1063651,0.1063651,0.09421456
+Actinobacteriota,BRD,0.08206402,0.08206402,
