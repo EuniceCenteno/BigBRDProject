@@ -1,0 +1,19 @@
+Feature ID,Taxon,Confidence
+0a3cf58d4ca062c13d42c9db4ebcbc53,d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Chloroplast; f__Chloroplast; g__Chloroplast,1
+2062f74bdf83cca79cf257dad01e9f8d,d__Bacteria; p__Firmicutes; c__Bacilli; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__Mycoplasmopsis_agalactiae,0.771612914
+49a2ea7eebe52a4aed8f3126b7f72570,d__Bacteria; p__Firmicutes; c__Clostridia; o__Oscillospirales; f__Ruminococcaceae; g__uncultured; s__metagenome,0.995435137
+61f1d9a3037f7c631557b0ea29d56748,d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Chloroplast; f__Chloroplast; g__Chloroplast,1
+6db820962a5bf3ba7e0fe7f3f9dcc994,d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__Fusobacterium_necrophorum,0.993561533
+77ab08d5a6dd105c410f5ad0cc44af42,d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Mitochondria; g__Mitochondria; s__Rhynchosporium_secalis,0.999999099
+7bcec546566b5225f0ef0ff9756907b4,d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Caviibacter,0.999902788
+7dd762af95c64a7acec293770f46a3e2,d__Bacteria; p__Actinobacteriota; c__Actinobacteria; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_marinum,0.94608
+8edbbd91126fad42e254b6b0e7b41eb2,d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridia_vadinBB60_group; f__Clostridia_vadinBB60_group; g__Clostridia_vadinBB60_group; s__uncultured_bacterium,0.706758763
+9a28ed365ba6ab55b734ba42ce6f5936,d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__uncultured_Bacteroides,0.993301366
+9dfe64806b88cf1618e67976ec05d2b2,d__Bacteria; p__Actinobacteriota; c__Actinobacteria; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium,0.999625542
+9eab7a1249300ee6e9757c224201f94d,d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas; s__uncultured_organism,0.745415744
+a3f867963f3fd1535eb680ad485484ec,d__Bacteria; p__Firmicutes; c__Clostridia; o__Oscillospirales; f__Ruminococcaceae; g__Incertae_Sedis,0.999854302
+aaf0fdbbfb1b9a203cc93ac74090e5ba,d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium,0.999999638
+b165eef2ac83e1616fd2aebca635c0c5,d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Weeksellaceae; g__Bergeyella; s__uncultured_Bergeyella,0.988893538
+ca3e0de76e3cc9a192c40db0b9a4e7ec,d__Bacteria; p__Actinobacteriota; c__Actinobacteria; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium; s__Corynebacterium_maris,0.999990078
+ce7259b9e793f652dba0589910ba9e55,d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Chloroplast; f__Chloroplast; g__Chloroplast; s__Cinnamomum_camphora,0.774967021
+d231e3c35a3c54d304881accb5d0f9a7,d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Eggerthellaceae,0.999999946

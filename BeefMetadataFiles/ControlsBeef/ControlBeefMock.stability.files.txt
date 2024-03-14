@@ -1,0 +1,7 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+Mock1	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059128_Mock_S252_run942_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059128_Mock_S252_run942_L001_R2_001.fastq.gz
+Mock2	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059269_Mock_S101_run943_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059269_Mock_S101_run943_L001_R2_001.fastq.gz
+Mock3	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059269_Mock_S86_run944_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059269_Mock_S86_run944_L001_R2_001.fastq.gz
+Mock4	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059382_Mock_S107_run945_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/059382_Mock_S107_run945_L001_R2_001.fastq.gz
+Mock6	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/064122_Mock_S11_run980_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/064122_Mock_S11_run980_L001_R2_001.fastq.gz
+Mock5	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/064443_Mock_S152_run983_L001_R1_001.fastq.gz	/depot/john2185/data/eunice/BigBRD/Controls/CBeef/064443_Mock_S152_run983_L001_R2_001.fastq.gz
