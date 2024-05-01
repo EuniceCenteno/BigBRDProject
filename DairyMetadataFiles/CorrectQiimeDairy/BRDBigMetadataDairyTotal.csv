@@ -1,0 +1,1841 @@
+ID,State,Farm,Date_of_colleciton,Status,RectTemp,Name,value,alpha,animal
+Dairy317,CA,Farm2,07/14-15/2022,Healthy,104.8,Dairy 317,0.563546879,Pielou_e,calf
+Dairy318,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 318,0.535128853,Pielou_e,calf
+Dairy320,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 320,0.470796946,Pielou_e,calf
+Dairy321,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 321,0.751928811,Pielou_e,calf
+Dairy322,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 322,0.406224184,Pielou_e,calf
+Dairy323,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 323,0.669985581,Pielou_e,calf
+Dairy324,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 324,0.556989747,Pielou_e,calf
+Dairy325,CA,Farm2,07/14-15/2022,Healthy,102.4,Dairy 325,0.322860894,Pielou_e,calf
+Dairy326,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 326,0.553546201,Pielou_e,calf
+Dairy327,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 327,0.372724052,Pielou_e,calf
+Dairy328,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 328,0.602762034,Pielou_e,calf
+Dairy329,CA,Farm2,07/14-15/2022,Healthy,103.2,Dairy 329,0.619157979,Pielou_e,calf
+Dairy330,CA,Farm2,07/14-15/2022,Healthy,101.5,Dairy 330,0.632206105,Pielou_e,calf
+Dairy331,CA,Farm2,07/14-15/2022,Healthy,105.1,Dairy 331,0.657694512,Pielou_e,calf
+Dairy332,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 332,0.529243268,Pielou_e,calf
+Dairy333,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 333,0.556621311,Pielou_e,calf
+Dairy334,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 334,0.629686373,Pielou_e,calf
+Dairy335,CA,Farm2,07/14-15/2022,Healthy,102.9,Dairy 335,0.379067159,Pielou_e,calf
+Dairy336,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 336,0.359172242,Pielou_e,calf
+Dairy337,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 337,0.604844616,Pielou_e,calf
+Dairy338,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 338,0.708021103,Pielou_e,calf
+Dairy340,CA,Farm2,07/14-15/2022,Healthy,102.5,Dairy 340,0.579724039,Pielou_e,calf
+Dairy341,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 341,0.627284991,Pielou_e,calf
+Dairy342,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 342,0.518088901,Pielou_e,calf
+Dairy343,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 343,0.46869803,Pielou_e,calf
+Dairy344,CA,Farm2,07/14-15/2022,Healthy,102.6,Dairy 344,0.446619348,Pielou_e,calf
+Dairy345,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 345,0.383313193,Pielou_e,calf
+Dairy346,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 346,0.627747725,Pielou_e,calf
+Dairy347,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 347,0.350811248,Pielou_e,calf
+Dairy348,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 348,0.361509363,Pielou_e,calf
+Dairy349,CA,Farm2,07/14-15/2022,Healthy,103.8,Dairy 349,0.776787843,Pielou_e,calf
+Dairy351,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 351,0.734830606,Pielou_e,calf
+Dairy355,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 355,0.545957518,Pielou_e,calf
+Dairy356,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 356,0.64233106,Pielou_e,calf
+Dairy357,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 357,0.545186505,Pielou_e,calf
+Dairy358,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 358,0.430323127,Pielou_e,calf
+Dairy359,CA,Farm2,07/14-15/2022,Healthy,100.9,Dairy 359,0.700274375,Pielou_e,calf
+Dairy360,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 360,0.566086053,Pielou_e,calf
+Dairy361,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 361,0.322390765,Pielou_e,calf
+Dairy362,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 362,0.577132689,Pielou_e,calf
+Dairy363,CA,Farm2,07/14-15/2022,Healthy,101.2,Dairy 363,0.57980741,Pielou_e,calf
+Dairy364,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 364,0.723091615,Pielou_e,calf
+Dairy365,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 365,0.660845019,Pielou_e,calf
+Dairy366,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 366,0.347129174,Pielou_e,calf
+Dairy367,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 367,0.663536306,Pielou_e,calf
+Dairy368,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 368,0.526086055,Pielou_e,calf
+Dairy369,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 369,0.603288993,Pielou_e,calf
+Dairy370,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 370,0.647569173,Pielou_e,calf
+Dairy372,CA,Farm2,07/14-15/2022,BRD,100.8,Dairy 372,0.691517595,Pielou_e,calf
+Dairy373,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 373,0.73117042,Pielou_e,calf
+Dairy374,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 374,0.615384945,Pielou_e,calf
+Dairy375,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 375,0.620882459,Pielou_e,calf
+Dairy376,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 376,0.471808365,Pielou_e,calf
+Dairy377,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 377,0.622319321,Pielou_e,calf
+Dairy378,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 378,0.420665056,Pielou_e,calf
+Dairy379,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 379,0.670079472,Pielou_e,calf
+Dairy381,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 381,0.579143185,Pielou_e,calf
+Dairy382,CA,Farm2,07/14-15/2022,BRD,105,Dairy 382,0.477219688,Pielou_e,calf
+Dairy383,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 383,0.68574657,Pielou_e,calf
+Dairy384,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 384,0.585988974,Pielou_e,calf
+Dairy385,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 385,0.603900495,Pielou_e,calf
+Dairy386,CA,Farm2,07/14-15/2022,BRD,104.3,Dairy 386,0.568206183,Pielou_e,calf
+Dairy387,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 387,0.499791339,Pielou_e,calf
+Dairy388,CA,Farm2,07/14-15/2022,BRD,101.3,Dairy 388,0.652957882,Pielou_e,calf
+Dairy389,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 389,0.55049743,Pielou_e,calf
+Dairy390,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 390,0.714656985,Pielou_e,calf
+Dairy391,CA,Farm2,07/14-15/2022,BRD,102.5,Dairy 391,0.51105276,Pielou_e,calf
+Dairy392,CA,Farm2,07/14-15/2022,BRD,102,Dairy 392,0.578621961,Pielou_e,calf
+Dairy393,CA,Farm2,07/14-15/2022,BRD,102.3,Dairy 393,0.461197018,Pielou_e,calf
+Dairy394,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 394,0.612311684,Pielou_e,calf
+Dairy395,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 395,0.564441878,Pielou_e,calf
+Dairy396,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 396,0.660604454,Pielou_e,calf
+Dairy398,CA,Farm2,07/14-15/2022,BRD,103,Dairy 398,0.635344063,Pielou_e,calf
+Dairy401,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 401,0.585572966,Pielou_e,calf
+Dairy402,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 402,0.652169725,Pielou_e,calf
+Dairy403,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 403,0.53374663,Pielou_e,calf
+Dairy404,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 404,0.645144071,Pielou_e,calf
+Dairy405,CA,Farm2,07/14-15/2022,BRD,97.8,Dairy 405,0.357330117,Pielou_e,calf
+Dairy406,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 406,0.64584641,Pielou_e,calf
+Dairy407,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 407,0.525565211,Pielou_e,calf
+Dairy408,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 408,0.470083213,Pielou_e,calf
+Dairy409,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 409,0.624190377,Pielou_e,calf
+Dairy410,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 410,0.660562729,Pielou_e,calf
+Dairy411,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 411,0.594304358,Pielou_e,calf
+Dairy412,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 412,0.641344083,Pielou_e,calf
+Dairy413,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 413,0.650005978,Pielou_e,calf
+Dairy414,CA,Farm2,07/14-15/2022,BRD,103.8,Dairy 414,0.451723661,Pielou_e,calf
+Dairy415,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 415,0.638034176,Pielou_e,calf
+Dairy416,CA,Farm2,07/14-15/2022,BRD,100.6,Dairy 416,0.767653641,Pielou_e,calf
+Dairy417,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 417,0.634255732,Pielou_e,calf
+Dairy418,CA,Farm2,07/14-15/2022,BRD,102.8,Dairy 418,0.574689023,Pielou_e,calf
+Dairy419,CA,Farm2,07/14-15/2022,BRD,103.3,Dairy 419,0.642201868,Pielou_e,calf
+Dairy420,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 420,0.649726177,Pielou_e,calf
+Dairy421,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 421,0.583832897,Pielou_e,calf
+Dairy1,IN,Farm5,2/20/21,BRD,101.7,Dairy 1,0.612229618,Pielou_e,calf
+Dairy100,IN,Farm5,2/27/21,Healthy,,Dairy 100,0.388888086,Pielou_e,calf
+Dairy12,IN,Farm5,2/20/21,BRD,102.6,Dairy 12,0.700222869,Pielou_e,calf
+Dairy13,IN,Farm5,2/20/21,Healthy,,Dairy 13,0.583970676,Pielou_e,Cow
+Dairy14,IN,Farm5,2/20/21,BRD,101.8,Dairy 14,0.725877802,Pielou_e,Cow
+Dairy15,IN,Farm5,2/20/21,Healthy,,Dairy 15,0.587356777,Pielou_e,calf
+Dairy16,IN,Farm5,2/20/21,BRD,102.4,Dairy 16,0.392911966,Pielou_e,calf
+Dairy17,IN,Farm5,2/20/21,BRD,101.2,Dairy 17,0.77076772,Pielou_e,calf
+Dairy18,IN,Farm5,2/20/21,BRD,102.7,Dairy 18,0.587021672,Pielou_e,calf
+Dairy19,IN,Farm5,2/20/21,BRD,102.3,Dairy 19,0.51320923,Pielou_e,calf
+Dairy20,IN,Farm5,2/20/21,BRD,101.5,Dairy 20,0.599084007,Pielou_e,calf
+Dairy21,IN,Farm5,2/20/21,BRD,104.1,Dairy 21,0.447008921,Pielou_e,calf
+Dairy22,IN,Farm5,2/20/21,BRD,102.7,Dairy 22,0.463655666,Pielou_e,calf
+Dairy23,IN,Farm5,2/20/21,BRD,103,Dairy 23,0.41836157,Pielou_e,calf
+Dairy24,IN,Farm5,2/20/21,BRD,102.3,Dairy 24,0.508043062,Pielou_e,calf
+Dairy25,IN,Farm5,2/20/21,BRD,102.4,Dairy 25,0.490087641,Pielou_e,calf
+Dairy26,IN,Farm5,2/20/21,BRD,102.5,Dairy 26,0.594846534,Pielou_e,calf
+Dairy27,IN,Farm5,2/20/21,BRD,103.2,Dairy 27,0.606466505,Pielou_e,calf
+Dairy28,IN,Farm5,2/20/21,BRD,102,Dairy 28,0.398593837,Pielou_e,calf
+Dairy29,IN,Farm5,2/20/21,BRD,102,Dairy 29,0.481120272,Pielou_e,calf
+Dairy3,IN,Farm5,2/20/21,BRD,100.5,Dairy 3,0.506932183,Pielou_e,Cow
+Dairy30,IN,Farm5,2/20/21,BRD,103.5,Dairy 30,0.618706937,Pielou_e,calf
+Dairy31,IN,Farm5,2/20/21,BRD,103.3,Dairy 31,0.388909108,Pielou_e,calf
+Dairy33,IN,Farm5,2/20/21,BRD,102.1,Dairy 33,0.308409498,Pielou_e,calf
+Dairy34,IN,Farm5,2/20/21,BRD,101.4,Dairy 34,0.463939207,Pielou_e,calf
+Dairy35,IN,Farm5,2/20/21,Healthy,102.3,Dairy 35,0.352792235,Pielou_e,calf
+Dairy36,IN,Farm5,2/20/21,BRD,103.3,Dairy 36,0.43244718,Pielou_e,calf
+Dairy38,IN,Farm5,2/20/21,Healthy,102.1,Dairy 38,0.759585207,Pielou_e,calf
+Dairy39,IN,Farm5,2/20/21,BRD,101.9,Dairy 39,0.43009688,Pielou_e,calf
+Dairy4,IN,Farm5,2/20/21,Healthy,,Dairy 4,0.621704762,Pielou_e,calf
+Dairy40,IN,Farm5,2/20/21,Healthy,101.3,Dairy 40,0.651349405,Pielou_e,calf
+Dairy41,IN,Farm5,2/20/21,Healthy,101.9,Dairy 41,0.397122385,Pielou_e,calf
+Dairy42,IN,Farm5,2/27/21,Healthy,101.8,Dairy 42,0.395382311,Pielou_e,calf
+Dairy43,IN,Farm5,2/27/21,Healthy,,Dairy 43,0.519532282,Pielou_e,calf
+Dairy44,IN,Farm5,2/27/21,Healthy,,Dairy 44,0.436110892,Pielou_e,calf
+Dairy45,IN,Farm5,2/27/21,Healthy,,Dairy 45,0.642530542,Pielou_e,calf
+Dairy46,IN,Farm5,2/27/21,Healthy,,Dairy 46,0.537738111,Pielou_e,calf
+Dairy47,IN,Farm5,2/27/21,BRD,104.5,Dairy 47,0.536856118,Pielou_e,calf
+Dairy48,IN,Farm5,2/27/21,Healthy,,Dairy 48,0.612314123,Pielou_e,calf
+Dairy49,IN,Farm5,2/27/21,BRD,103.4,Dairy 49,0.458479531,Pielou_e,calf
+Dairy50,IN,Farm5,2/27/21,BRD,102.1,Dairy 50,0.428359843,Pielou_e,calf
+Dairy51,IN,Farm5,2/27/21,BRD,103.4,Dairy 51,0.49064209,Pielou_e,calf
+Dairy52,IN,Farm5,2/27/21,Healthy,103.2,Dairy 52,0.630501136,Pielou_e,calf
+Dairy53,IN,Farm5,2/27/21,BRD,102.7,Dairy 53,0.379019005,Pielou_e,calf
+Dairy54,IN,Farm5,2/27/21,Healthy,102.6,Dairy 54,0.594898382,Pielou_e,calf
+Dairy55,IN,Farm5,2/27/21,Healthy,102.8,Dairy 55,0.396084519,Pielou_e,calf
+Dairy56,IN,Farm5,2/27/21,Healthy,102.7,Dairy 56,0.605566194,Pielou_e,calf
+Dairy57,IN,Farm5,2/27/21,BRD,102.6,Dairy 57,0.629129146,Pielou_e,calf
+Dairy58,IN,Farm5,2/27/21,BRD,102.3,Dairy 58,0.42440948,Pielou_e,calf
+Dairy59,IN,Farm5,2/27/21,Healthy,102.4,Dairy 59,0.385664115,Pielou_e,calf
+Dairy6,IN,Farm5,2/20/21,BRD,103.2,Dairy 6,0.750239192,Pielou_e,Cow
+Dairy61,IN,Farm5,2/27/21,Healthy,102.6,Dairy 61,0.459388522,Pielou_e,calf
+Dairy62,IN,Farm5,2/27/21,BRD,102.5,Dairy 62,0.445730782,Pielou_e,calf
+Dairy63,IN,Farm5,2/27/21,Healthy,103.5,Dairy 63,0.397095519,Pielou_e,calf
+Dairy65,IN,Farm5,2/27/21,BRD,102.1,Dairy 65,0.494279234,Pielou_e,calf
+Dairy66,IN,Farm5,2/27/21,Healthy,102.2,Dairy 66,0.646624844,Pielou_e,calf
+Dairy67,IN,Farm5,2/27/21,Healthy,102.5,Dairy 67,0.59321544,Pielou_e,calf
+Dairy68,IN,Farm5,2/27/21,BRD,102.3,Dairy 68,0.313716002,Pielou_e,calf
+Dairy69,IN,Farm5,2/27/21,Healthy,102.3,Dairy 69,0.422713703,Pielou_e,calf
+Dairy7,IN,Farm5,2/20/21,Healthy,,Dairy 7,0.484685319,Pielou_e,calf
+Dairy70,IN,Farm5,2/27/21,Healthy,102.8,Dairy 70,0.57323813,Pielou_e,calf
+Dairy71,IN,Farm5,2/27/21,Healthy,102.3,Dairy 71,0.611606291,Pielou_e,calf
+Dairy72,IN,Farm5,2/27/21,BRD,103.7,Dairy 72,0.473929989,Pielou_e,calf
+Dairy74,IN,Farm5,2/27/21,Healthy,102.8,Dairy 74,0.328213408,Pielou_e,calf
+Dairy75,IN,Farm5,2/27/21,Healthy,102,Dairy 75,0.513613817,Pielou_e,calf
+Dairy77,IN,Farm5,2/27/21,Healthy,101.9,Dairy 77,0.365122862,Pielou_e,calf
+Dairy78,IN,Farm5,2/27/21,BRD,101.9,Dairy 78,0.470172529,Pielou_e,calf
+Dairy79,IN,Farm5,2/27/21,BRD,102.6,Dairy 79,0.367833778,Pielou_e,calf
+Dairy8,IN,Farm5,2/20/21,BRD,104.3,Dairy 8,0.644922677,Pielou_e,calf
+Dairy80,IN,Farm5,2/27/21,BRD,102.1,Dairy 80,0.408950506,Pielou_e,calf
+Dairy81,IN,Farm5,2/27/21,Healthy,101,Dairy 81,0.412183357,Pielou_e,calf
+Dairy82,IN,Farm5,2/27/21,Healthy,101.4,Dairy 82,0.530627498,Pielou_e,calf
+Dairy83,IN,Farm5,2/27/21,Healthy,,Dairy 83,0.709021591,Pielou_e,calf
+Dairy84,IN,Farm5,2/27/21,Healthy,100.9,Dairy 84,0.654712095,Pielou_e,calf
+Dairy85,IN,Farm5,2/27/21,Healthy,,Dairy 85,0.423144841,Pielou_e,calf
+Dairy86,IN,Farm5,2/27/21,Healthy,101.6,Dairy 86,0.618271402,Pielou_e,calf
+Dairy87,IN,Farm5,2/27/21,BRD,101,Dairy 87,0.691299683,Pielou_e,calf
+Dairy88,IN,Farm5,2/27/21,Healthy,,Dairy 88,0.668876178,Pielou_e,calf
+Dairy89,IN,Farm5,2/27/21,BRD,103,Dairy 89,0.430548494,Pielou_e,calf
+Dairy9,IN,Farm5,2/20/21,Healthy,,Dairy 9,0.546444951,Pielou_e,calf
+Dairy90,IN,Farm5,2/27/21,BRD,102.3,Dairy 90,0.474535113,Pielou_e,calf
+Dairy91,IN,Farm5,2/27/21,BRD,102.2,Dairy 91,0.67513407,Pielou_e,calf
+Dairy92,IN,Farm5,2/27/21,Healthy,,Dairy 92,0.434000667,Pielou_e,calf
+Dairy93,IN,Farm5,2/27/21,Healthy,,Dairy 93,0.600524408,Pielou_e,calf
+Dairy94,IN,Farm5,2/27/21,Healthy,,Dairy 94,0.595476297,Pielou_e,calf
+Dairy95,IN,Farm5,2/27/21,Healthy,,Dairy 95,0.780529953,Pielou_e,calf
+Dairy96,IN,Farm5,2/27/21,Healthy,,Dairy 96,0.739405195,Pielou_e,calf
+Dairy97,IN,Farm5,2/27/21,Healthy,,Dairy 97,0.465731089,Pielou_e,calf
+Dairy98,IN,Farm5,2/27/21,BRD,103.6,Dairy 98,0.511615321,Pielou_e,calf
+Dairy99,IN,Farm5,2/27/21,BRD,102.8,Dairy 99,0.32907305,Pielou_e,calf
+Dairy101,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 101,0.75190394,Pielou_e,calf
+Dairy102,NY,Farm3,05/18-19/2021,Healthy,101.8,Dairy 102,0.716753582,Pielou_e,calf
+Dairy103,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 103,0.617139544,Pielou_e,calf
+Dairy104,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 104,0.663145715,Pielou_e,calf
+Dairy105,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 105,0.602483372,Pielou_e,calf
+Dairy106,NY,Farm3,05/18-19/2021,Healthy,,Dairy 106,0.543433474,Pielou_e,calf
+Dairy107,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 107,0.673575733,Pielou_e,calf
+Dairy108,NY,Farm3,05/18-19/2021,Healthy,,Dairy 108,0.560534142,Pielou_e,calf
+Dairy109,NY,Farm3,05/18-19/2021,Healthy,101.7,Dairy 109,0.726939415,Pielou_e,calf
+Dairy110,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 110,0.750784118,Pielou_e,calf
+Dairy111,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 111,0.648305798,Pielou_e,calf
+Dairy112,NY,Farm3,05/18-19/2021,Healthy,102.2,Dairy 112,0.67584177,Pielou_e,calf
+Dairy113,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 113,0.672236238,Pielou_e,calf
+Dairy114,NY,Farm3,05/18-19/2021,Healthy,,Dairy 114,0.499934406,Pielou_e,calf
+Dairy115,NY,Farm3,05/18-19/2021,Healthy,,Dairy 115,0.624084655,Pielou_e,calf
+Dairy116,NY,Farm3,05/18-19/2021,Healthy,,Dairy 116,0.737131774,Pielou_e,calf
+Dairy117,NY,Farm3,05/18-19/2021,Healthy,102.1,Dairy 117,0.676749284,Pielou_e,calf
+Dairy118,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 118,0.597890616,Pielou_e,calf
+Dairy119,NY,Farm3,05/18-19/2021,Healthy,101.4,Dairy 119,0.702848427,Pielou_e,calf
+Dairy120,NY,Farm3,05/18-19/2021,Healthy,,Dairy 120,0.526641121,Pielou_e,calf
+Dairy121,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 121,0.614176335,Pielou_e,calf
+Dairy122,NY,Farm3,05/18-19/2021,Healthy,101.9,Dairy 122,0.712081079,Pielou_e,calf
+Dairy123,NY,Farm3,05/18-19/2021,Healthy,,Dairy 123,0.75476476,Pielou_e,calf
+Dairy124,NY,Farm3,05/18-19/2021,Healthy,,Dairy 124,0.767906197,Pielou_e,calf
+Dairy125,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 125,0.670852423,Pielou_e,calf
+Dairy126,NY,Farm3,05/18-19/2021,Healthy,,Dairy 126,0.538963804,Pielou_e,calf
+Dairy127,NY,Farm3,05/18-19/2021,Healthy,104,Dairy 127,0.532258975,Pielou_e,calf
+Dairy128,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 128,0.510065782,Pielou_e,calf
+Dairy129,NY,Farm3,05/18-19/2021,Healthy,,Dairy 129,0.405393823,Pielou_e,calf
+Dairy130,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 130,0.645810219,Pielou_e,calf
+Dairy131,NY,Farm3,05/18-19/2021,Healthy,,Dairy 131,0.599587301,Pielou_e,calf
+Dairy132,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 132,0.605987413,Pielou_e,calf
+Dairy133,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 133,0.635713025,Pielou_e,calf
+Dairy134,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 134,0.648067424,Pielou_e,calf
+Dairy135,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 135,0.463210373,Pielou_e,calf
+Dairy136,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 136,0.509892432,Pielou_e,calf
+Dairy137,NY,Farm3,05/18-19/2021,BRD,102.7,Dairy 137,0.482145762,Pielou_e,calf
+Dairy138,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 138,0.720892412,Pielou_e,calf
+Dairy139,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 139,0.329905873,Pielou_e,calf
+Dairy140,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 140,0.568524992,Pielou_e,calf
+Dairy141,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 141,0.532600373,Pielou_e,calf
+Dairy142,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 142,0.599394651,Pielou_e,calf
+Dairy143,NY,Farm3,05/18-19/2021,BRD,103,Dairy 143,0.384577901,Pielou_e,calf
+Dairy144,NY,Farm3,05/18-19/2021,BRD,102,Dairy 144,0.520082456,Pielou_e,calf
+Dairy145,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 145,0.681415576,Pielou_e,calf
+Dairy146,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 146,0.602190902,Pielou_e,calf
+Dairy147,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 147,0.624110723,Pielou_e,calf
+Dairy149,NY,Farm3,05/18-19/2021,BRD,103,Dairy 149,0.611184546,Pielou_e,calf
+Dairy150,NY,Farm3,05/18-19/2021,BRD,103,Dairy 150,0.56943222,Pielou_e,calf
+Dairy151,NY,Farm3,05/18-19/2021,BRD,101.7,Dairy 151,0.633144954,Pielou_e,calf
+Dairy152,NY,Farm3,05/18-19/2021,BRD,103,Dairy 152,0.561901946,Pielou_e,calf
+Dairy153,NY,Farm3,05/18-19/2021,BRD,105.8,Dairy 153,0.559511219,Pielou_e,calf
+Dairy154,NY,Farm3,05/18-19/2021,BRD,105.3,Dairy 154,0.437528559,Pielou_e,calf
+Dairy155,NY,Farm3,05/18-19/2021,BRD,102,Dairy 155,0.721221014,Pielou_e,calf
+Dairy156,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 156,0.602078683,Pielou_e,calf
+Dairy157,NY,Farm3,05/18-19/2021,BRD,106,Dairy 157,0.587139025,Pielou_e,calf
+Dairy158,NY,Farm3,05/18-19/2021,BRD,106.3,Dairy 158,0.313628135,Pielou_e,calf
+Dairy159,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 159,0.674038853,Pielou_e,calf
+Dairy160,NY,Farm3,05/18-19/2021,BRD,102.1,Dairy 160,0.774412828,Pielou_e,calf
+Dairy161,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 161,0.50361151,Pielou_e,calf
+Dairy162,NY,Farm3,05/18-19/2021,BRD,102.8,Dairy 162,0.52194888,Pielou_e,calf
+Dairy163,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 163,0.579261333,Pielou_e,calf
+Dairy164,NY,Farm3,05/18-19/2021,BRD,104.9,Dairy 164,0.368738421,Pielou_e,calf
+Dairy165,NY,Farm3,05/18-19/2021,BRD,101.6,Dairy 165,0.560142592,Pielou_e,calf
+Dairy166,NY,Farm3,05/18-19/2021,BRD,102,Dairy 166,0.410334327,Pielou_e,calf
+Dairy167,NY,Farm3,05/18-19/2021,BRD,,Dairy 167,0.373065139,Pielou_e,calf
+Dairy168,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 168,0.44552082,Pielou_e,calf
+Dairy169,NY,Farm3,05/18-19/2021,BRD,102,Dairy 169,0.724554609,Pielou_e,calf
+Dairy170,NY,Farm3,05/18-19/2021,BRD,104,Dairy 170,0.643038157,Pielou_e,calf
+Dairy171,NY,Farm4,5/20/21,Healthy,101.6,Dairy 171,0.362452532,Pielou_e,Cow
+Dairy172,NY,Farm4,5/20/21,Healthy,101.2,Dairy 172,0.536273566,Pielou_e,calf
+Dairy174,NY,Farm4,5/20/21,Healthy,101.7,Dairy 174,0.494859066,Pielou_e,Cow
+Dairy177,NY,Farm4,5/20/21,Healthy,,Dairy 177,0.796379712,Pielou_e,Cow
+Dairy178,NY,Farm4,5/20/21,Healthy,,Dairy 178,0.647278655,Pielou_e,Cow
+Dairy180,NY,Farm4,5/20/21,Healthy,102.5,Dairy 180,0.818637195,Pielou_e,Cow
+Dairy181,NY,Farm4,5/20/21,Healthy,,Dairy 181,0.789643638,Pielou_e,Cow
+Dairy182,NY,Farm4,5/20/21,Healthy,,Dairy 182,0.434905518,Pielou_e,Cow
+Dairy183,NY,Farm4,5/20/21,Healthy,,Dairy 183,0.632087432,Pielou_e,Cow
+Dairy184,NY,Farm4,5/20/21,Healthy,101.5,Dairy 184,0.647057661,Pielou_e,Cow
+Dairy185,NY,Farm4,5/20/21,Healthy,102,Dairy 185,0.553425231,Pielou_e,calf
+Dairy186,NY,Farm4,5/20/21,Healthy,101.5,Dairy 186,0.688403266,Pielou_e,Cow
+Dairy187,NY,Farm4,5/20/21,Healthy,102,Dairy 187,0.639035426,Pielou_e,calf
+Dairy188,NY,Farm4,5/20/21,BRD,103.2,Dairy 188,0.658695973,Pielou_e,calf
+Dairy189,NY,Farm4,5/20/21,BRD,101.2,Dairy 189,0.489871595,Pielou_e,Cow
+Dairy190,NY,Farm4,5/20/21,BRD,103,Dairy 190,0.518317469,Pielou_e,Cow
+Dairy191,NY,Farm4,5/20/21,BRD,102.5,Dairy 191,0.526310483,Pielou_e,Cow
+Dairy192,NY,Farm4,5/20/21,BRD,102.4,Dairy 192,0.642253465,Pielou_e,Cow
+Dairy193,NY,Farm4,5/20/21,BRD,101.4,Dairy 193,0.689446647,Pielou_e,Cow
+Dairy194,NY,Farm4,5/20/21,BRD,102,Dairy 194,0.554015394,Pielou_e,Cow
+Dairy195,NY,Farm4,5/20/21,BRD,100.1,Dairy 195,0.693121702,Pielou_e,Cow
+Dairy196,NY,Farm4,5/20/21,BRD,103.9,Dairy 196,0.587426767,Pielou_e,Cow
+Dairy197,NY,Farm4,5/20/21,BRD,102,Dairy 197,0.569178719,Pielou_e,calf
+Dairy198,NY,Farm4,5/20/21,BRD,102.3,Dairy 198,0.59575066,Pielou_e,calf
+Dairy199,NY,Farm4,5/20/21,BRD,102.5,Dairy 199,0.61087819,Pielou_e,calf
+Dairy200,NY,Farm4,5/20/21,BRD,101.8,Dairy 200,0.585973045,Pielou_e,Cow
+Dairy201,NY,Farm4,5/20/21,BRD,102.9,Dairy 201,0.564222069,Pielou_e,calf
+Dairy202,NY,Farm4,5/20/21,BRD,102.6,Dairy 202,0.536736397,Pielou_e,calf
+Dairy203,NY,Farm4,5/20/21,BRD,102.8,Dairy 203,0.571707761,Pielou_e,calf
+Dairy204,TX,Farm1,1/1/22,BRD,101.6,Dairy 204,0.487129557,Pielou_e,calf
+Dairy205,TX,Farm1,1/1/22,BRD,100.5,Dairy 205,0.373438005,Pielou_e,calf
+Dairy206,TX,Farm1,1/1/22,BRD,102.9,Dairy 206,0.571115091,Pielou_e,calf
+Dairy207,TX,Farm1,1/1/22,Healthy,101.9,Dairy 207,0.690798268,Pielou_e,calf
+Dairy208,TX,Farm1,1/1/22,Healthy,102.7,Dairy 208,0.766840548,Pielou_e,calf
+Dairy209,TX,Farm1,1/1/22,Healthy,101.5,Dairy 209,0.764038481,Pielou_e,calf
+Dairy210,TX,Farm1,1/1/22,BRD,102.1,Dairy 210,0.767688419,Pielou_e,calf
+Dairy213,TX,Farm1,1/1/22,Healthy,101.4,Dairy 213,0.792632826,Pielou_e,calf
+Dairy214,TX,Farm1,1/1/22,BRD,102.6,Dairy 214,0.733045578,Pielou_e,calf
+Dairy215,TX,Farm1,1/1/22,BRD,102.3,Dairy 215,0.6566028,Pielou_e,calf
+Dairy216,TX,Farm1,1/1/22,Healthy,101.9,Dairy 216,0.440680693,Pielou_e,calf
+Dairy217,TX,Farm1,1/1/22,Healthy,101.7,Dairy 217,0.377589464,Pielou_e,calf
+Dairy218,TX,Farm1,1/1/22,BRD,102.3,Dairy 218,0.417825347,Pielou_e,calf
+Dairy220,TX,Farm1,1/1/22,Healthy,100.6,Dairy 220,0.75098546,Pielou_e,calf
+Dairy221,TX,Farm1,1/1/22,Healthy,101.9,Dairy 221,0.54144658,Pielou_e,calf
+Dairy222,TX,Farm1,1/1/22,BRD,105.1,Dairy 222,0.513788576,Pielou_e,calf
+Dairy223,TX,Farm1,1/1/22,Healthy,101.7,Dairy 223,0.80844126,Pielou_e,calf
+Dairy224,TX,Farm1,1/1/22,BRD,101.7,Dairy 224,0.618373293,Pielou_e,calf
+Dairy225,TX,Farm1,1/1/22,BRD,97.8,Dairy 225,0.687438145,Pielou_e,calf
+Dairy226,TX,Farm1,1/1/22,Healthy,101.2,Dairy 226,0.80987062,Pielou_e,calf
+Dairy227,TX,Farm1,1/1/22,Healthy,102.1,Dairy 227,0.484593709,Pielou_e,calf
+Dairy228,TX,Farm1,1/1/22,BRD,101.4,Dairy 228,0.498609053,Pielou_e,calf
+Dairy231,TX,Farm1,1/1/22,Healthy,102,Dairy 231,0.594749859,Pielou_e,calf
+Dairy232,TX,Farm1,1/1/22,BRD,101,Dairy 232,0.605640503,Pielou_e,calf
+Dairy233,TX,Farm1,1/1/22,Healthy,102,Dairy 233,0.414400643,Pielou_e,calf
+Dairy237,TX,Farm1,1/1/22,Healthy,102.3,Dairy 237,0.816014289,Pielou_e,calf
+Dairy238,TX,Farm1,1/1/22,BRD,102.3,Dairy 238,0.73923516,Pielou_e,calf
+Dairy239,TX,Farm1,1/1/22,Healthy,101.5,Dairy 239,0.645931273,Pielou_e,calf
+Dairy240,TX,Farm1,1/1/22,BRD,102.1,Dairy 240,0.670518714,Pielou_e,calf
+Dairy241,TX,Farm1,1/1/22,BRD,102.7,Dairy 241,0.731268272,Pielou_e,calf
+Dairy243,TX,Farm1,1/1/22,Healthy,102.3,Dairy 243,0.807072178,Pielou_e,calf
+Dairy244,TX,Farm1,1/1/22,BRD,101.7,Dairy 244,0.541822533,Pielou_e,calf
+Dairy245,TX,Farm1,1/1/22,Healthy,103.3,Dairy 245,0.550477627,Pielou_e,calf
+Dairy248,TX,Farm1,1/1/22,BRD,101.8,Dairy 248,0.449294863,Pielou_e,calf
+Dairy249,TX,Farm1,1/1/22,Healthy,101.6,Dairy 249,0.621234939,Pielou_e,calf
+Dairy250,TX,Farm1,1/1/22,BRD,101.9,Dairy 250,0.701489971,Pielou_e,calf
+Dairy251,TX,Farm1,1/1/22,BRD,101.4,Dairy 251,0.831653405,Pielou_e,calf
+Dairy252,TX,Farm1,1/1/22,Healthy,101.9,Dairy 252,0.572973373,Pielou_e,calf
+Dairy253,TX,Farm1,1/1/22,Healthy,102.2,Dairy 253,0.741464331,Pielou_e,calf
+Dairy255,TX,Farm1,1/1/22,Healthy,101.7,Dairy 255,0.347855931,Pielou_e,calf
+Dairy256,TX,Farm1,1/1/22,BRD,102,Dairy 256,0.555652918,Pielou_e,calf
+Dairy257,TX,Farm1,1/1/22,BRD,102.5,Dairy 257,0.635283499,Pielou_e,calf
+Dairy258,TX,Farm1,1/1/22,Healthy,103.1,Dairy 258,0.779168476,Pielou_e,calf
+Dairy285,TX,Farm1,1/1/22,Healthy,102.2,Dairy 285,0.654334384,Pielou_e,calf
+Dairy286,TX,Farm1,1/1/22,BRD,102.3,Dairy 286,0.624537486,Pielou_e,calf
+Dairy287,TX,Farm1,1/1/22,Healthy,102.2,Dairy 287,0.693500689,Pielou_e,calf
+Dairy288,TX,Farm1,1/1/22,BRD,102.2,Dairy 288,0.621740231,Pielou_e,calf
+Dairy289,TX,Farm1,1/1/22,Healthy,102.2,Dairy 289,0.44713324,Pielou_e,calf
+Dairy290,TX,Farm1,1/1/22,BRD,101.2,Dairy 290,0.494374432,Pielou_e,calf
+Dairy291,TX,Farm1,1/1/22,Healthy,102.9,Dairy 291,0.484478374,Pielou_e,calf
+Dairy292,TX,Farm1,1/1/22,BRD,101.8,Dairy 292,0.677467308,Pielou_e,calf
+Dairy294,TX,Farm1,1/1/22,BRD,101.6,Dairy 294,0.803288701,Pielou_e,calf
+Dairy295,TX,Farm1,1/1/22,BRD,102,Dairy 295,0.695024617,Pielou_e,calf
+Dairy296,TX,Farm1,1/1/22,BRD,102.5,Dairy 296,0.357847265,Pielou_e,calf
+Dairy299,TX,Farm1,1/1/22,Healthy,102.8,Dairy 299,0.537664753,Pielou_e,calf
+Dairy302,TX,Farm1,1/1/22,Healthy,101.5,Dairy 302,0.657295306,Pielou_e,calf
+Dairy303,TX,Farm1,1/1/22,BRD,101.2,Dairy 303,0.386812556,Pielou_e,calf
+Dairy304,TX,Farm1,1/1/22,BRD,102.1,Dairy 304,0.683689862,Pielou_e,calf
+Dairy305,TX,Farm1,1/1/22,Healthy,102.2,Dairy 305,0.665087254,Pielou_e,calf
+Dairy306,TX,Farm1,1/1/22,Healthy,102.2,Dairy 306,0.500035639,Pielou_e,calf
+Dairy307,TX,Farm1,1/1/22,BRD,104.3,Dairy 307,0.386699421,Pielou_e,calf
+Dairy308,TX,Farm1,1/1/22,Healthy,102.2,Dairy 308,0.534719505,Pielou_e,calf
+Dairy309,TX,Farm1,1/1/22,BRD,101.7,Dairy 309,0.693700855,Pielou_e,calf
+Dairy310,TX,Farm1,1/1/22,Healthy,100.5,Dairy 310,0.643270444,Pielou_e,calf
+Dairy312,TX,Farm1,1/1/22,Healthy,102.2,Dairy 312,0.59343377,Pielou_e,calf
+Dairy314,TX,Farm1,1/1/22,BRD,101.1,Dairy 314,0.708806274,Pielou_e,calf
+Dairy315,TX,Farm1,1/1/22,Healthy,101.6,Dairy 315,0.769823158,Pielou_e,calf
+Dairy261,TX,Farm1,1/1/22,Healthy,102.7,Dairy261,0.830084638,Pielou_e,calf
+Dairy263,TX,Farm1,1/1/22,Healthy,101.8,Dairy263,0.754843504,Pielou_e,calf
+Dairy264,TX,Farm1,1/1/22,BRD,102.8,Dairy264,0.55654986,Pielou_e,calf
+Dairy265,TX,Farm1,1/1/22,Healthy,103,Dairy265,0.801141544,Pielou_e,calf
+Dairy266,TX,Farm1,1/1/22,Healthy,102.1,Dairy266,0.528679999,Pielou_e,calf
+Dairy268,TX,Farm1,1/1/22,Healthy,101.9,Dairy268,0.850463137,Pielou_e,calf
+Dairy269,TX,Farm1,1/1/22,Healthy,101.7,Dairy269,0.824623876,Pielou_e,calf
+Dairy270,TX,Farm1,1/1/22,BRD,102.3,Dairy270,0.588372315,Pielou_e,calf
+Dairy271,TX,Farm1,1/1/22,BRD,104.8,Dairy271,0.369004465,Pielou_e,calf
+Dairy273,TX,Farm1,1/1/22,BRD,103.8,Dairy273,0.636425598,Pielou_e,calf
+Dairy275,TX,Farm1,1/1/22,Healthy,102.9,Dairy275,0.405232013,Pielou_e,calf
+Dairy276,TX,Farm1,1/1/22,BRD,102.5,Dairy276,0.327967186,Pielou_e,calf
+Dairy277,TX,Farm1,1/1/22,BRD,102.7,Dairy277,0.262410897,Pielou_e,calf
+Dairy278,TX,Farm1,1/1/22,Healthy,102.2,Dairy278,0.374343371,Pielou_e,calf
+Dairy279,TX,Farm1,1/1/22,Healthy,103.2,Dairy279,0.561905752,Pielou_e,calf
+Dairy280,TX,Farm1,1/1/22,BRD,103.8,Dairy280,0.44779039,Pielou_e,calf
+Dairy282,TX,Farm1,1/1/22,BRD,103,Dairy282,0.511582044,Pielou_e,calf
+Dairy283,TX,Farm1,1/1/22,BRD,103,Dairy283,0.761543857,Pielou_e,calf
+Dairy284,TX,Farm1,1/1/22,Healthy,102.2,Dairy284,0.569809352,Pielou_e,calf
+Dairy317,CA,Farm2,07/14-15/2022,Healthy,104.8,Dairy 317,13.12243541,Faith PD,calf
+Dairy318,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 318,7.491816624,Faith PD,calf
+Dairy320,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 320,10.53750385,Faith PD,calf
+Dairy321,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 321,9.936209416,Faith PD,calf
+Dairy322,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 322,6.7810626,Faith PD,calf
+Dairy323,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 323,7.487315562,Faith PD,calf
+Dairy324,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 324,7.111488346,Faith PD,calf
+Dairy325,CA,Farm2,07/14-15/2022,Healthy,102.4,Dairy 325,6.539920214,Faith PD,calf
+Dairy326,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 326,9.164863334,Faith PD,calf
+Dairy327,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 327,6.82624076,Faith PD,calf
+Dairy328,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 328,6.812855039,Faith PD,calf
+Dairy329,CA,Farm2,07/14-15/2022,Healthy,103.2,Dairy 329,8.42592322,Faith PD,calf
+Dairy330,CA,Farm2,07/14-15/2022,Healthy,101.5,Dairy 330,6.838402534,Faith PD,calf
+Dairy331,CA,Farm2,07/14-15/2022,Healthy,105.1,Dairy 331,6.438455096,Faith PD,calf
+Dairy332,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 332,7.131591486,Faith PD,calf
+Dairy333,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 333,7.238165525,Faith PD,calf
+Dairy334,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 334,7.357639436,Faith PD,calf
+Dairy335,CA,Farm2,07/14-15/2022,Healthy,102.9,Dairy 335,6.928278423,Faith PD,calf
+Dairy336,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 336,11.10744191,Faith PD,calf
+Dairy337,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 337,10.81669816,Faith PD,calf
+Dairy338,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 338,5.643751656,Faith PD,calf
+Dairy340,CA,Farm2,07/14-15/2022,Healthy,102.5,Dairy 340,5.529469228,Faith PD,calf
+Dairy341,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 341,5.920099992,Faith PD,calf
+Dairy342,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 342,6.072156236,Faith PD,calf
+Dairy343,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 343,5.17275538,Faith PD,calf
+Dairy344,CA,Farm2,07/14-15/2022,Healthy,102.6,Dairy 344,9.212631457,Faith PD,calf
+Dairy345,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 345,11.03742374,Faith PD,calf
+Dairy346,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 346,9.56084137,Faith PD,calf
+Dairy347,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 347,13.85134984,Faith PD,calf
+Dairy348,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 348,6.769519174,Faith PD,calf
+Dairy349,CA,Farm2,07/14-15/2022,Healthy,103.8,Dairy 349,8.292023407,Faith PD,calf
+Dairy351,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 351,5.547799229,Faith PD,calf
+Dairy355,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 355,7.825848363,Faith PD,calf
+Dairy356,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 356,6.031724084,Faith PD,calf
+Dairy357,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 357,5.696220959,Faith PD,calf
+Dairy358,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 358,10.47525114,Faith PD,calf
+Dairy359,CA,Farm2,07/14-15/2022,Healthy,100.9,Dairy 359,6.378251735,Faith PD,calf
+Dairy360,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 360,5.483058591,Faith PD,calf
+Dairy361,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 361,14.29689369,Faith PD,calf
+Dairy362,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 362,5.45179999,Faith PD,calf
+Dairy363,CA,Farm2,07/14-15/2022,Healthy,101.2,Dairy 363,5.668599724,Faith PD,calf
+Dairy364,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 364,9.026951903,Faith PD,calf
+Dairy365,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 365,8.644403777,Faith PD,calf
+Dairy366,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 366,4.608330684,Faith PD,calf
+Dairy367,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 367,6.253141353,Faith PD,calf
+Dairy368,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 368,17.03901524,Faith PD,calf
+Dairy369,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 369,6.600463616,Faith PD,calf
+Dairy370,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 370,7.976509237,Faith PD,calf
+Dairy372,CA,Farm2,07/14-15/2022,BRD,100.8,Dairy 372,5.644456895,Faith PD,calf
+Dairy373,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 373,9.338056932,Faith PD,calf
+Dairy374,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 374,8.673556021,Faith PD,calf
+Dairy375,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 375,10.62050629,Faith PD,calf
+Dairy376,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 376,9.077368608,Faith PD,calf
+Dairy377,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 377,9.312588042,Faith PD,calf
+Dairy378,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 378,7.473533575,Faith PD,calf
+Dairy379,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 379,11.9453552,Faith PD,calf
+Dairy381,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 381,6.79470666,Faith PD,calf
+Dairy382,CA,Farm2,07/14-15/2022,BRD,105,Dairy 382,5.505760343,Faith PD,calf
+Dairy383,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 383,8.904166129,Faith PD,calf
+Dairy384,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 384,8.630139696,Faith PD,calf
+Dairy385,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 385,5.748818333,Faith PD,calf
+Dairy386,CA,Farm2,07/14-15/2022,BRD,104.3,Dairy 386,8.64144533,Faith PD,calf
+Dairy387,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 387,12.03905647,Faith PD,calf
+Dairy388,CA,Farm2,07/14-15/2022,BRD,101.3,Dairy 388,10.92801745,Faith PD,calf
+Dairy389,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 389,7.50334015,Faith PD,calf
+Dairy390,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 390,6.003236503,Faith PD,calf
+Dairy391,CA,Farm2,07/14-15/2022,BRD,102.5,Dairy 391,7.42838744,Faith PD,calf
+Dairy392,CA,Farm2,07/14-15/2022,BRD,102,Dairy 392,6.395197965,Faith PD,calf
+Dairy393,CA,Farm2,07/14-15/2022,BRD,102.3,Dairy 393,8.012968495,Faith PD,calf
+Dairy394,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 394,9.439276208,Faith PD,calf
+Dairy395,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 395,11.69579523,Faith PD,calf
+Dairy396,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 396,17.12353971,Faith PD,calf
+Dairy398,CA,Farm2,07/14-15/2022,BRD,103,Dairy 398,10.10713868,Faith PD,calf
+Dairy401,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 401,13.74478724,Faith PD,calf
+Dairy402,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 402,6.494307464,Faith PD,calf
+Dairy403,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 403,9.73657518,Faith PD,calf
+Dairy404,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 404,10.0442583,Faith PD,calf
+Dairy405,CA,Farm2,07/14-15/2022,BRD,97.8,Dairy 405,5.744923506,Faith PD,calf
+Dairy406,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 406,10.53599373,Faith PD,calf
+Dairy407,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 407,13.97867424,Faith PD,calf
+Dairy408,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 408,8.107514251,Faith PD,calf
+Dairy409,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 409,10.47572269,Faith PD,calf
+Dairy410,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 410,8.088775581,Faith PD,calf
+Dairy411,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 411,6.324449658,Faith PD,calf
+Dairy412,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 412,12.53499551,Faith PD,calf
+Dairy413,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 413,9.256779468,Faith PD,calf
+Dairy414,CA,Farm2,07/14-15/2022,BRD,103.8,Dairy 414,7.847214871,Faith PD,calf
+Dairy415,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 415,6.429820328,Faith PD,calf
+Dairy416,CA,Farm2,07/14-15/2022,BRD,100.6,Dairy 416,5.431020995,Faith PD,calf
+Dairy417,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 417,7.393223967,Faith PD,calf
+Dairy418,CA,Farm2,07/14-15/2022,BRD,102.8,Dairy 418,10.23441913,Faith PD,calf
+Dairy419,CA,Farm2,07/14-15/2022,BRD,103.3,Dairy 419,11.1934661,Faith PD,calf
+Dairy420,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 420,3.493880623,Faith PD,calf
+Dairy421,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 421,11.90682186,Faith PD,calf
+Dairy1,IN,Farm5,2/20/21,BRD,101.7,Dairy 1,25.52200658,Faith PD,calf
+Dairy100,IN,Farm5,2/27/21,Healthy,,Dairy 100,19.21806102,Faith PD,calf
+Dairy12,IN,Farm5,2/20/21,BRD,102.6,Dairy 12,16.46816492,Faith PD,calf
+Dairy13,IN,Farm5,2/20/21,Healthy,,Dairy 13,23.51052167,Faith PD,Cow
+Dairy14,IN,Farm5,2/20/21,BRD,101.8,Dairy 14,13.3554292,Faith PD,Cow
+Dairy15,IN,Farm5,2/20/21,Healthy,,Dairy 15,17.40722825,Faith PD,calf
+Dairy16,IN,Farm5,2/20/21,BRD,102.4,Dairy 16,22.54173465,Faith PD,calf
+Dairy17,IN,Farm5,2/20/21,BRD,101.2,Dairy 17,23.487299,Faith PD,calf
+Dairy18,IN,Farm5,2/20/21,BRD,102.7,Dairy 18,17.79429125,Faith PD,calf
+Dairy19,IN,Farm5,2/20/21,BRD,102.3,Dairy 19,19.36572006,Faith PD,calf
+Dairy20,IN,Farm5,2/20/21,BRD,101.5,Dairy 20,21.56262409,Faith PD,calf
+Dairy21,IN,Farm5,2/20/21,BRD,104.1,Dairy 21,23.68268031,Faith PD,calf
+Dairy22,IN,Farm5,2/20/21,BRD,102.7,Dairy 22,20.47868419,Faith PD,calf
+Dairy23,IN,Farm5,2/20/21,BRD,103,Dairy 23,20.46243449,Faith PD,calf
+Dairy24,IN,Farm5,2/20/21,BRD,102.3,Dairy 24,21.78651753,Faith PD,calf
+Dairy25,IN,Farm5,2/20/21,BRD,102.4,Dairy 25,25.11198641,Faith PD,calf
+Dairy26,IN,Farm5,2/20/21,BRD,102.5,Dairy 26,29.56760989,Faith PD,calf
+Dairy27,IN,Farm5,2/20/21,BRD,103.2,Dairy 27,28.36244446,Faith PD,calf
+Dairy28,IN,Farm5,2/20/21,BRD,102,Dairy 28,13.38749685,Faith PD,calf
+Dairy29,IN,Farm5,2/20/21,BRD,102,Dairy 29,15.90732304,Faith PD,calf
+Dairy3,IN,Farm5,2/20/21,BRD,100.5,Dairy 3,25.00612732,Faith PD,Cow
+Dairy30,IN,Farm5,2/20/21,BRD,103.5,Dairy 30,14.93510218,Faith PD,calf
+Dairy31,IN,Farm5,2/20/21,BRD,103.3,Dairy 31,12.75502293,Faith PD,calf
+Dairy33,IN,Farm5,2/20/21,BRD,102.1,Dairy 33,11.1584995,Faith PD,calf
+Dairy34,IN,Farm5,2/20/21,BRD,101.4,Dairy 34,12.33859895,Faith PD,calf
+Dairy35,IN,Farm5,2/20/21,Healthy,102.3,Dairy 35,9.968399714,Faith PD,calf
+Dairy36,IN,Farm5,2/20/21,BRD,103.3,Dairy 36,15.55994372,Faith PD,calf
+Dairy38,IN,Farm5,2/20/21,Healthy,102.1,Dairy 38,26.44877154,Faith PD,calf
+Dairy39,IN,Farm5,2/20/21,BRD,101.9,Dairy 39,13.54516088,Faith PD,calf
+Dairy4,IN,Farm5,2/20/21,Healthy,,Dairy 4,21.02321724,Faith PD,calf
+Dairy40,IN,Farm5,2/20/21,Healthy,101.3,Dairy 40,27.1970858,Faith PD,calf
+Dairy41,IN,Farm5,2/20/21,Healthy,101.9,Dairy 41,19.09867176,Faith PD,calf
+Dairy42,IN,Farm5,2/27/21,Healthy,101.8,Dairy 42,13.68773203,Faith PD,calf
+Dairy43,IN,Farm5,2/27/21,Healthy,,Dairy 43,19.62412822,Faith PD,calf
+Dairy44,IN,Farm5,2/27/21,Healthy,,Dairy 44,15.75313131,Faith PD,calf
+Dairy45,IN,Farm5,2/27/21,Healthy,,Dairy 45,17.12355311,Faith PD,calf
+Dairy46,IN,Farm5,2/27/21,Healthy,,Dairy 46,21.79116326,Faith PD,calf
+Dairy47,IN,Farm5,2/27/21,BRD,104.5,Dairy 47,11.93130387,Faith PD,calf
+Dairy48,IN,Farm5,2/27/21,Healthy,,Dairy 48,31.06153054,Faith PD,calf
+Dairy49,IN,Farm5,2/27/21,BRD,103.4,Dairy 49,19.96862058,Faith PD,calf
+Dairy50,IN,Farm5,2/27/21,BRD,102.1,Dairy 50,16.35354432,Faith PD,calf
+Dairy51,IN,Farm5,2/27/21,BRD,103.4,Dairy 51,24.23274719,Faith PD,calf
+Dairy52,IN,Farm5,2/27/21,Healthy,103.2,Dairy 52,31.6154811,Faith PD,calf
+Dairy53,IN,Farm5,2/27/21,BRD,102.7,Dairy 53,6.871772125,Faith PD,calf
+Dairy54,IN,Farm5,2/27/21,Healthy,102.6,Dairy 54,22.61827913,Faith PD,calf
+Dairy55,IN,Farm5,2/27/21,Healthy,102.8,Dairy 55,19.46793527,Faith PD,calf
+Dairy56,IN,Farm5,2/27/21,Healthy,102.7,Dairy 56,27.69804124,Faith PD,calf
+Dairy57,IN,Farm5,2/27/21,BRD,102.6,Dairy 57,19.42037758,Faith PD,calf
+Dairy58,IN,Farm5,2/27/21,BRD,102.3,Dairy 58,10.55115197,Faith PD,calf
+Dairy59,IN,Farm5,2/27/21,Healthy,102.4,Dairy 59,21.08855976,Faith PD,calf
+Dairy6,IN,Farm5,2/20/21,BRD,103.2,Dairy 6,6.057724954,Faith PD,Cow
+Dairy61,IN,Farm5,2/27/21,Healthy,102.6,Dairy 61,22.79288536,Faith PD,calf
+Dairy62,IN,Farm5,2/27/21,BRD,102.5,Dairy 62,21.16259147,Faith PD,calf
+Dairy63,IN,Farm5,2/27/21,Healthy,103.5,Dairy 63,18.66678871,Faith PD,calf
+Dairy65,IN,Farm5,2/27/21,BRD,102.1,Dairy 65,11.37686983,Faith PD,calf
+Dairy66,IN,Farm5,2/27/21,Healthy,102.2,Dairy 66,29.32786267,Faith PD,calf
+Dairy67,IN,Farm5,2/27/21,Healthy,102.5,Dairy 67,26.70010782,Faith PD,calf
+Dairy68,IN,Farm5,2/27/21,BRD,102.3,Dairy 68,15.46162635,Faith PD,calf
+Dairy69,IN,Farm5,2/27/21,Healthy,102.3,Dairy 69,19.51193353,Faith PD,calf
+Dairy7,IN,Farm5,2/20/21,Healthy,,Dairy 7,20.61322414,Faith PD,calf
+Dairy70,IN,Farm5,2/27/21,Healthy,102.8,Dairy 70,21.65777396,Faith PD,calf
+Dairy71,IN,Farm5,2/27/21,Healthy,102.3,Dairy 71,23.99351023,Faith PD,calf
+Dairy72,IN,Farm5,2/27/21,BRD,103.7,Dairy 72,15.56253285,Faith PD,calf
+Dairy74,IN,Farm5,2/27/21,Healthy,102.8,Dairy 74,16.4673712,Faith PD,calf
+Dairy75,IN,Farm5,2/27/21,Healthy,102,Dairy 75,26.51496617,Faith PD,calf
+Dairy77,IN,Farm5,2/27/21,Healthy,101.9,Dairy 77,12.68385696,Faith PD,calf
+Dairy78,IN,Farm5,2/27/21,BRD,101.9,Dairy 78,10.59021957,Faith PD,calf
+Dairy79,IN,Farm5,2/27/21,BRD,102.6,Dairy 79,19.93155757,Faith PD,calf
+Dairy8,IN,Farm5,2/20/21,BRD,104.3,Dairy 8,17.17038097,Faith PD,calf
+Dairy80,IN,Farm5,2/27/21,BRD,102.1,Dairy 80,16.57681386,Faith PD,calf
+Dairy81,IN,Farm5,2/27/21,Healthy,101,Dairy 81,10.24006529,Faith PD,calf
+Dairy82,IN,Farm5,2/27/21,Healthy,101.4,Dairy 82,25.82459,Faith PD,calf
+Dairy83,IN,Farm5,2/27/21,Healthy,,Dairy 83,30.05264307,Faith PD,calf
+Dairy84,IN,Farm5,2/27/21,Healthy,100.9,Dairy 84,28.49290907,Faith PD,calf
+Dairy85,IN,Farm5,2/27/21,Healthy,,Dairy 85,18.70177408,Faith PD,calf
+Dairy86,IN,Farm5,2/27/21,Healthy,101.6,Dairy 86,21.28558598,Faith PD,calf
+Dairy87,IN,Farm5,2/27/21,BRD,101,Dairy 87,20.18504846,Faith PD,calf
+Dairy88,IN,Farm5,2/27/21,Healthy,,Dairy 88,20.97370113,Faith PD,calf
+Dairy89,IN,Farm5,2/27/21,BRD,103,Dairy 89,13.8570898,Faith PD,calf
+Dairy9,IN,Farm5,2/20/21,Healthy,,Dairy 9,15.27757852,Faith PD,calf
+Dairy90,IN,Farm5,2/27/21,BRD,102.3,Dairy 90,18.10070286,Faith PD,calf
+Dairy91,IN,Farm5,2/27/21,BRD,102.2,Dairy 91,21.91407052,Faith PD,calf
+Dairy92,IN,Farm5,2/27/21,Healthy,,Dairy 92,16.89970902,Faith PD,calf
+Dairy93,IN,Farm5,2/27/21,Healthy,,Dairy 93,22.60757975,Faith PD,calf
+Dairy94,IN,Farm5,2/27/21,Healthy,,Dairy 94,21.24899194,Faith PD,calf
+Dairy95,IN,Farm5,2/27/21,Healthy,,Dairy 95,38.47736116,Faith PD,calf
+Dairy96,IN,Farm5,2/27/21,Healthy,,Dairy 96,20.95099815,Faith PD,calf
+Dairy97,IN,Farm5,2/27/21,Healthy,,Dairy 97,23.60176388,Faith PD,calf
+Dairy98,IN,Farm5,2/27/21,BRD,103.6,Dairy 98,11.86726587,Faith PD,calf
+Dairy99,IN,Farm5,2/27/21,BRD,102.8,Dairy 99,8.690866594,Faith PD,calf
+Dairy101,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 101,39.04696347,Faith PD,calf
+Dairy102,NY,Farm3,05/18-19/2021,Healthy,101.8,Dairy 102,11.95541243,Faith PD,calf
+Dairy103,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 103,17.91428533,Faith PD,calf
+Dairy104,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 104,10.15011643,Faith PD,calf
+Dairy105,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 105,11.75044492,Faith PD,calf
+Dairy106,NY,Farm3,05/18-19/2021,Healthy,,Dairy 106,27.57093176,Faith PD,calf
+Dairy107,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 107,23.4312743,Faith PD,calf
+Dairy108,NY,Farm3,05/18-19/2021,Healthy,,Dairy 108,18.56231094,Faith PD,calf
+Dairy109,NY,Farm3,05/18-19/2021,Healthy,101.7,Dairy 109,19.79130458,Faith PD,calf
+Dairy110,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 110,13.37606751,Faith PD,calf
+Dairy111,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 111,26.71600477,Faith PD,calf
+Dairy112,NY,Farm3,05/18-19/2021,Healthy,102.2,Dairy 112,9.455162744,Faith PD,calf
+Dairy113,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 113,20.49468052,Faith PD,calf
+Dairy114,NY,Farm3,05/18-19/2021,Healthy,,Dairy 114,15.90045662,Faith PD,calf
+Dairy115,NY,Farm3,05/18-19/2021,Healthy,,Dairy 115,18.00413362,Faith PD,calf
+Dairy116,NY,Farm3,05/18-19/2021,Healthy,,Dairy 116,15.25894978,Faith PD,calf
+Dairy117,NY,Farm3,05/18-19/2021,Healthy,102.1,Dairy 117,13.41946676,Faith PD,calf
+Dairy118,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 118,13.8117004,Faith PD,calf
+Dairy119,NY,Farm3,05/18-19/2021,Healthy,101.4,Dairy 119,17.99708026,Faith PD,calf
+Dairy120,NY,Farm3,05/18-19/2021,Healthy,,Dairy 120,14.68334585,Faith PD,calf
+Dairy121,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 121,24.65508596,Faith PD,calf
+Dairy122,NY,Farm3,05/18-19/2021,Healthy,101.9,Dairy 122,15.48882936,Faith PD,calf
+Dairy123,NY,Farm3,05/18-19/2021,Healthy,,Dairy 123,24.5135528,Faith PD,calf
+Dairy124,NY,Farm3,05/18-19/2021,Healthy,,Dairy 124,28.89407704,Faith PD,calf
+Dairy125,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 125,10.00566339,Faith PD,calf
+Dairy126,NY,Farm3,05/18-19/2021,Healthy,,Dairy 126,9.668960582,Faith PD,calf
+Dairy127,NY,Farm3,05/18-19/2021,Healthy,104,Dairy 127,24.13316787,Faith PD,calf
+Dairy128,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 128,14.11712631,Faith PD,calf
+Dairy129,NY,Farm3,05/18-19/2021,Healthy,,Dairy 129,6.408451558,Faith PD,calf
+Dairy130,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 130,18.02031003,Faith PD,calf
+Dairy131,NY,Farm3,05/18-19/2021,Healthy,,Dairy 131,15.882649,Faith PD,calf
+Dairy132,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 132,15.00428473,Faith PD,calf
+Dairy133,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 133,20.41727286,Faith PD,calf
+Dairy134,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 134,14.27004365,Faith PD,calf
+Dairy135,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 135,18.57185501,Faith PD,calf
+Dairy136,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 136,16.5614472,Faith PD,calf
+Dairy137,NY,Farm3,05/18-19/2021,BRD,102.7,Dairy 137,8.932324324,Faith PD,calf
+Dairy138,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 138,16.60120518,Faith PD,calf
+Dairy139,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 139,6.988829368,Faith PD,calf
+Dairy140,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 140,18.82619331,Faith PD,calf
+Dairy141,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 141,12.28528,Faith PD,calf
+Dairy142,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 142,9.560515083,Faith PD,calf
+Dairy143,NY,Farm3,05/18-19/2021,BRD,103,Dairy 143,11.62037093,Faith PD,calf
+Dairy144,NY,Farm3,05/18-19/2021,BRD,102,Dairy 144,12.46868291,Faith PD,calf
+Dairy145,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 145,16.49989947,Faith PD,calf
+Dairy146,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 146,14.38900068,Faith PD,calf
+Dairy147,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 147,24.53856415,Faith PD,calf
+Dairy149,NY,Farm3,05/18-19/2021,BRD,103,Dairy 149,9.785037344,Faith PD,calf
+Dairy150,NY,Farm3,05/18-19/2021,BRD,103,Dairy 150,17.83941783,Faith PD,calf
+Dairy151,NY,Farm3,05/18-19/2021,BRD,101.7,Dairy 151,19.87011502,Faith PD,calf
+Dairy152,NY,Farm3,05/18-19/2021,BRD,103,Dairy 152,16.76867588,Faith PD,calf
+Dairy153,NY,Farm3,05/18-19/2021,BRD,105.8,Dairy 153,17.68304809,Faith PD,calf
+Dairy154,NY,Farm3,05/18-19/2021,BRD,105.3,Dairy 154,14.94966364,Faith PD,calf
+Dairy155,NY,Farm3,05/18-19/2021,BRD,102,Dairy 155,17.1754743,Faith PD,calf
+Dairy156,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 156,22.00981916,Faith PD,calf
+Dairy157,NY,Farm3,05/18-19/2021,BRD,106,Dairy 157,22.78069883,Faith PD,calf
+Dairy158,NY,Farm3,05/18-19/2021,BRD,106.3,Dairy 158,15.50078621,Faith PD,calf
+Dairy159,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 159,17.80466673,Faith PD,calf
+Dairy160,NY,Farm3,05/18-19/2021,BRD,102.1,Dairy 160,23.19334084,Faith PD,calf
+Dairy161,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 161,13.05289631,Faith PD,calf
+Dairy162,NY,Farm3,05/18-19/2021,BRD,102.8,Dairy 162,14.95666522,Faith PD,calf
+Dairy163,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 163,24.77275909,Faith PD,calf
+Dairy164,NY,Farm3,05/18-19/2021,BRD,104.9,Dairy 164,10.39983298,Faith PD,calf
+Dairy165,NY,Farm3,05/18-19/2021,BRD,101.6,Dairy 165,14.43132539,Faith PD,calf
+Dairy166,NY,Farm3,05/18-19/2021,BRD,102,Dairy 166,13.57730665,Faith PD,calf
+Dairy167,NY,Farm3,05/18-19/2021,BRD,,Dairy 167,12.4024349,Faith PD,calf
+Dairy168,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 168,15.49215462,Faith PD,calf
+Dairy169,NY,Farm3,05/18-19/2021,BRD,102,Dairy 169,16.44520197,Faith PD,calf
+Dairy170,NY,Farm3,05/18-19/2021,BRD,104,Dairy 170,12.40289924,Faith PD,calf
+Dairy171,NY,Farm4,5/20/21,Healthy,101.6,Dairy 171,6.738004007,Faith PD,Cow
+Dairy172,NY,Farm4,5/20/21,Healthy,101.2,Dairy 172,7.253261962,Faith PD,calf
+Dairy174,NY,Farm4,5/20/21,Healthy,101.7,Dairy 174,10.30593797,Faith PD,Cow
+Dairy177,NY,Farm4,5/20/21,Healthy,,Dairy 177,27.13464917,Faith PD,Cow
+Dairy178,NY,Farm4,5/20/21,Healthy,,Dairy 178,11.206804,Faith PD,Cow
+Dairy180,NY,Farm4,5/20/21,Healthy,102.5,Dairy 180,13.92994602,Faith PD,Cow
+Dairy181,NY,Farm4,5/20/21,Healthy,,Dairy 181,24.59477869,Faith PD,Cow
+Dairy182,NY,Farm4,5/20/21,Healthy,,Dairy 182,7.618206846,Faith PD,Cow
+Dairy183,NY,Farm4,5/20/21,Healthy,,Dairy 183,15.52541067,Faith PD,Cow
+Dairy184,NY,Farm4,5/20/21,Healthy,101.5,Dairy 184,14.84579381,Faith PD,Cow
+Dairy185,NY,Farm4,5/20/21,Healthy,102,Dairy 185,11.34881213,Faith PD,calf
+Dairy186,NY,Farm4,5/20/21,Healthy,101.5,Dairy 186,14.12676123,Faith PD,Cow
+Dairy187,NY,Farm4,5/20/21,Healthy,102,Dairy 187,5.112483738,Faith PD,calf
+Dairy188,NY,Farm4,5/20/21,BRD,103.2,Dairy 188,5.268028467,Faith PD,calf
+Dairy189,NY,Farm4,5/20/21,BRD,101.2,Dairy 189,18.17092836,Faith PD,Cow
+Dairy190,NY,Farm4,5/20/21,BRD,103,Dairy 190,6.443707575,Faith PD,Cow
+Dairy191,NY,Farm4,5/20/21,BRD,102.5,Dairy 191,9.04958254,Faith PD,Cow
+Dairy192,NY,Farm4,5/20/21,BRD,102.4,Dairy 192,14.90439296,Faith PD,Cow
+Dairy193,NY,Farm4,5/20/21,BRD,101.4,Dairy 193,8.014108923,Faith PD,Cow
+Dairy194,NY,Farm4,5/20/21,BRD,102,Dairy 194,7.779715018,Faith PD,Cow
+Dairy195,NY,Farm4,5/20/21,BRD,100.1,Dairy 195,8.003559295,Faith PD,Cow
+Dairy196,NY,Farm4,5/20/21,BRD,103.9,Dairy 196,16.21607553,Faith PD,Cow
+Dairy197,NY,Farm4,5/20/21,BRD,102,Dairy 197,10.97954964,Faith PD,calf
+Dairy198,NY,Farm4,5/20/21,BRD,102.3,Dairy 198,6.322954936,Faith PD,calf
+Dairy199,NY,Farm4,5/20/21,BRD,102.5,Dairy 199,5.166314558,Faith PD,calf
+Dairy200,NY,Farm4,5/20/21,BRD,101.8,Dairy 200,5.380003324,Faith PD,Cow
+Dairy201,NY,Farm4,5/20/21,BRD,102.9,Dairy 201,16.54909986,Faith PD,calf
+Dairy202,NY,Farm4,5/20/21,BRD,102.6,Dairy 202,8.484878004,Faith PD,calf
+Dairy203,NY,Farm4,5/20/21,BRD,102.8,Dairy 203,7.73538419,Faith PD,calf
+Dairy204,TX,Farm1,1/1/22,BRD,101.6,Dairy 204,13.44429436,Faith PD,calf
+Dairy205,TX,Farm1,1/1/22,BRD,100.5,Dairy 205,14.24419103,Faith PD,calf
+Dairy206,TX,Farm1,1/1/22,BRD,102.9,Dairy 206,16.73307864,Faith PD,calf
+Dairy207,TX,Farm1,1/1/22,Healthy,101.9,Dairy 207,16.28818042,Faith PD,calf
+Dairy208,TX,Farm1,1/1/22,Healthy,102.7,Dairy 208,22.15066313,Faith PD,calf
+Dairy209,TX,Farm1,1/1/22,Healthy,101.5,Dairy 209,21.23365178,Faith PD,calf
+Dairy210,TX,Farm1,1/1/22,BRD,102.1,Dairy 210,10.08664299,Faith PD,calf
+Dairy213,TX,Farm1,1/1/22,Healthy,101.4,Dairy 213,27.26608262,Faith PD,calf
+Dairy214,TX,Farm1,1/1/22,BRD,102.6,Dairy 214,15.42414035,Faith PD,calf
+Dairy215,TX,Farm1,1/1/22,BRD,102.3,Dairy 215,7.259560117,Faith PD,calf
+Dairy216,TX,Farm1,1/1/22,Healthy,101.9,Dairy 216,12.46904434,Faith PD,calf
+Dairy217,TX,Farm1,1/1/22,Healthy,101.7,Dairy 217,9.616307972,Faith PD,calf
+Dairy218,TX,Farm1,1/1/22,BRD,102.3,Dairy 218,8.124205917,Faith PD,calf
+Dairy220,TX,Farm1,1/1/22,Healthy,100.6,Dairy 220,19.98106495,Faith PD,calf
+Dairy221,TX,Farm1,1/1/22,Healthy,101.9,Dairy 221,10.46969616,Faith PD,calf
+Dairy222,TX,Farm1,1/1/22,BRD,105.1,Dairy 222,11.45327158,Faith PD,calf
+Dairy223,TX,Farm1,1/1/22,Healthy,101.7,Dairy 223,16.51327358,Faith PD,calf
+Dairy224,TX,Farm1,1/1/22,BRD,101.7,Dairy 224,14.48463075,Faith PD,calf
+Dairy225,TX,Farm1,1/1/22,BRD,97.8,Dairy 225,22.9235432,Faith PD,calf
+Dairy226,TX,Farm1,1/1/22,Healthy,101.2,Dairy 226,14.62578424,Faith PD,calf
+Dairy227,TX,Farm1,1/1/22,Healthy,102.1,Dairy 227,12.15978675,Faith PD,calf
+Dairy228,TX,Farm1,1/1/22,BRD,101.4,Dairy 228,12.90099779,Faith PD,calf
+Dairy231,TX,Farm1,1/1/22,Healthy,102,Dairy 231,12.17055161,Faith PD,calf
+Dairy232,TX,Farm1,1/1/22,BRD,101,Dairy 232,13.53610502,Faith PD,calf
+Dairy233,TX,Farm1,1/1/22,Healthy,102,Dairy 233,12.37866587,Faith PD,calf
+Dairy237,TX,Farm1,1/1/22,Healthy,102.3,Dairy 237,22.28142425,Faith PD,calf
+Dairy238,TX,Farm1,1/1/22,BRD,102.3,Dairy 238,16.24208054,Faith PD,calf
+Dairy239,TX,Farm1,1/1/22,Healthy,101.5,Dairy 239,16.75269673,Faith PD,calf
+Dairy240,TX,Farm1,1/1/22,BRD,102.1,Dairy 240,18.55625926,Faith PD,calf
+Dairy241,TX,Farm1,1/1/22,BRD,102.7,Dairy 241,14.51570148,Faith PD,calf
+Dairy243,TX,Farm1,1/1/22,Healthy,102.3,Dairy 243,28.75180826,Faith PD,calf
+Dairy244,TX,Farm1,1/1/22,BRD,101.7,Dairy 244,16.89655166,Faith PD,calf
+Dairy245,TX,Farm1,1/1/22,Healthy,103.3,Dairy 245,15.02879398,Faith PD,calf
+Dairy248,TX,Farm1,1/1/22,BRD,101.8,Dairy 248,8.750451803,Faith PD,calf
+Dairy249,TX,Farm1,1/1/22,Healthy,101.6,Dairy 249,15.72940917,Faith PD,calf
+Dairy250,TX,Farm1,1/1/22,BRD,101.9,Dairy 250,19.42209624,Faith PD,calf
+Dairy251,TX,Farm1,1/1/22,BRD,101.4,Dairy 251,12.64476667,Faith PD,calf
+Dairy252,TX,Farm1,1/1/22,Healthy,101.9,Dairy 252,15.2491503,Faith PD,calf
+Dairy253,TX,Farm1,1/1/22,Healthy,102.2,Dairy 253,12.96665822,Faith PD,calf
+Dairy255,TX,Farm1,1/1/22,Healthy,101.7,Dairy 255,8.615967368,Faith PD,calf
+Dairy256,TX,Farm1,1/1/22,BRD,102,Dairy 256,11.05772778,Faith PD,calf
+Dairy257,TX,Farm1,1/1/22,BRD,102.5,Dairy 257,15.13956757,Faith PD,calf
+Dairy258,TX,Farm1,1/1/22,Healthy,103.1,Dairy 258,15.04857559,Faith PD,calf
+Dairy285,TX,Farm1,1/1/22,Healthy,102.2,Dairy 285,15.56391281,Faith PD,calf
+Dairy286,TX,Farm1,1/1/22,BRD,102.3,Dairy 286,15.50063212,Faith PD,calf
+Dairy287,TX,Farm1,1/1/22,Healthy,102.2,Dairy 287,11.97907415,Faith PD,calf
+Dairy288,TX,Farm1,1/1/22,BRD,102.2,Dairy 288,26.25258208,Faith PD,calf
+Dairy289,TX,Farm1,1/1/22,Healthy,102.2,Dairy 289,21.08678595,Faith PD,calf
+Dairy290,TX,Farm1,1/1/22,BRD,101.2,Dairy 290,26.99726114,Faith PD,calf
+Dairy291,TX,Farm1,1/1/22,Healthy,102.9,Dairy 291,12.96501164,Faith PD,calf
+Dairy292,TX,Farm1,1/1/22,BRD,101.8,Dairy 292,16.90361015,Faith PD,calf
+Dairy294,TX,Farm1,1/1/22,BRD,101.6,Dairy 294,25.72830826,Faith PD,calf
+Dairy295,TX,Farm1,1/1/22,BRD,102,Dairy 295,28.79198596,Faith PD,calf
+Dairy296,TX,Farm1,1/1/22,BRD,102.5,Dairy 296,15.39898599,Faith PD,calf
+Dairy299,TX,Farm1,1/1/22,Healthy,102.8,Dairy 299,17.87865223,Faith PD,calf
+Dairy302,TX,Farm1,1/1/22,Healthy,101.5,Dairy 302,18.09281064,Faith PD,calf
+Dairy303,TX,Farm1,1/1/22,BRD,101.2,Dairy 303,12.58530456,Faith PD,calf
+Dairy304,TX,Farm1,1/1/22,BRD,102.1,Dairy 304,25.69206069,Faith PD,calf
+Dairy305,TX,Farm1,1/1/22,Healthy,102.2,Dairy 305,22.4181049,Faith PD,calf
+Dairy306,TX,Farm1,1/1/22,Healthy,102.2,Dairy 306,17.90820513,Faith PD,calf
+Dairy307,TX,Farm1,1/1/22,BRD,104.3,Dairy 307,16.86858624,Faith PD,calf
+Dairy308,TX,Farm1,1/1/22,Healthy,102.2,Dairy 308,12.67269453,Faith PD,calf
+Dairy309,TX,Farm1,1/1/22,BRD,101.7,Dairy 309,25.60780512,Faith PD,calf
+Dairy310,TX,Farm1,1/1/22,Healthy,100.5,Dairy 310,24.25810612,Faith PD,calf
+Dairy312,TX,Farm1,1/1/22,Healthy,102.2,Dairy 312,17.87186176,Faith PD,calf
+Dairy314,TX,Farm1,1/1/22,BRD,101.1,Dairy 314,28.50249126,Faith PD,calf
+Dairy315,TX,Farm1,1/1/22,Healthy,101.6,Dairy 315,37.26636294,Faith PD,calf
+Dairy261,TX,Farm1,1/1/22,Healthy,102.7,Dairy261,11.47466272,Faith PD,calf
+Dairy263,TX,Farm1,1/1/22,Healthy,101.8,Dairy263,16.23256907,Faith PD,calf
+Dairy264,TX,Farm1,1/1/22,BRD,102.8,Dairy264,13.83737286,Faith PD,calf
+Dairy265,TX,Farm1,1/1/22,Healthy,103,Dairy265,22.65700823,Faith PD,calf
+Dairy266,TX,Farm1,1/1/22,Healthy,102.1,Dairy266,13.45033927,Faith PD,calf
+Dairy268,TX,Farm1,1/1/22,Healthy,101.9,Dairy268,22.75852267,Faith PD,calf
+Dairy269,TX,Farm1,1/1/22,Healthy,101.7,Dairy269,20.19978395,Faith PD,calf
+Dairy270,TX,Farm1,1/1/22,BRD,102.3,Dairy270,15.77088739,Faith PD,calf
+Dairy271,TX,Farm1,1/1/22,BRD,104.8,Dairy271,19.91940664,Faith PD,calf
+Dairy273,TX,Farm1,1/1/22,BRD,103.8,Dairy273,19.4686813,Faith PD,calf
+Dairy275,TX,Farm1,1/1/22,Healthy,102.9,Dairy275,11.58185164,Faith PD,calf
+Dairy276,TX,Farm1,1/1/22,BRD,102.5,Dairy276,9.888334824,Faith PD,calf
+Dairy277,TX,Farm1,1/1/22,BRD,102.7,Dairy277,9.349012754,Faith PD,calf
+Dairy278,TX,Farm1,1/1/22,Healthy,102.2,Dairy278,16.73583716,Faith PD,calf
+Dairy279,TX,Farm1,1/1/22,Healthy,103.2,Dairy279,13.0641182,Faith PD,calf
+Dairy280,TX,Farm1,1/1/22,BRD,103.8,Dairy280,27.18505906,Faith PD,calf
+Dairy282,TX,Farm1,1/1/22,BRD,103,Dairy282,20.50305954,Faith PD,calf
+Dairy283,TX,Farm1,1/1/22,BRD,103,Dairy283,27.05239703,Faith PD,calf
+Dairy284,TX,Farm1,1/1/22,Healthy,102.2,Dairy284,14.04328365,Faith PD,calf
+Dairy317,CA,Farm2,07/14-15/2022,Healthy,104.8,Dairy 317,130,Observed ASVs,calf
+Dairy318,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 318,62,Observed ASVs,calf
+Dairy320,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 320,89,Observed ASVs,calf
+Dairy321,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 321,95,Observed ASVs,calf
+Dairy322,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 322,57,Observed ASVs,calf
+Dairy323,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 323,62,Observed ASVs,calf
+Dairy324,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 324,48,Observed ASVs,calf
+Dairy325,CA,Farm2,07/14-15/2022,Healthy,102.4,Dairy 325,36,Observed ASVs,calf
+Dairy326,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 326,77,Observed ASVs,calf
+Dairy327,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 327,58,Observed ASVs,calf
+Dairy328,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 328,58,Observed ASVs,calf
+Dairy329,CA,Farm2,07/14-15/2022,Healthy,103.2,Dairy 329,115,Observed ASVs,calf
+Dairy330,CA,Farm2,07/14-15/2022,Healthy,101.5,Dairy 330,73,Observed ASVs,calf
+Dairy331,CA,Farm2,07/14-15/2022,Healthy,105.1,Dairy 331,69,Observed ASVs,calf
+Dairy332,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 332,98,Observed ASVs,calf
+Dairy333,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 333,75,Observed ASVs,calf
+Dairy334,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 334,63,Observed ASVs,calf
+Dairy335,CA,Farm2,07/14-15/2022,Healthy,102.9,Dairy 335,49,Observed ASVs,calf
+Dairy336,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 336,83,Observed ASVs,calf
+Dairy337,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 337,110,Observed ASVs,calf
+Dairy338,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 338,61,Observed ASVs,calf
+Dairy340,CA,Farm2,07/14-15/2022,Healthy,102.5,Dairy 340,57,Observed ASVs,calf
+Dairy341,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 341,55,Observed ASVs,calf
+Dairy342,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 342,71,Observed ASVs,calf
+Dairy343,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 343,66,Observed ASVs,calf
+Dairy344,CA,Farm2,07/14-15/2022,Healthy,102.6,Dairy 344,81,Observed ASVs,calf
+Dairy345,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 345,105,Observed ASVs,calf
+Dairy346,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 346,103,Observed ASVs,calf
+Dairy347,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 347,145,Observed ASVs,calf
+Dairy348,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 348,52,Observed ASVs,calf
+Dairy349,CA,Farm2,07/14-15/2022,Healthy,103.8,Dairy 349,83,Observed ASVs,calf
+Dairy351,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 351,76,Observed ASVs,calf
+Dairy355,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 355,80,Observed ASVs,calf
+Dairy356,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 356,69,Observed ASVs,calf
+Dairy357,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 357,46,Observed ASVs,calf
+Dairy358,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 358,108,Observed ASVs,calf
+Dairy359,CA,Farm2,07/14-15/2022,Healthy,100.9,Dairy 359,76,Observed ASVs,calf
+Dairy360,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 360,49,Observed ASVs,calf
+Dairy361,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 361,85,Observed ASVs,calf
+Dairy362,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 362,51,Observed ASVs,calf
+Dairy363,CA,Farm2,07/14-15/2022,Healthy,101.2,Dairy 363,48,Observed ASVs,calf
+Dairy364,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 364,99,Observed ASVs,calf
+Dairy365,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 365,96,Observed ASVs,calf
+Dairy366,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 366,34,Observed ASVs,calf
+Dairy367,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 367,74,Observed ASVs,calf
+Dairy368,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 368,184,Observed ASVs,calf
+Dairy369,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 369,67,Observed ASVs,calf
+Dairy370,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 370,93,Observed ASVs,calf
+Dairy372,CA,Farm2,07/14-15/2022,BRD,100.8,Dairy 372,46,Observed ASVs,calf
+Dairy373,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 373,65,Observed ASVs,calf
+Dairy374,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 374,126,Observed ASVs,calf
+Dairy375,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 375,107,Observed ASVs,calf
+Dairy376,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 376,93,Observed ASVs,calf
+Dairy377,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 377,83,Observed ASVs,calf
+Dairy378,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 378,74,Observed ASVs,calf
+Dairy379,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 379,137,Observed ASVs,calf
+Dairy381,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 381,61,Observed ASVs,calf
+Dairy382,CA,Farm2,07/14-15/2022,BRD,105,Dairy 382,40,Observed ASVs,calf
+Dairy383,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 383,111,Observed ASVs,calf
+Dairy384,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 384,98,Observed ASVs,calf
+Dairy385,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 385,55,Observed ASVs,calf
+Dairy386,CA,Farm2,07/14-15/2022,BRD,104.3,Dairy 386,102,Observed ASVs,calf
+Dairy387,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 387,109,Observed ASVs,calf
+Dairy388,CA,Farm2,07/14-15/2022,BRD,101.3,Dairy 388,129,Observed ASVs,calf
+Dairy389,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 389,70,Observed ASVs,calf
+Dairy390,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 390,60,Observed ASVs,calf
+Dairy391,CA,Farm2,07/14-15/2022,BRD,102.5,Dairy 391,62,Observed ASVs,calf
+Dairy392,CA,Farm2,07/14-15/2022,BRD,102,Dairy 392,37,Observed ASVs,calf
+Dairy393,CA,Farm2,07/14-15/2022,BRD,102.3,Dairy 393,67,Observed ASVs,calf
+Dairy394,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 394,95,Observed ASVs,calf
+Dairy395,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 395,114,Observed ASVs,calf
+Dairy396,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 396,130,Observed ASVs,calf
+Dairy398,CA,Farm2,07/14-15/2022,BRD,103,Dairy 398,118,Observed ASVs,calf
+Dairy401,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 401,136,Observed ASVs,calf
+Dairy402,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 402,71,Observed ASVs,calf
+Dairy403,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 403,92,Observed ASVs,calf
+Dairy404,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 404,109,Observed ASVs,calf
+Dairy405,CA,Farm2,07/14-15/2022,BRD,97.8,Dairy 405,35,Observed ASVs,calf
+Dairy406,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 406,120,Observed ASVs,calf
+Dairy407,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 407,157,Observed ASVs,calf
+Dairy408,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 408,70,Observed ASVs,calf
+Dairy409,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 409,122,Observed ASVs,calf
+Dairy410,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 410,93,Observed ASVs,calf
+Dairy411,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 411,62,Observed ASVs,calf
+Dairy412,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 412,157,Observed ASVs,calf
+Dairy413,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 413,87,Observed ASVs,calf
+Dairy414,CA,Farm2,07/14-15/2022,BRD,103.8,Dairy 414,52,Observed ASVs,calf
+Dairy415,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 415,57,Observed ASVs,calf
+Dairy416,CA,Farm2,07/14-15/2022,BRD,100.6,Dairy 416,52,Observed ASVs,calf
+Dairy417,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 417,86,Observed ASVs,calf
+Dairy418,CA,Farm2,07/14-15/2022,BRD,102.8,Dairy 418,97,Observed ASVs,calf
+Dairy419,CA,Farm2,07/14-15/2022,BRD,103.3,Dairy 419,127,Observed ASVs,calf
+Dairy420,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 420,35,Observed ASVs,calf
+Dairy421,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 421,98,Observed ASVs,calf
+Dairy1,IN,Farm5,2/20/21,BRD,101.7,Dairy 1,325,Observed ASVs,calf
+Dairy100,IN,Farm5,2/27/21,Healthy,,Dairy 100,209,Observed ASVs,calf
+Dairy12,IN,Farm5,2/20/21,BRD,102.6,Dairy 12,137,Observed ASVs,calf
+Dairy13,IN,Farm5,2/20/21,Healthy,,Dairy 13,304,Observed ASVs,Cow
+Dairy14,IN,Farm5,2/20/21,BRD,101.8,Dairy 14,119,Observed ASVs,Cow
+Dairy15,IN,Farm5,2/20/21,Healthy,,Dairy 15,227,Observed ASVs,calf
+Dairy16,IN,Farm5,2/20/21,BRD,102.4,Dairy 16,297,Observed ASVs,calf
+Dairy17,IN,Farm5,2/20/21,BRD,101.2,Dairy 17,309,Observed ASVs,calf
+Dairy18,IN,Farm5,2/20/21,BRD,102.7,Dairy 18,201,Observed ASVs,calf
+Dairy19,IN,Farm5,2/20/21,BRD,102.3,Dairy 19,195,Observed ASVs,calf
+Dairy20,IN,Farm5,2/20/21,BRD,101.5,Dairy 20,287,Observed ASVs,calf
+Dairy21,IN,Farm5,2/20/21,BRD,104.1,Dairy 21,319,Observed ASVs,calf
+Dairy22,IN,Farm5,2/20/21,BRD,102.7,Dairy 22,255,Observed ASVs,calf
+Dairy23,IN,Farm5,2/20/21,BRD,103,Dairy 23,249,Observed ASVs,calf
+Dairy24,IN,Farm5,2/20/21,BRD,102.3,Dairy 24,300,Observed ASVs,calf
+Dairy25,IN,Farm5,2/20/21,BRD,102.4,Dairy 25,342,Observed ASVs,calf
+Dairy26,IN,Farm5,2/20/21,BRD,102.5,Dairy 26,442,Observed ASVs,calf
+Dairy27,IN,Farm5,2/20/21,BRD,103.2,Dairy 27,416,Observed ASVs,calf
+Dairy28,IN,Farm5,2/20/21,BRD,102,Dairy 28,122,Observed ASVs,calf
+Dairy29,IN,Farm5,2/20/21,BRD,102,Dairy 29,147,Observed ASVs,calf
+Dairy3,IN,Farm5,2/20/21,BRD,100.5,Dairy 3,326,Observed ASVs,Cow
+Dairy30,IN,Farm5,2/20/21,BRD,103.5,Dairy 30,202,Observed ASVs,calf
+Dairy31,IN,Farm5,2/20/21,BRD,103.3,Dairy 31,133,Observed ASVs,calf
+Dairy33,IN,Farm5,2/20/21,BRD,102.1,Dairy 33,93,Observed ASVs,calf
+Dairy34,IN,Farm5,2/20/21,BRD,101.4,Dairy 34,138,Observed ASVs,calf
+Dairy35,IN,Farm5,2/20/21,Healthy,102.3,Dairy 35,99,Observed ASVs,calf
+Dairy36,IN,Farm5,2/20/21,BRD,103.3,Dairy 36,155,Observed ASVs,calf
+Dairy38,IN,Farm5,2/20/21,Healthy,102.1,Dairy 38,417,Observed ASVs,calf
+Dairy39,IN,Farm5,2/20/21,BRD,101.9,Dairy 39,150,Observed ASVs,calf
+Dairy4,IN,Farm5,2/20/21,Healthy,,Dairy 4,246,Observed ASVs,calf
+Dairy40,IN,Farm5,2/20/21,Healthy,101.3,Dairy 40,384,Observed ASVs,calf
+Dairy41,IN,Farm5,2/20/21,Healthy,101.9,Dairy 41,182,Observed ASVs,calf
+Dairy42,IN,Farm5,2/27/21,Healthy,101.8,Dairy 42,123,Observed ASVs,calf
+Dairy43,IN,Farm5,2/27/21,Healthy,,Dairy 43,243,Observed ASVs,calf
+Dairy44,IN,Farm5,2/27/21,Healthy,,Dairy 44,169,Observed ASVs,calf
+Dairy45,IN,Farm5,2/27/21,Healthy,,Dairy 45,222,Observed ASVs,calf
+Dairy46,IN,Farm5,2/27/21,Healthy,,Dairy 46,281,Observed ASVs,calf
+Dairy47,IN,Farm5,2/27/21,BRD,104.5,Dairy 47,89,Observed ASVs,calf
+Dairy48,IN,Farm5,2/27/21,Healthy,,Dairy 48,451,Observed ASVs,calf
+Dairy49,IN,Farm5,2/27/21,BRD,103.4,Dairy 49,227,Observed ASVs,calf
+Dairy50,IN,Farm5,2/27/21,BRD,102.1,Dairy 50,163,Observed ASVs,calf
+Dairy51,IN,Farm5,2/27/21,BRD,103.4,Dairy 51,303,Observed ASVs,calf
+Dairy52,IN,Farm5,2/27/21,Healthy,103.2,Dairy 52,487,Observed ASVs,calf
+Dairy53,IN,Farm5,2/27/21,BRD,102.7,Dairy 53,43,Observed ASVs,calf
+Dairy54,IN,Farm5,2/27/21,Healthy,102.6,Dairy 54,311,Observed ASVs,calf
+Dairy55,IN,Farm5,2/27/21,Healthy,102.8,Dairy 55,195,Observed ASVs,calf
+Dairy56,IN,Farm5,2/27/21,Healthy,102.7,Dairy 56,365,Observed ASVs,calf
+Dairy57,IN,Farm5,2/27/21,BRD,102.6,Dairy 57,241,Observed ASVs,calf
+Dairy58,IN,Farm5,2/27/21,BRD,102.3,Dairy 58,88,Observed ASVs,calf
+Dairy59,IN,Farm5,2/27/21,Healthy,102.4,Dairy 59,248,Observed ASVs,calf
+Dairy6,IN,Farm5,2/20/21,BRD,103.2,Dairy 6,55,Observed ASVs,Cow
+Dairy61,IN,Farm5,2/27/21,Healthy,102.6,Dairy 61,306,Observed ASVs,calf
+Dairy62,IN,Farm5,2/27/21,BRD,102.5,Dairy 62,254,Observed ASVs,calf
+Dairy63,IN,Farm5,2/27/21,Healthy,103.5,Dairy 63,225,Observed ASVs,calf
+Dairy65,IN,Farm5,2/27/21,BRD,102.1,Dairy 65,77,Observed ASVs,calf
+Dairy66,IN,Farm5,2/27/21,Healthy,102.2,Dairy 66,454,Observed ASVs,calf
+Dairy67,IN,Farm5,2/27/21,Healthy,102.5,Dairy 67,375,Observed ASVs,calf
+Dairy68,IN,Farm5,2/27/21,BRD,102.3,Dairy 68,157,Observed ASVs,calf
+Dairy69,IN,Farm5,2/27/21,Healthy,102.3,Dairy 69,241,Observed ASVs,calf
+Dairy7,IN,Farm5,2/20/21,Healthy,,Dairy 7,230,Observed ASVs,calf
+Dairy70,IN,Farm5,2/27/21,Healthy,102.8,Dairy 70,282,Observed ASVs,calf
+Dairy71,IN,Farm5,2/27/21,Healthy,102.3,Dairy 71,350,Observed ASVs,calf
+Dairy72,IN,Farm5,2/27/21,BRD,103.7,Dairy 72,162,Observed ASVs,calf
+Dairy74,IN,Farm5,2/27/21,Healthy,102.8,Dairy 74,176,Observed ASVs,calf
+Dairy75,IN,Farm5,2/27/21,Healthy,102,Dairy 75,399,Observed ASVs,calf
+Dairy77,IN,Farm5,2/27/21,Healthy,101.9,Dairy 77,124,Observed ASVs,calf
+Dairy78,IN,Farm5,2/27/21,BRD,101.9,Dairy 78,90,Observed ASVs,calf
+Dairy79,IN,Farm5,2/27/21,BRD,102.6,Dairy 79,222,Observed ASVs,calf
+Dairy8,IN,Farm5,2/20/21,BRD,104.3,Dairy 8,173,Observed ASVs,calf
+Dairy80,IN,Farm5,2/27/21,BRD,102.1,Dairy 80,133,Observed ASVs,calf
+Dairy81,IN,Farm5,2/27/21,Healthy,101,Dairy 81,80,Observed ASVs,calf
+Dairy82,IN,Farm5,2/27/21,Healthy,101.4,Dairy 82,364,Observed ASVs,calf
+Dairy83,IN,Farm5,2/27/21,Healthy,,Dairy 83,481,Observed ASVs,calf
+Dairy84,IN,Farm5,2/27/21,Healthy,100.9,Dairy 84,408,Observed ASVs,calf
+Dairy85,IN,Farm5,2/27/21,Healthy,,Dairy 85,236,Observed ASVs,calf
+Dairy86,IN,Farm5,2/27/21,Healthy,101.6,Dairy 86,293,Observed ASVs,calf
+Dairy87,IN,Farm5,2/27/21,BRD,101,Dairy 87,247,Observed ASVs,calf
+Dairy88,IN,Farm5,2/27/21,Healthy,,Dairy 88,268,Observed ASVs,calf
+Dairy89,IN,Farm5,2/27/21,BRD,103,Dairy 89,137,Observed ASVs,calf
+Dairy9,IN,Farm5,2/20/21,Healthy,,Dairy 9,154,Observed ASVs,calf
+Dairy90,IN,Farm5,2/27/21,BRD,102.3,Dairy 90,191,Observed ASVs,calf
+Dairy91,IN,Farm5,2/27/21,BRD,102.2,Dairy 91,260,Observed ASVs,calf
+Dairy92,IN,Farm5,2/27/21,Healthy,,Dairy 92,201,Observed ASVs,calf
+Dairy93,IN,Farm5,2/27/21,Healthy,,Dairy 93,282,Observed ASVs,calf
+Dairy94,IN,Farm5,2/27/21,Healthy,,Dairy 94,283,Observed ASVs,calf
+Dairy95,IN,Farm5,2/27/21,Healthy,,Dairy 95,536,Observed ASVs,calf
+Dairy96,IN,Farm5,2/27/21,Healthy,,Dairy 96,284,Observed ASVs,calf
+Dairy97,IN,Farm5,2/27/21,Healthy,,Dairy 97,293,Observed ASVs,calf
+Dairy98,IN,Farm5,2/27/21,BRD,103.6,Dairy 98,117,Observed ASVs,calf
+Dairy99,IN,Farm5,2/27/21,BRD,102.8,Dairy 99,71,Observed ASVs,calf
+Dairy101,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 101,590,Observed ASVs,calf
+Dairy102,NY,Farm3,05/18-19/2021,Healthy,101.8,Dairy 102,219,Observed ASVs,calf
+Dairy103,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 103,240,Observed ASVs,calf
+Dairy104,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 104,184,Observed ASVs,calf
+Dairy105,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 105,175,Observed ASVs,calf
+Dairy106,NY,Farm3,05/18-19/2021,Healthy,,Dairy 106,385,Observed ASVs,calf
+Dairy107,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 107,367,Observed ASVs,calf
+Dairy108,NY,Farm3,05/18-19/2021,Healthy,,Dairy 108,257,Observed ASVs,calf
+Dairy109,NY,Farm3,05/18-19/2021,Healthy,101.7,Dairy 109,300,Observed ASVs,calf
+Dairy110,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 110,195,Observed ASVs,calf
+Dairy111,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 111,384,Observed ASVs,calf
+Dairy112,NY,Farm3,05/18-19/2021,Healthy,102.2,Dairy 112,146,Observed ASVs,calf
+Dairy113,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 113,299,Observed ASVs,calf
+Dairy114,NY,Farm3,05/18-19/2021,Healthy,,Dairy 114,178,Observed ASVs,calf
+Dairy115,NY,Farm3,05/18-19/2021,Healthy,,Dairy 115,229,Observed ASVs,calf
+Dairy116,NY,Farm3,05/18-19/2021,Healthy,,Dairy 116,210,Observed ASVs,calf
+Dairy117,NY,Farm3,05/18-19/2021,Healthy,102.1,Dairy 117,207,Observed ASVs,calf
+Dairy118,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 118,145,Observed ASVs,calf
+Dairy119,NY,Farm3,05/18-19/2021,Healthy,101.4,Dairy 119,314,Observed ASVs,calf
+Dairy120,NY,Farm3,05/18-19/2021,Healthy,,Dairy 120,165,Observed ASVs,calf
+Dairy121,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 121,373,Observed ASVs,calf
+Dairy122,NY,Farm3,05/18-19/2021,Healthy,101.9,Dairy 122,215,Observed ASVs,calf
+Dairy123,NY,Farm3,05/18-19/2021,Healthy,,Dairy 123,427,Observed ASVs,calf
+Dairy124,NY,Farm3,05/18-19/2021,Healthy,,Dairy 124,523,Observed ASVs,calf
+Dairy125,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 125,174,Observed ASVs,calf
+Dairy126,NY,Farm3,05/18-19/2021,Healthy,,Dairy 126,121,Observed ASVs,calf
+Dairy127,NY,Farm3,05/18-19/2021,Healthy,104,Dairy 127,305,Observed ASVs,calf
+Dairy128,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 128,188,Observed ASVs,calf
+Dairy129,NY,Farm3,05/18-19/2021,Healthy,,Dairy 129,70,Observed ASVs,calf
+Dairy130,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 130,257,Observed ASVs,calf
+Dairy131,NY,Farm3,05/18-19/2021,Healthy,,Dairy 131,233,Observed ASVs,calf
+Dairy132,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 132,217,Observed ASVs,calf
+Dairy133,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 133,267,Observed ASVs,calf
+Dairy134,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 134,201,Observed ASVs,calf
+Dairy135,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 135,236,Observed ASVs,calf
+Dairy136,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 136,165,Observed ASVs,calf
+Dairy137,NY,Farm3,05/18-19/2021,BRD,102.7,Dairy 137,109,Observed ASVs,calf
+Dairy138,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 138,213,Observed ASVs,calf
+Dairy139,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 139,79,Observed ASVs,calf
+Dairy140,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 140,233,Observed ASVs,calf
+Dairy141,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 141,183,Observed ASVs,calf
+Dairy142,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 142,96,Observed ASVs,calf
+Dairy143,NY,Farm3,05/18-19/2021,BRD,103,Dairy 143,128,Observed ASVs,calf
+Dairy144,NY,Farm3,05/18-19/2021,BRD,102,Dairy 144,172,Observed ASVs,calf
+Dairy145,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 145,271,Observed ASVs,calf
+Dairy146,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 146,226,Observed ASVs,calf
+Dairy147,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 147,398,Observed ASVs,calf
+Dairy149,NY,Farm3,05/18-19/2021,BRD,103,Dairy 149,106,Observed ASVs,calf
+Dairy150,NY,Farm3,05/18-19/2021,BRD,103,Dairy 150,256,Observed ASVs,calf
+Dairy151,NY,Farm3,05/18-19/2021,BRD,101.7,Dairy 151,273,Observed ASVs,calf
+Dairy152,NY,Farm3,05/18-19/2021,BRD,103,Dairy 152,194,Observed ASVs,calf
+Dairy153,NY,Farm3,05/18-19/2021,BRD,105.8,Dairy 153,186,Observed ASVs,calf
+Dairy154,NY,Farm3,05/18-19/2021,BRD,105.3,Dairy 154,152,Observed ASVs,calf
+Dairy155,NY,Farm3,05/18-19/2021,BRD,102,Dairy 155,288,Observed ASVs,calf
+Dairy156,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 156,311,Observed ASVs,calf
+Dairy157,NY,Farm3,05/18-19/2021,BRD,106,Dairy 157,309,Observed ASVs,calf
+Dairy158,NY,Farm3,05/18-19/2021,BRD,106.3,Dairy 158,153,Observed ASVs,calf
+Dairy159,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 159,277,Observed ASVs,calf
+Dairy160,NY,Farm3,05/18-19/2021,BRD,102.1,Dairy 160,280,Observed ASVs,calf
+Dairy161,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 161,140,Observed ASVs,calf
+Dairy162,NY,Farm3,05/18-19/2021,BRD,102.8,Dairy 162,161,Observed ASVs,calf
+Dairy163,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 163,386,Observed ASVs,calf
+Dairy164,NY,Farm3,05/18-19/2021,BRD,104.9,Dairy 164,92,Observed ASVs,calf
+Dairy165,NY,Farm3,05/18-19/2021,BRD,101.6,Dairy 165,206,Observed ASVs,calf
+Dairy166,NY,Farm3,05/18-19/2021,BRD,102,Dairy 166,138,Observed ASVs,calf
+Dairy167,NY,Farm3,05/18-19/2021,BRD,,Dairy 167,150,Observed ASVs,calf
+Dairy168,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 168,192,Observed ASVs,calf
+Dairy169,NY,Farm3,05/18-19/2021,BRD,102,Dairy 169,350,Observed ASVs,calf
+Dairy170,NY,Farm3,05/18-19/2021,BRD,104,Dairy 170,140,Observed ASVs,calf
+Dairy171,NY,Farm4,5/20/21,Healthy,101.6,Dairy 171,58,Observed ASVs,Cow
+Dairy172,NY,Farm4,5/20/21,Healthy,101.2,Dairy 172,75,Observed ASVs,calf
+Dairy174,NY,Farm4,5/20/21,Healthy,101.7,Dairy 174,127,Observed ASVs,Cow
+Dairy177,NY,Farm4,5/20/21,Healthy,,Dairy 177,333,Observed ASVs,Cow
+Dairy178,NY,Farm4,5/20/21,Healthy,,Dairy 178,112,Observed ASVs,Cow
+Dairy180,NY,Farm4,5/20/21,Healthy,102.5,Dairy 180,147,Observed ASVs,Cow
+Dairy181,NY,Farm4,5/20/21,Healthy,,Dairy 181,245,Observed ASVs,Cow
+Dairy182,NY,Farm4,5/20/21,Healthy,,Dairy 182,68,Observed ASVs,Cow
+Dairy183,NY,Farm4,5/20/21,Healthy,,Dairy 183,194,Observed ASVs,Cow
+Dairy184,NY,Farm4,5/20/21,Healthy,101.5,Dairy 184,170,Observed ASVs,Cow
+Dairy185,NY,Farm4,5/20/21,Healthy,102,Dairy 185,118,Observed ASVs,calf
+Dairy186,NY,Farm4,5/20/21,Healthy,101.5,Dairy 186,137,Observed ASVs,Cow
+Dairy187,NY,Farm4,5/20/21,Healthy,102,Dairy 187,36,Observed ASVs,calf
+Dairy188,NY,Farm4,5/20/21,BRD,103.2,Dairy 188,38,Observed ASVs,calf
+Dairy189,NY,Farm4,5/20/21,BRD,101.2,Dairy 189,218,Observed ASVs,Cow
+Dairy190,NY,Farm4,5/20/21,BRD,103,Dairy 190,52,Observed ASVs,Cow
+Dairy191,NY,Farm4,5/20/21,BRD,102.5,Dairy 191,98,Observed ASVs,Cow
+Dairy192,NY,Farm4,5/20/21,BRD,102.4,Dairy 192,162,Observed ASVs,Cow
+Dairy193,NY,Farm4,5/20/21,BRD,101.4,Dairy 193,105,Observed ASVs,Cow
+Dairy194,NY,Farm4,5/20/21,BRD,102,Dairy 194,62,Observed ASVs,Cow
+Dairy195,NY,Farm4,5/20/21,BRD,100.1,Dairy 195,102,Observed ASVs,Cow
+Dairy196,NY,Farm4,5/20/21,BRD,103.9,Dairy 196,194,Observed ASVs,Cow
+Dairy197,NY,Farm4,5/20/21,BRD,102,Dairy 197,102,Observed ASVs,calf
+Dairy198,NY,Farm4,5/20/21,BRD,102.3,Dairy 198,54,Observed ASVs,calf
+Dairy199,NY,Farm4,5/20/21,BRD,102.5,Dairy 199,35,Observed ASVs,calf
+Dairy200,NY,Farm4,5/20/21,BRD,101.8,Dairy 200,35,Observed ASVs,Cow
+Dairy201,NY,Farm4,5/20/21,BRD,102.9,Dairy 201,183,Observed ASVs,calf
+Dairy202,NY,Farm4,5/20/21,BRD,102.6,Dairy 202,81,Observed ASVs,calf
+Dairy203,NY,Farm4,5/20/21,BRD,102.8,Dairy 203,83,Observed ASVs,calf
+Dairy204,TX,Farm1,1/1/22,BRD,101.6,Dairy 204,107,Observed ASVs,calf
+Dairy205,TX,Farm1,1/1/22,BRD,100.5,Dairy 205,107,Observed ASVs,calf
+Dairy206,TX,Farm1,1/1/22,BRD,102.9,Dairy 206,146,Observed ASVs,calf
+Dairy207,TX,Farm1,1/1/22,Healthy,101.9,Dairy 207,194,Observed ASVs,calf
+Dairy208,TX,Farm1,1/1/22,Healthy,102.7,Dairy 208,289,Observed ASVs,calf
+Dairy209,TX,Farm1,1/1/22,Healthy,101.5,Dairy 209,274,Observed ASVs,calf
+Dairy210,TX,Farm1,1/1/22,BRD,102.1,Dairy 210,88,Observed ASVs,calf
+Dairy213,TX,Farm1,1/1/22,Healthy,101.4,Dairy 213,369,Observed ASVs,calf
+Dairy214,TX,Farm1,1/1/22,BRD,102.6,Dairy 214,142,Observed ASVs,calf
+Dairy215,TX,Farm1,1/1/22,BRD,102.3,Dairy 215,75,Observed ASVs,calf
+Dairy216,TX,Farm1,1/1/22,Healthy,101.9,Dairy 216,106,Observed ASVs,calf
+Dairy217,TX,Farm1,1/1/22,Healthy,101.7,Dairy 217,58,Observed ASVs,calf
+Dairy218,TX,Farm1,1/1/22,BRD,102.3,Dairy 218,47,Observed ASVs,calf
+Dairy220,TX,Farm1,1/1/22,Healthy,100.6,Dairy 220,275,Observed ASVs,calf
+Dairy221,TX,Farm1,1/1/22,Healthy,101.9,Dairy 221,94,Observed ASVs,calf
+Dairy222,TX,Farm1,1/1/22,BRD,105.1,Dairy 222,108,Observed ASVs,calf
+Dairy223,TX,Farm1,1/1/22,Healthy,101.7,Dairy 223,152,Observed ASVs,calf
+Dairy224,TX,Farm1,1/1/22,BRD,101.7,Dairy 224,122,Observed ASVs,calf
+Dairy225,TX,Farm1,1/1/22,BRD,97.8,Dairy 225,248,Observed ASVs,calf
+Dairy226,TX,Farm1,1/1/22,Healthy,101.2,Dairy 226,147,Observed ASVs,calf
+Dairy227,TX,Farm1,1/1/22,Healthy,102.1,Dairy 227,91,Observed ASVs,calf
+Dairy228,TX,Farm1,1/1/22,BRD,101.4,Dairy 228,107,Observed ASVs,calf
+Dairy231,TX,Farm1,1/1/22,Healthy,102,Dairy 231,111,Observed ASVs,calf
+Dairy232,TX,Farm1,1/1/22,BRD,101,Dairy 232,137,Observed ASVs,calf
+Dairy233,TX,Farm1,1/1/22,Healthy,102,Dairy 233,105,Observed ASVs,calf
+Dairy237,TX,Farm1,1/1/22,Healthy,102.3,Dairy 237,311,Observed ASVs,calf
+Dairy238,TX,Farm1,1/1/22,BRD,102.3,Dairy 238,173,Observed ASVs,calf
+Dairy239,TX,Farm1,1/1/22,Healthy,101.5,Dairy 239,173,Observed ASVs,calf
+Dairy240,TX,Farm1,1/1/22,BRD,102.1,Dairy 240,199,Observed ASVs,calf
+Dairy241,TX,Farm1,1/1/22,BRD,102.7,Dairy 241,130,Observed ASVs,calf
+Dairy243,TX,Farm1,1/1/22,Healthy,102.3,Dairy 243,410,Observed ASVs,calf
+Dairy244,TX,Farm1,1/1/22,BRD,101.7,Dairy 244,167,Observed ASVs,calf
+Dairy245,TX,Farm1,1/1/22,Healthy,103.3,Dairy 245,145,Observed ASVs,calf
+Dairy248,TX,Farm1,1/1/22,BRD,101.8,Dairy 248,57,Observed ASVs,calf
+Dairy249,TX,Farm1,1/1/22,Healthy,101.6,Dairy 249,174,Observed ASVs,calf
+Dairy250,TX,Farm1,1/1/22,BRD,101.9,Dairy 250,186,Observed ASVs,calf
+Dairy251,TX,Farm1,1/1/22,BRD,101.4,Dairy 251,125,Observed ASVs,calf
+Dairy252,TX,Farm1,1/1/22,Healthy,101.9,Dairy 252,141,Observed ASVs,calf
+Dairy253,TX,Farm1,1/1/22,Healthy,102.2,Dairy 253,111,Observed ASVs,calf
+Dairy255,TX,Farm1,1/1/22,Healthy,101.7,Dairy 255,75,Observed ASVs,calf
+Dairy256,TX,Farm1,1/1/22,BRD,102,Dairy 256,87,Observed ASVs,calf
+Dairy257,TX,Farm1,1/1/22,BRD,102.5,Dairy 257,152,Observed ASVs,calf
+Dairy258,TX,Farm1,1/1/22,Healthy,103.1,Dairy 258,138,Observed ASVs,calf
+Dairy285,TX,Farm1,1/1/22,Healthy,102.2,Dairy 285,199,Observed ASVs,calf
+Dairy286,TX,Farm1,1/1/22,BRD,102.3,Dairy 286,150,Observed ASVs,calf
+Dairy287,TX,Farm1,1/1/22,Healthy,102.2,Dairy 287,128,Observed ASVs,calf
+Dairy288,TX,Farm1,1/1/22,BRD,102.2,Dairy 288,406,Observed ASVs,calf
+Dairy289,TX,Farm1,1/1/22,Healthy,102.2,Dairy 289,192,Observed ASVs,calf
+Dairy290,TX,Farm1,1/1/22,BRD,101.2,Dairy 290,405,Observed ASVs,calf
+Dairy291,TX,Farm1,1/1/22,Healthy,102.9,Dairy 291,150,Observed ASVs,calf
+Dairy292,TX,Farm1,1/1/22,BRD,101.8,Dairy 292,215,Observed ASVs,calf
+Dairy294,TX,Farm1,1/1/22,BRD,101.6,Dairy 294,315,Observed ASVs,calf
+Dairy295,TX,Farm1,1/1/22,BRD,102,Dairy 295,357,Observed ASVs,calf
+Dairy296,TX,Farm1,1/1/22,BRD,102.5,Dairy 296,140,Observed ASVs,calf
+Dairy299,TX,Farm1,1/1/22,Healthy,102.8,Dairy 299,226,Observed ASVs,calf
+Dairy302,TX,Farm1,1/1/22,Healthy,101.5,Dairy 302,213,Observed ASVs,calf
+Dairy303,TX,Farm1,1/1/22,BRD,101.2,Dairy 303,130,Observed ASVs,calf
+Dairy304,TX,Farm1,1/1/22,BRD,102.1,Dairy 304,403,Observed ASVs,calf
+Dairy305,TX,Farm1,1/1/22,Healthy,102.2,Dairy 305,343,Observed ASVs,calf
+Dairy306,TX,Farm1,1/1/22,Healthy,102.2,Dairy 306,254,Observed ASVs,calf
+Dairy307,TX,Farm1,1/1/22,BRD,104.3,Dairy 307,152,Observed ASVs,calf
+Dairy308,TX,Farm1,1/1/22,Healthy,102.2,Dairy 308,118,Observed ASVs,calf
+Dairy309,TX,Farm1,1/1/22,BRD,101.7,Dairy 309,299,Observed ASVs,calf
+Dairy310,TX,Farm1,1/1/22,Healthy,100.5,Dairy 310,266,Observed ASVs,calf
+Dairy312,TX,Farm1,1/1/22,Healthy,102.2,Dairy 312,218,Observed ASVs,calf
+Dairy314,TX,Farm1,1/1/22,BRD,101.1,Dairy 314,370,Observed ASVs,calf
+Dairy315,TX,Farm1,1/1/22,Healthy,101.6,Dairy 315,649,Observed ASVs,calf
+Dairy261,TX,Farm1,1/1/22,Healthy,102.7,Dairy261,106,Observed ASVs,calf
+Dairy263,TX,Farm1,1/1/22,Healthy,101.8,Dairy263,172,Observed ASVs,calf
+Dairy264,TX,Farm1,1/1/22,BRD,102.8,Dairy264,125,Observed ASVs,calf
+Dairy265,TX,Farm1,1/1/22,Healthy,103,Dairy265,291,Observed ASVs,calf
+Dairy266,TX,Farm1,1/1/22,Healthy,102.1,Dairy266,108,Observed ASVs,calf
+Dairy268,TX,Farm1,1/1/22,Healthy,101.9,Dairy268,273,Observed ASVs,calf
+Dairy269,TX,Farm1,1/1/22,Healthy,101.7,Dairy269,250,Observed ASVs,calf
+Dairy270,TX,Farm1,1/1/22,BRD,102.3,Dairy270,154,Observed ASVs,calf
+Dairy271,TX,Farm1,1/1/22,BRD,104.8,Dairy271,186,Observed ASVs,calf
+Dairy273,TX,Farm1,1/1/22,BRD,103.8,Dairy273,203,Observed ASVs,calf
+Dairy275,TX,Farm1,1/1/22,Healthy,102.9,Dairy275,85,Observed ASVs,calf
+Dairy276,TX,Farm1,1/1/22,BRD,102.5,Dairy276,87,Observed ASVs,calf
+Dairy277,TX,Farm1,1/1/22,BRD,102.7,Dairy277,74,Observed ASVs,calf
+Dairy278,TX,Farm1,1/1/22,Healthy,102.2,Dairy278,214,Observed ASVs,calf
+Dairy279,TX,Farm1,1/1/22,Healthy,103.2,Dairy279,127,Observed ASVs,calf
+Dairy280,TX,Farm1,1/1/22,BRD,103.8,Dairy280,395,Observed ASVs,calf
+Dairy282,TX,Farm1,1/1/22,BRD,103,Dairy282,217,Observed ASVs,calf
+Dairy283,TX,Farm1,1/1/22,BRD,103,Dairy283,385,Observed ASVs,calf
+Dairy284,TX,Farm1,1/1/22,Healthy,102.2,Dairy284,156,Observed ASVs,calf
+Dairy317,CA,Farm2,07/14-15/2022,Healthy,104.8,Dairy 317,3.957433464,Shannon,calf
+Dairy318,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 318,3.186262243,Shannon,calf
+Dairy320,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 320,3.048755525,Shannon,calf
+Dairy321,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 321,4.940063718,Shannon,calf
+Dairy322,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 322,2.369460985,Shannon,calf
+Dairy323,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 323,3.989225672,Shannon,calf
+Dairy324,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 324,3.110766852,Shannon,calf
+Dairy325,CA,Farm2,07/14-15/2022,Healthy,102.4,Dairy 325,1.669166608,Shannon,calf
+Dairy326,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 326,3.468955881,Shannon,calf
+Dairy327,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 327,2.183410414,Shannon,calf
+Dairy328,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 328,3.530968543,Shannon,calf
+Dairy329,CA,Farm2,07/14-15/2022,Healthy,103.2,Dairy 329,4.238439788,Shannon,calf
+Dairy330,CA,Farm2,07/14-15/2022,Healthy,101.5,Dairy 330,3.913244876,Shannon,calf
+Dairy331,CA,Farm2,07/14-15/2022,Healthy,105.1,Dairy 331,4.01754301,Shannon,calf
+Dairy332,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 332,3.500790652,Shannon,calf
+Dairy333,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 333,3.467093223,Shannon,calf
+Dairy334,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 334,3.763811713,Shannon,calf
+Dairy335,CA,Farm2,07/14-15/2022,Healthy,102.9,Dairy 335,2.128352109,Shannon,calf
+Dairy336,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 336,2.289737205,Shannon,calf
+Dairy337,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 337,4.101668914,Shannon,calf
+Dairy338,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 338,4.199087192,Shannon,calf
+Dairy340,CA,Farm2,07/14-15/2022,Healthy,102.5,Dairy 340,3.38146656,Shannon,calf
+Dairy341,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 341,3.626560174,Shannon,calf
+Dairy342,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 342,3.186115727,Shannon,calf
+Dairy343,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 343,2.832995616,Shannon,calf
+Dairy344,CA,Farm2,07/14-15/2022,Healthy,102.6,Dairy 344,2.831499673,Shannon,calf
+Dairy345,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 345,2.573658887,Shannon,calf
+Dairy346,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 346,4.197435497,Shannon,calf
+Dairy347,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 347,2.51879287,Shannon,calf
+Dairy348,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 348,2.060762334,Shannon,calf
+Dairy349,CA,Farm2,07/14-15/2022,Healthy,103.8,Dairy 349,4.952053127,Shannon,calf
+Dairy351,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 351,4.591168362,Shannon,calf
+Dairy355,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 355,3.451504175,Shannon,calf
+Dairy356,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 356,3.923694988,Shannon,calf
+Dairy357,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 357,3.01137144,Shannon,calf
+Dairy358,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 358,2.906784312,Shannon,calf
+Dairy359,CA,Farm2,07/14-15/2022,Healthy,100.9,Dairy 359,4.375263536,Shannon,calf
+Dairy360,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 360,3.178408936,Shannon,calf
+Dairy361,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 361,2.066328447,Shannon,calf
+Dairy362,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 362,3.273742091,Shannon,calf
+Dairy363,CA,Farm2,07/14-15/2022,Healthy,101.2,Dairy 363,3.238202642,Shannon,calf
+Dairy364,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 364,4.793632187,Shannon,calf
+Dairy365,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 365,4.351639667,Shannon,calf
+Dairy366,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 366,1.766006775,Shannon,calf
+Dairy367,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 367,4.120197751,Shannon,calf
+Dairy368,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 368,3.958041026,Shannon,calf
+Dairy369,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 369,3.659604837,Shannon,calf
+Dairy370,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 370,4.234557664,Shannon,calf
+Dairy372,CA,Farm2,07/14-15/2022,BRD,100.8,Dairy 372,3.81964028,Shannon,calf
+Dairy373,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 373,4.403377202,Shannon,calf
+Dairy374,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 374,4.293713023,Shannon,calf
+Dairy375,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 375,4.185658601,Shannon,calf
+Dairy376,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 376,3.085229824,Shannon,calf
+Dairy377,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 377,3.967310211,Shannon,calf
+Dairy378,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 378,2.61210005,Shannon,calf
+Dairy379,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 379,4.756245592,Shannon,calf
+Dairy381,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 381,3.434746111,Shannon,calf
+Dairy382,CA,Farm2,07/14-15/2022,BRD,105,Dairy 382,2.539728864,Shannon,calf
+Dairy383,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 383,4.659247378,Shannon,calf
+Dairy384,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 384,3.876147034,Shannon,calf
+Dairy385,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 385,3.491365991,Shannon,calf
+Dairy386,CA,Farm2,07/14-15/2022,BRD,104.3,Dairy 386,3.791313333,Shannon,calf
+Dairy387,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 387,3.382679904,Shannon,calf
+Dairy388,CA,Farm2,07/14-15/2022,BRD,101.3,Dairy 388,4.578036097,Shannon,calf
+Dairy389,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 389,3.37415455,Shannon,calf
+Dairy390,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 390,4.221400626,Shannon,calf
+Dairy391,CA,Farm2,07/14-15/2022,BRD,102.5,Dairy 391,3.042908458,Shannon,calf
+Dairy392,CA,Farm2,07/14-15/2022,BRD,102,Dairy 392,3.01430412,Shannon,calf
+Dairy393,CA,Farm2,07/14-15/2022,BRD,102.3,Dairy 393,2.797662247,Shannon,calf
+Dairy394,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 394,4.022799353,Shannon,calf
+Dairy395,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 395,3.856769275,Shannon,calf
+Dairy396,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 396,4.639007454,Shannon,calf
+Dairy398,CA,Farm2,07/14-15/2022,BRD,103,Dairy 398,4.372846401,Shannon,calf
+Dairy401,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 401,4.150226639,Shannon,calf
+Dairy402,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 402,4.010678885,Shannon,calf
+Dairy403,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 403,3.481929212,Shannon,calf
+Dairy404,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 404,4.36645399,Shannon,calf
+Dairy405,CA,Farm2,07/14-15/2022,BRD,97.8,Dairy 405,1.832847303,Shannon,calf
+Dairy406,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 406,4.460790493,Shannon,calf
+Dairy407,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 407,3.833798894,Shannon,calf
+Dairy408,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 408,2.881273054,Shannon,calf
+Dairy409,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 409,4.326099552,Shannon,calf
+Dairy410,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 410,4.319524592,Shannon,calf
+Dairy411,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 411,3.538604814,Shannon,calf
+Dairy412,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 412,4.678361857,Shannon,calf
+Dairy413,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 413,4.187951785,Shannon,calf
+Dairy414,CA,Farm2,07/14-15/2022,BRD,103.8,Dairy 414,2.5750235,Shannon,calf
+Dairy415,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 415,3.721583176,Shannon,calf
+Dairy416,CA,Farm2,07/14-15/2022,BRD,100.6,Dairy 416,4.375963307,Shannon,calf
+Dairy417,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 417,4.075895258,Shannon,calf
+Dairy418,CA,Farm2,07/14-15/2022,BRD,102.8,Dairy 418,3.79289746,Shannon,calf
+Dairy419,CA,Farm2,07/14-15/2022,BRD,103.3,Dairy 419,4.488146359,Shannon,calf
+Dairy420,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 420,3.332629447,Shannon,calf
+Dairy421,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 421,3.861885213,Shannon,calf
+Dairy1,IN,Farm5,2/20/21,BRD,101.7,Dairy 1,5.108625092,Shannon,calf
+Dairy100,IN,Farm5,2/27/21,Healthy,,Dairy 100,2.997300139,Shannon,calf
+Dairy12,IN,Farm5,2/20/21,BRD,102.6,Dairy 12,4.970204392,Shannon,calf
+Dairy13,IN,Farm5,2/20/21,Healthy,,Dairy 13,4.816547807,Shannon,Cow
+Dairy14,IN,Farm5,2/20/21,BRD,101.8,Dairy 14,5.00479516,Shannon,Cow
+Dairy15,IN,Farm5,2/20/21,Healthy,,Dairy 15,4.596976291,Shannon,calf
+Dairy16,IN,Farm5,2/20/21,BRD,102.4,Dairy 16,3.227504278,Shannon,calf
+Dairy17,IN,Farm5,2/20/21,BRD,101.2,Dairy 17,6.3753767,Shannon,calf
+Dairy18,IN,Farm5,2/20/21,BRD,102.7,Dairy 18,4.491333156,Shannon,calf
+Dairy19,IN,Farm5,2/20/21,BRD,102.3,Dairy 19,3.904152132,Shannon,calf
+Dairy20,IN,Farm5,2/20/21,BRD,101.5,Dairy 20,4.891465159,Shannon,calf
+Dairy21,IN,Farm5,2/20/21,BRD,104.1,Dairy 21,3.717957639,Shannon,calf
+Dairy22,IN,Farm5,2/20/21,BRD,102.7,Dairy 22,3.706627264,Shannon,calf
+Dairy23,IN,Farm5,2/20/21,BRD,103,Dairy 23,3.330158905,Shannon,calf
+Dairy24,IN,Farm5,2/20/21,BRD,102.3,Dairy 24,4.180594242,Shannon,calf
+Dairy25,IN,Farm5,2/20/21,BRD,102.4,Dairy 25,4.125485484,Shannon,calf
+Dairy26,IN,Farm5,2/20/21,BRD,102.5,Dairy 26,5.227453376,Shannon,calf
+Dairy27,IN,Farm5,2/20/21,BRD,103.2,Dairy 27,5.276525269,Shannon,calf
+Dairy28,IN,Farm5,2/20/21,BRD,102,Dairy 28,2.762549189,Shannon,calf
+Dairy29,IN,Farm5,2/20/21,BRD,102,Dairy 29,3.463908319,Shannon,calf
+Dairy3,IN,Farm5,2/20/21,BRD,100.5,Dairy 3,4.232238991,Shannon,Cow
+Dairy30,IN,Farm5,2/20/21,BRD,103.5,Dairy 30,4.73818857,Shannon,calf
+Dairy31,IN,Farm5,2/20/21,BRD,103.3,Dairy 31,2.743863596,Shannon,calf
+Dairy33,IN,Farm5,2/20/21,BRD,102.1,Dairy 33,2.016738687,Shannon,calf
+Dairy34,IN,Farm5,2/20/21,BRD,101.4,Dairy 34,3.297923198,Shannon,calf
+Dairy35,IN,Farm5,2/20/21,Healthy,102.3,Dairy 35,2.338785541,Shannon,calf
+Dairy36,IN,Farm5,2/20/21,BRD,103.3,Dairy 36,3.14653948,Shannon,calf
+Dairy38,IN,Farm5,2/20/21,Healthy,102.1,Dairy 38,6.6113564,Shannon,calf
+Dairy39,IN,Farm5,2/20/21,BRD,101.9,Dairy 39,3.109092365,Shannon,calf
+Dairy4,IN,Farm5,2/20/21,Healthy,,Dairy 4,4.937899094,Shannon,calf
+Dairy40,IN,Farm5,2/20/21,Healthy,101.3,Dairy 40,5.591810213,Shannon,calf
+Dairy41,IN,Farm5,2/20/21,Healthy,101.9,Dairy 41,2.981513316,Shannon,calf
+Dairy42,IN,Farm5,2/27/21,Healthy,101.8,Dairy 42,2.74494743,Shannon,calf
+Dairy43,IN,Farm5,2/27/21,Healthy,,Dairy 43,4.117195922,Shannon,calf
+Dairy44,IN,Farm5,2/27/21,Healthy,,Dairy 44,3.227604131,Shannon,calf
+Dairy45,IN,Farm5,2/27/21,Healthy,,Dairy 45,5.008150254,Shannon,calf
+Dairy46,IN,Farm5,2/27/21,Healthy,,Dairy 46,4.374191044,Shannon,calf
+Dairy47,IN,Farm5,2/27/21,BRD,104.5,Dairy 47,3.476537113,Shannon,calf
+Dairy48,IN,Farm5,2/27/21,Healthy,,Dairy 48,5.398763597,Shannon,calf
+Dairy49,IN,Farm5,2/27/21,BRD,103.4,Dairy 49,3.588312277,Shannon,calf
+Dairy50,IN,Farm5,2/27/21,BRD,102.1,Dairy 50,3.147900042,Shannon,calf
+Dairy51,IN,Farm5,2/27/21,BRD,103.4,Dairy 51,4.044448111,Shannon,calf
+Dairy52,IN,Farm5,2/27/21,Healthy,103.2,Dairy 52,5.628974146,Shannon,calf
+Dairy53,IN,Farm5,2/27/21,BRD,102.7,Dairy 53,2.056657468,Shannon,calf
+Dairy54,IN,Farm5,2/27/21,Healthy,102.6,Dairy 54,4.92621713,Shannon,calf
+Dairy55,IN,Farm5,2/27/21,Healthy,102.8,Dairy 55,3.013145765,Shannon,calf
+Dairy56,IN,Farm5,2/27/21,Healthy,102.7,Dairy 56,5.154429656,Shannon,calf
+Dairy57,IN,Farm5,2/27/21,BRD,102.6,Dairy 57,4.978229314,Shannon,calf
+Dairy58,IN,Farm5,2/27/21,BRD,102.3,Dairy 58,2.741444011,Shannon,calf
+Dairy59,IN,Farm5,2/27/21,Healthy,102.4,Dairy 59,3.067648084,Shannon,calf
+Dairy6,IN,Farm5,2/20/21,BRD,103.2,Dairy 6,4.337402638,Shannon,Cow
+Dairy61,IN,Farm5,2/27/21,Healthy,102.6,Dairy 61,3.793349193,Shannon,calf
+Dairy62,IN,Farm5,2/27/21,BRD,102.5,Dairy 62,3.560802672,Shannon,calf
+Dairy63,IN,Farm5,2/27/21,Healthy,103.5,Dairy 63,3.102817495,Shannon,calf
+Dairy65,IN,Farm5,2/27/21,BRD,102.1,Dairy 65,3.097542453,Shannon,calf
+Dairy66,IN,Farm5,2/27/21,Healthy,102.2,Dairy 66,5.707465538,Shannon,calf
+Dairy67,IN,Farm5,2/27/21,Healthy,102.5,Dairy 67,5.072435018,Shannon,calf
+Dairy68,IN,Farm5,2/27/21,BRD,102.3,Dairy 68,2.28843926,Shannon,calf
+Dairy69,IN,Farm5,2/27/21,Healthy,102.3,Dairy 69,3.344886756,Shannon,calf
+Dairy7,IN,Farm5,2/20/21,Healthy,,Dairy 7,3.80259385,Shannon,calf
+Dairy70,IN,Farm5,2/27/21,Healthy,102.8,Dairy 70,4.6659012,Shannon,calf
+Dairy71,IN,Farm5,2/27/21,Healthy,102.3,Dairy 71,5.168813879,Shannon,calf
+Dairy72,IN,Farm5,2/27/21,BRD,103.7,Dairy 72,3.478575031,Shannon,calf
+Dairy74,IN,Farm5,2/27/21,Healthy,102.8,Dairy 74,2.448285474,Shannon,calf
+Dairy75,IN,Farm5,2/27/21,Healthy,102,Dairy 75,4.437749183,Shannon,calf
+Dairy77,IN,Farm5,2/27/21,Healthy,101.9,Dairy 77,2.539136057,Shannon,calf
+Dairy78,IN,Farm5,2/27/21,BRD,101.9,Dairy 78,3.052290987,Shannon,calf
+Dairy79,IN,Farm5,2/27/21,BRD,102.6,Dairy 79,2.867049432,Shannon,calf
+Dairy8,IN,Farm5,2/20/21,BRD,104.3,Dairy 8,4.794760338,Shannon,calf
+Dairy80,IN,Farm5,2/27/21,BRD,102.1,Dairy 80,2.885261324,Shannon,calf
+Dairy81,IN,Farm5,2/27/21,Healthy,101,Dairy 81,2.605793542,Shannon,calf
+Dairy82,IN,Farm5,2/27/21,Healthy,101.4,Dairy 82,4.514469783,Shannon,calf
+Dairy83,IN,Farm5,2/27/21,Healthy,,Dairy 83,6.317306569,Shannon,calf
+Dairy84,IN,Farm5,2/27/21,Healthy,100.9,Dairy 84,5.677941766,Shannon,calf
+Dairy85,IN,Farm5,2/27/21,Healthy,,Dairy 85,3.335499743,Shannon,calf
+Dairy86,IN,Farm5,2/27/21,Healthy,101.6,Dairy 86,5.066583806,Shannon,calf
+Dairy87,IN,Farm5,2/27/21,BRD,101,Dairy 87,5.494703746,Shannon,calf
+Dairy88,IN,Farm5,2/27/21,Healthy,,Dairy 88,5.395214908,Shannon,calf
+Dairy89,IN,Farm5,2/27/21,BRD,103,Dairy 89,3.056047021,Shannon,calf
+Dairy9,IN,Farm5,2/20/21,Healthy,,Dairy 9,3.970898816,Shannon,calf
+Dairy90,IN,Farm5,2/27/21,BRD,102.3,Dairy 90,3.595756044,Shannon,calf
+Dairy91,IN,Farm5,2/27/21,BRD,102.2,Dairy 91,5.416173832,Shannon,calf
+Dairy92,IN,Farm5,2/27/21,Healthy,,Dairy 92,3.32056154,Shannon,calf
+Dairy93,IN,Farm5,2/27/21,Healthy,,Dairy 93,4.887999256,Shannon,calf
+Dairy94,IN,Farm5,2/27/21,Healthy,,Dairy 94,4.849950927,Shannon,calf
+Dairy95,IN,Farm5,2/27/21,Healthy,,Dairy 95,7.076354165,Shannon,calf
+Dairy96,IN,Farm5,2/27/21,Healthy,,Dairy 96,6.025965359,Shannon,calf
+Dairy97,IN,Farm5,2/27/21,Healthy,,Dairy 97,3.816553036,Shannon,calf
+Dairy98,IN,Farm5,2/27/21,BRD,103.6,Dairy 98,3.514983851,Shannon,calf
+Dairy99,IN,Farm5,2/27/21,BRD,102.8,Dairy 99,2.02371604,Shannon,calf
+Dairy101,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 101,6.920953307,Shannon,calf
+Dairy102,NY,Farm3,05/18-19/2021,Healthy,101.8,Dairy 102,5.572606477,Shannon,calf
+Dairy103,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 103,4.879654853,Shannon,calf
+Dairy104,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 104,4.989217871,Shannon,calf
+Dairy105,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 105,4.489230795,Shannon,calf
+Dairy106,NY,Farm3,05/18-19/2021,Healthy,,Dairy 106,4.667395029,Shannon,calf
+Dairy107,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 107,5.738620237,Shannon,calf
+Dairy108,NY,Farm3,05/18-19/2021,Healthy,,Dairy 108,4.487425891,Shannon,calf
+Dairy109,NY,Farm3,05/18-19/2021,Healthy,101.7,Dairy 109,5.981852646,Shannon,calf
+Dairy110,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 110,5.711462783,Shannon,calf
+Dairy111,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 111,5.565680967,Shannon,calf
+Dairy112,NY,Farm3,05/18-19/2021,Healthy,102.2,Dairy 112,4.859183756,Shannon,calf
+Dairy113,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 113,5.528471948,Shannon,calf
+Dairy114,NY,Farm3,05/18-19/2021,Healthy,,Dairy 114,3.737376351,Shannon,calf
+Dairy115,NY,Farm3,05/18-19/2021,Healthy,,Dairy 115,4.892326792,Shannon,calf
+Dairy116,NY,Farm3,05/18-19/2021,Healthy,,Dairy 116,5.686415485,Shannon,calf
+Dairy117,NY,Farm3,05/18-19/2021,Healthy,102.1,Dairy 117,5.206561792,Shannon,calf
+Dairy118,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 118,4.292800267,Shannon,calf
+Dairy119,NY,Farm3,05/18-19/2021,Healthy,101.4,Dairy 119,5.829861145,Shannon,calf
+Dairy120,NY,Farm3,05/18-19/2021,Healthy,,Dairy 120,3.879408192,Shannon,calf
+Dairy121,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 121,5.246927976,Shannon,calf
+Dairy122,NY,Farm3,05/18-19/2021,Healthy,101.9,Dairy 122,5.517341528,Shannon,calf
+Dairy123,NY,Farm3,05/18-19/2021,Healthy,,Dairy 123,6.595204107,Shannon,calf
+Dairy124,NY,Farm3,05/18-19/2021,Healthy,,Dairy 124,6.934705256,Shannon,calf
+Dairy125,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 125,4.993116677,Shannon,calf
+Dairy126,NY,Farm3,05/18-19/2021,Healthy,,Dairy 126,3.729016849,Shannon,calf
+Dairy127,NY,Farm3,05/18-19/2021,Healthy,104,Dairy 127,4.392555246,Shannon,calf
+Dairy128,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 128,3.853337269,Shannon,calf
+Dairy129,NY,Farm3,05/18-19/2021,Healthy,,Dairy 129,2.484773473,Shannon,calf
+Dairy130,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 130,5.17011414,Shannon,calf
+Dairy131,NY,Farm3,05/18-19/2021,Healthy,,Dairy 131,4.715266147,Shannon,calf
+Dairy132,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 132,4.703402349,Shannon,calf
+Dairy133,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 133,5.124289398,Shannon,calf
+Dairy134,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 134,4.958397358,Shannon,calf
+Dairy135,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 135,3.651322024,Shannon,calf
+Dairy136,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 136,3.756031946,Shannon,calf
+Dairy137,NY,Farm3,05/18-19/2021,BRD,102.7,Dairy 137,3.263251388,Shannon,calf
+Dairy138,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 138,5.575893471,Shannon,calf
+Dairy139,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 139,2.079654289,Shannon,calf
+Dairy140,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 140,4.470986364,Shannon,calf
+Dairy141,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 141,4.002864538,Shannon,calf
+Dairy142,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 142,3.946991301,Shannon,calf
+Dairy143,NY,Farm3,05/18-19/2021,BRD,103,Dairy 143,2.69204531,Shannon,calf
+Dairy144,NY,Farm3,05/18-19/2021,BRD,102,Dairy 144,3.862270013,Shannon,calf
+Dairy145,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 145,5.507302243,Shannon,calf
+Dairy146,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 146,4.70924062,Shannon,calf
+Dairy147,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 147,5.390210033,Shannon,calf
+Dairy149,NY,Farm3,05/18-19/2021,BRD,103,Dairy 149,4.112001009,Shannon,calf
+Dairy150,NY,Farm3,05/18-19/2021,BRD,103,Dairy 150,4.55545776,Shannon,calf
+Dairy151,NY,Farm3,05/18-19/2021,BRD,101.7,Dairy 151,5.123888346,Shannon,calf
+Dairy152,NY,Farm3,05/18-19/2021,BRD,103,Dairy 152,4.270405814,Shannon,calf
+Dairy153,NY,Farm3,05/18-19/2021,BRD,105.8,Dairy 153,4.218243936,Shannon,calf
+Dairy154,NY,Farm3,05/18-19/2021,BRD,105.3,Dairy 154,3.171175283,Shannon,calf
+Dairy155,NY,Farm3,05/18-19/2021,BRD,102,Dairy 155,5.89232159,Shannon,calf
+Dairy156,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 156,4.985675556,Shannon,calf
+Dairy157,NY,Farm3,05/18-19/2021,BRD,106,Dairy 157,4.856498735,Shannon,calf
+Dairy158,NY,Farm3,05/18-19/2021,BRD,106.3,Dairy 158,2.276121017,Shannon,calf
+Dairy159,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 159,5.468977462,Shannon,calf
+Dairy160,NY,Farm3,05/18-19/2021,BRD,102.1,Dairy 160,6.295421053,Shannon,calf
+Dairy161,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 161,3.590388986,Shannon,calf
+Dairy162,NY,Farm3,05/18-19/2021,BRD,102.8,Dairy 162,3.826363852,Shannon,calf
+Dairy163,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 163,4.977278118,Shannon,calf
+Dairy164,NY,Farm3,05/18-19/2021,BRD,104.9,Dairy 164,2.405487934,Shannon,calf
+Dairy165,NY,Farm3,05/18-19/2021,BRD,101.6,Dairy 165,4.305536331,Shannon,calf
+Dairy166,NY,Farm3,05/18-19/2021,BRD,102,Dairy 166,2.916871602,Shannon,calf
+Dairy167,NY,Farm3,05/18-19/2021,BRD,,Dairy 167,2.696820247,Shannon,calf
+Dairy168,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 168,3.379258711,Shannon,calf
+Dairy169,NY,Farm3,05/18-19/2021,BRD,102,Dairy 169,6.123363963,Shannon,calf
+Dairy170,NY,Farm3,05/18-19/2021,BRD,104,Dairy 170,4.584401015,Shannon,calf
+Dairy171,NY,Farm4,5/20/21,Healthy,101.6,Dairy 171,2.123240046,Shannon,Cow
+Dairy172,NY,Farm4,5/20/21,Healthy,101.2,Dairy 172,3.340350809,Shannon,calf
+Dairy174,NY,Farm4,5/20/21,Healthy,101.7,Dairy 174,3.458413975,Shannon,Cow
+Dairy177,NY,Farm4,5/20/21,Healthy,,Dairy 177,6.673166927,Shannon,Cow
+Dairy178,NY,Farm4,5/20/21,Healthy,,Dairy 178,4.406255538,Shannon,Cow
+Dairy180,NY,Farm4,5/20/21,Healthy,102.5,Dairy 180,5.89391957,Shannon,Cow
+Dairy181,NY,Farm4,5/20/21,Healthy,,Dairy 181,6.267115657,Shannon,Cow
+Dairy182,NY,Farm4,5/20/21,Healthy,,Dairy 182,2.647471178,Shannon,Cow
+Dairy183,NY,Farm4,5/20/21,Healthy,,Dairy 183,4.803809394,Shannon,Cow
+Dairy184,NY,Farm4,5/20/21,Healthy,101.5,Dairy 184,4.794303166,Shannon,Cow
+Dairy185,NY,Farm4,5/20/21,Healthy,102,Dairy 185,3.809028321,Shannon,calf
+Dairy186,NY,Farm4,5/20/21,Healthy,101.5,Dairy 186,4.886308466,Shannon,Cow
+Dairy187,NY,Farm4,5/20/21,Healthy,102,Dairy 187,3.303765224,Shannon,calf
+Dairy188,NY,Farm4,5/20/21,BRD,103.2,Dairy 188,3.45678872,Shannon,calf
+Dairy189,NY,Farm4,5/20/21,BRD,101.2,Dairy 189,3.805412845,Shannon,Cow
+Dairy190,NY,Farm4,5/20/21,BRD,103,Dairy 190,2.954637487,Shannon,Cow
+Dairy191,NY,Farm4,5/20/21,BRD,102.5,Dairy 191,3.481391132,Shannon,Cow
+Dairy192,NY,Farm4,5/20/21,BRD,102.4,Dairy 192,4.7140441,Shannon,Cow
+Dairy193,NY,Farm4,5/20/21,BRD,101.4,Dairy 193,4.629114062,Shannon,Cow
+Dairy194,NY,Farm4,5/20/21,BRD,102,Dairy 194,3.298716413,Shannon,Cow
+Dairy195,NY,Farm4,5/20/21,BRD,100.1,Dairy 195,4.624802811,Shannon,Cow
+Dairy196,NY,Farm4,5/20/21,BRD,103.9,Dairy 196,4.464392231,Shannon,Cow
+Dairy197,NY,Farm4,5/20/21,BRD,102,Dairy 197,3.797802511,Shannon,calf
+Dairy198,NY,Farm4,5/20/21,BRD,102.3,Dairy 198,3.428478027,Shannon,calf
+Dairy199,NY,Farm4,5/20/21,BRD,102.5,Dairy 199,3.133367126,Shannon,calf
+Dairy200,NY,Farm4,5/20/21,BRD,101.8,Dairy 200,3.005621588,Shannon,Cow
+Dairy201,NY,Farm4,5/20/21,BRD,102.9,Dairy 201,4.240523713,Shannon,calf
+Dairy202,NY,Farm4,5/20/21,BRD,102.6,Dairy 202,3.402828248,Shannon,calf
+Dairy203,NY,Farm4,5/20/21,BRD,102.8,Dairy 203,3.644659522,Shannon,calf
+Dairy204,TX,Farm1,1/1/22,BRD,101.6,Dairy 204,3.283967827,Shannon,calf
+Dairy205,TX,Farm1,1/1/22,BRD,100.5,Dairy 205,2.517519982,Shannon,calf
+Dairy206,TX,Farm1,1/1/22,BRD,102.9,Dairy 206,4.106217307,Shannon,calf
+Dairy207,TX,Farm1,1/1/22,Healthy,101.9,Dairy 207,5.250006627,Shannon,calf
+Dairy208,TX,Farm1,1/1/22,Healthy,102.7,Dairy 208,6.268864494,Shannon,calf
+Dairy209,TX,Farm1,1/1/22,Healthy,101.5,Dairy 209,6.18720813,Shannon,calf
+Dairy210,TX,Farm1,1/1/22,BRD,102.1,Dairy 210,4.958830849,Shannon,calf
+Dairy213,TX,Farm1,1/1/22,Healthy,101.4,Dairy 213,6.759158198,Shannon,calf
+Dairy214,TX,Farm1,1/1/22,BRD,102.6,Dairy 214,5.24109051,Shannon,calf
+Dairy215,TX,Farm1,1/1/22,BRD,102.3,Dairy 215,4.089859792,Shannon,calf
+Dairy216,TX,Farm1,1/1/22,Healthy,101.9,Dairy 216,2.96486465,Shannon,calf
+Dairy217,TX,Farm1,1/1/22,Healthy,101.7,Dairy 217,2.211911905,Shannon,calf
+Dairy218,TX,Farm1,1/1/22,BRD,102.3,Dairy 218,2.320848015,Shannon,calf
+Dairy220,TX,Farm1,1/1/22,Healthy,100.6,Dairy 220,6.085451321,Shannon,calf
+Dairy221,TX,Farm1,1/1/22,Healthy,101.9,Dairy 221,3.548959715,Shannon,calf
+Dairy222,TX,Farm1,1/1/22,BRD,105.1,Dairy 222,3.470584031,Shannon,calf
+Dairy223,TX,Farm1,1/1/22,Healthy,101.7,Dairy 223,5.859523652,Shannon,calf
+Dairy224,TX,Farm1,1/1/22,BRD,101.7,Dairy 224,4.285782872,Shannon,calf
+Dairy225,TX,Farm1,1/1/22,BRD,97.8,Dairy 225,5.468017958,Shannon,calf
+Dairy226,TX,Farm1,1/1/22,Healthy,101.2,Dairy 226,5.830803107,Shannon,calf
+Dairy227,TX,Farm1,1/1/22,Healthy,102.1,Dairy 227,3.153636345,Shannon,calf
+Dairy228,TX,Farm1,1/1/22,BRD,101.4,Dairy 228,3.361356471,Shannon,calf
+Dairy231,TX,Farm1,1/1/22,Healthy,102,Dairy 231,4.040977875,Shannon,calf
+Dairy232,TX,Farm1,1/1/22,BRD,101,Dairy 232,4.298855721,Shannon,calf
+Dairy233,TX,Farm1,1/1/22,Healthy,102,Dairy 233,2.782387659,Shannon,calf
+Dairy237,TX,Farm1,1/1/22,Healthy,102.3,Dairy 237,6.757227273,Shannon,calf
+Dairy238,TX,Farm1,1/1/22,BRD,102.3,Dairy 238,5.495938587,Shannon,calf
+Dairy239,TX,Farm1,1/1/22,Healthy,101.5,Dairy 239,4.802258875,Shannon,calf
+Dairy240,TX,Farm1,1/1/22,BRD,102.1,Dairy 240,5.120499722,Shannon,calf
+Dairy241,TX,Farm1,1/1/22,BRD,102.7,Dairy 241,5.135234777,Shannon,calf
+Dairy243,TX,Farm1,1/1/22,Healthy,102.3,Dairy 243,7.004966905,Shannon,calf
+Dairy244,TX,Farm1,1/1/22,BRD,101.7,Dairy 244,4.000657366,Shannon,calf
+Dairy245,TX,Farm1,1/1/22,Healthy,103.3,Dairy 245,3.952379321,Shannon,calf
+Dairy248,TX,Farm1,1/1/22,BRD,101.8,Dairy 248,2.620687517,Shannon,calf
+Dairy249,TX,Farm1,1/1/22,Healthy,101.6,Dairy 249,4.62381655,Shannon,calf
+Dairy250,TX,Farm1,1/1/22,BRD,101.9,Dairy 250,5.288644296,Shannon,calf
+Dairy251,TX,Farm1,1/1/22,BRD,101.4,Dairy 251,5.793118219,Shannon,calf
+Dairy252,TX,Farm1,1/1/22,Healthy,101.9,Dairy 252,4.090772821,Shannon,calf
+Dairy253,TX,Farm1,1/1/22,Healthy,102.2,Dairy 253,5.037817017,Shannon,calf
+Dairy255,TX,Farm1,1/1/22,Healthy,101.7,Dairy 255,2.166731523,Shannon,calf
+Dairy256,TX,Farm1,1/1/22,BRD,102,Dairy 256,3.580040352,Shannon,calf
+Dairy257,TX,Farm1,1/1/22,BRD,102.5,Dairy 257,4.604488753,Shannon,calf
+Dairy258,TX,Farm1,1/1/22,Healthy,103.1,Dairy 258,5.538738167,Shannon,calf
+Dairy285,TX,Farm1,1/1/22,Healthy,102.2,Dairy 285,4.996906063,Shannon,calf
+Dairy286,TX,Farm1,1/1/22,BRD,102.3,Dairy 286,4.514668252,Shannon,calf
+Dairy287,TX,Farm1,1/1/22,Healthy,102.2,Dairy 287,4.854504826,Shannon,calf
+Dairy288,TX,Farm1,1/1/22,BRD,102.2,Dairy 288,5.387587953,Shannon,calf
+Dairy289,TX,Farm1,1/1/22,Healthy,102.2,Dairy 289,3.391488862,Shannon,calf
+Dairy290,TX,Farm1,1/1/22,BRD,101.2,Dairy 290,4.282161625,Shannon,calf
+Dairy291,TX,Farm1,1/1/22,Healthy,102.9,Dairy 291,3.502206328,Shannon,calf
+Dairy292,TX,Farm1,1/1/22,BRD,101.8,Dairy 292,5.24914735,Shannon,calf
+Dairy294,TX,Farm1,1/1/22,BRD,101.6,Dairy 294,6.666660029,Shannon,calf
+Dairy295,TX,Farm1,1/1/22,BRD,102,Dairy 295,5.893656034,Shannon,calf
+Dairy296,TX,Farm1,1/1/22,BRD,102.5,Dairy 296,2.551194427,Shannon,calf
+Dairy299,TX,Farm1,1/1/22,Healthy,102.8,Dairy 299,4.204634592,Shannon,calf
+Dairy302,TX,Farm1,1/1/22,Healthy,101.5,Dairy 302,5.083988326,Shannon,calf
+Dairy303,TX,Farm1,1/1/22,BRD,101.2,Dairy 303,2.716340045,Shannon,calf
+Dairy304,TX,Farm1,1/1/22,BRD,102.1,Dairy 304,5.91708691,Shannon,calf
+Dairy305,TX,Farm1,1/1/22,Healthy,102.2,Dairy 305,5.601407927,Shannon,calf
+Dairy306,TX,Farm1,1/1/22,Healthy,102.2,Dairy 306,3.994627052,Shannon,calf
+Dairy307,TX,Farm1,1/1/22,BRD,104.3,Dairy 307,2.802769374,Shannon,calf
+Dairy308,TX,Farm1,1/1/22,Healthy,102.2,Dairy 308,3.680283485,Shannon,calf
+Dairy309,TX,Farm1,1/1/22,BRD,101.7,Dairy 309,5.704996992,Shannon,calf
+Dairy310,TX,Farm1,1/1/22,Healthy,100.5,Dairy 310,5.181725105,Shannon,calf
+Dairy312,TX,Farm1,1/1/22,Healthy,102.2,Dairy 312,4.609902912,Shannon,calf
+Dairy314,TX,Farm1,1/1/22,BRD,101.1,Dairy 314,6.047096709,Shannon,calf
+Dairy315,TX,Farm1,1/1/22,Healthy,101.6,Dairy 315,7.191745423,Shannon,calf
+Dairy261,TX,Farm1,1/1/22,Healthy,102.7,Dairy261,5.584743413,Shannon,calf
+Dairy263,TX,Farm1,1/1/22,Healthy,101.8,Dairy263,5.605667709,Shannon,calf
+Dairy264,TX,Farm1,1/1/22,BRD,102.8,Dairy264,3.876806271,Shannon,calf
+Dairy265,TX,Farm1,1/1/22,Healthy,103,Dairy265,6.557243672,Shannon,calf
+Dairy266,TX,Farm1,1/1/22,Healthy,102.1,Dairy266,3.571173915,Shannon,calf
+Dairy268,TX,Farm1,1/1/22,Healthy,101.9,Dairy268,6.882591626,Shannon,calf
+Dairy269,TX,Farm1,1/1/22,Healthy,101.7,Dairy269,6.568775914,Shannon,calf
+Dairy270,TX,Farm1,1/1/22,BRD,102.3,Dairy270,4.275576018,Shannon,calf
+Dairy271,TX,Farm1,1/1/22,BRD,104.8,Dairy271,2.781983264,Shannon,calf
+Dairy273,TX,Farm1,1/1/22,BRD,103.8,Dairy273,4.878415996,Shannon,calf
+Dairy275,TX,Farm1,1/1/22,Healthy,102.9,Dairy275,2.597290394,Shannon,calf
+Dairy276,TX,Farm1,1/1/22,BRD,102.5,Dairy276,2.113074048,Shannon,calf
+Dairy277,TX,Farm1,1/1/22,BRD,102.7,Dairy277,1.629428225,Shannon,calf
+Dairy278,TX,Farm1,1/1/22,Healthy,102.2,Dairy278,2.897966849,Shannon,calf
+Dairy279,TX,Farm1,1/1/22,Healthy,103.2,Dairy279,3.926982126,Shannon,calf
+Dairy280,TX,Farm1,1/1/22,BRD,103.8,Dairy280,3.862509529,Shannon,calf
+Dairy282,TX,Farm1,1/1/22,BRD,103,Dairy282,3.970670247,Shannon,calf
+Dairy283,TX,Farm1,1/1/22,BRD,103,Dairy283,6.540682872,Shannon,calf
+Dairy284,TX,Farm1,1/1/22,Healthy,102.2,Dairy284,4.151290319,Shannon,calf
+Dairy317,CA,Farm2,07/14-15/2022,Healthy,104.8,Dairy 317,167,Chao1,calf
+Dairy318,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 318,65.27272727,Chao1,calf
+Dairy320,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 320,114.0909091,Chao1,calf
+Dairy321,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 321,95,Chao1,calf
+Dairy322,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 322,58.42857143,Chao1,calf
+Dairy323,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 323,62.75,Chao1,calf
+Dairy324,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 324,48.375,Chao1,calf
+Dairy325,CA,Farm2,07/14-15/2022,Healthy,102.4,Dairy 325,58.5,Chao1,calf
+Dairy326,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 326,79.625,Chao1,calf
+Dairy327,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 327,77.5,Chao1,calf
+Dairy328,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 328,58.11111111,Chao1,calf
+Dairy329,CA,Farm2,07/14-15/2022,Healthy,103.2,Dairy 329,120.2,Chao1,calf
+Dairy330,CA,Farm2,07/14-15/2022,Healthy,101.5,Dairy 330,84.66666667,Chao1,calf
+Dairy331,CA,Farm2,07/14-15/2022,Healthy,105.1,Dairy 331,70,Chao1,calf
+Dairy332,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 332,105.8,Chao1,calf
+Dairy333,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 333,80.14285714,Chao1,calf
+Dairy334,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 334,63.25,Chao1,calf
+Dairy335,CA,Farm2,07/14-15/2022,Healthy,102.9,Dairy 335,52.5,Chao1,calf
+Dairy336,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 336,86,Chao1,calf
+Dairy337,CA,Farm2,07/14-15/2022,Healthy,103,Dairy 337,125,Chao1,calf
+Dairy338,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 338,61,Chao1,calf
+Dairy340,CA,Farm2,07/14-15/2022,Healthy,102.5,Dairy 340,59,Chao1,calf
+Dairy341,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 341,55.75,Chao1,calf
+Dairy342,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 342,80,Chao1,calf
+Dairy343,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 343,83.14285714,Chao1,calf
+Dairy344,CA,Farm2,07/14-15/2022,Healthy,102.6,Dairy 344,82.36363636,Chao1,calf
+Dairy345,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 345,120,Chao1,calf
+Dairy346,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 346,118.3,Chao1,calf
+Dairy347,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 347,220.3157895,Chao1,calf
+Dairy348,CA,Farm2,07/14-15/2022,Healthy,102.7,Dairy 348,52.5,Chao1,calf
+Dairy349,CA,Farm2,07/14-15/2022,Healthy,103.8,Dairy 349,84.5,Chao1,calf
+Dairy351,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 351,81,Chao1,calf
+Dairy355,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 355,87,Chao1,calf
+Dairy356,CA,Farm2,07/14-15/2022,Healthy,101.9,Dairy 356,71,Chao1,calf
+Dairy357,CA,Farm2,07/14-15/2022,Healthy,101.7,Dairy 357,50.2,Chao1,calf
+Dairy358,CA,Farm2,07/14-15/2022,Healthy,102.2,Dairy 358,124.2352941,Chao1,calf
+Dairy359,CA,Farm2,07/14-15/2022,Healthy,100.9,Dairy 359,85.16666667,Chao1,calf
+Dairy360,CA,Farm2,07/14-15/2022,Healthy,101.4,Dairy 360,51,Chao1,calf
+Dairy361,CA,Farm2,07/14-15/2022,Healthy,102,Dairy 361,100.4,Chao1,calf
+Dairy362,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 362,54.33333333,Chao1,calf
+Dairy363,CA,Farm2,07/14-15/2022,Healthy,101.2,Dairy 363,55.5,Chao1,calf
+Dairy364,CA,Farm2,07/14-15/2022,Healthy,102.8,Dairy 364,100.6666667,Chao1,calf
+Dairy365,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 365,97.66666667,Chao1,calf
+Dairy366,CA,Farm2,07/14-15/2022,Healthy,102.3,Dairy 366,34.25,Chao1,calf
+Dairy367,CA,Farm2,07/14-15/2022,Healthy,101.8,Dairy 367,76.14285714,Chao1,calf
+Dairy368,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 368,189.4545455,Chao1,calf
+Dairy369,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 369,69.5,Chao1,calf
+Dairy370,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 370,98.6,Chao1,calf
+Dairy372,CA,Farm2,07/14-15/2022,BRD,100.8,Dairy 372,46.5,Chao1,calf
+Dairy373,CA,Farm2,07/14-15/2022,BRD,101.2,Dairy 373,66.25,Chao1,calf
+Dairy374,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 374,137.3333333,Chao1,calf
+Dairy375,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 375,122.5454545,Chao1,calf
+Dairy376,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 376,103.4615385,Chao1,calf
+Dairy377,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 377,94.25,Chao1,calf
+Dairy378,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 378,77.5,Chao1,calf
+Dairy379,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 379,142.4545455,Chao1,calf
+Dairy381,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 381,68,Chao1,calf
+Dairy382,CA,Farm2,07/14-15/2022,BRD,105,Dairy 382,45.25,Chao1,calf
+Dairy383,CA,Farm2,07/14-15/2022,Healthy,102.1,Dairy 383,113.25,Chao1,calf
+Dairy384,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 384,99.75,Chao1,calf
+Dairy385,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 385,62.5,Chao1,calf
+Dairy386,CA,Farm2,07/14-15/2022,BRD,104.3,Dairy 386,108.1111111,Chao1,calf
+Dairy387,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 387,136.0833333,Chao1,calf
+Dairy388,CA,Farm2,07/14-15/2022,BRD,101.3,Dairy 388,138.7142857,Chao1,calf
+Dairy389,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 389,77.85714286,Chao1,calf
+Dairy390,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 390,60.25,Chao1,calf
+Dairy391,CA,Farm2,07/14-15/2022,BRD,102.5,Dairy 391,63.2,Chao1,calf
+Dairy392,CA,Farm2,07/14-15/2022,BRD,102,Dairy 392,44,Chao1,calf
+Dairy393,CA,Farm2,07/14-15/2022,BRD,102.3,Dairy 393,69.76923077,Chao1,calf
+Dairy394,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 394,98.5,Chao1,calf
+Dairy395,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 395,118.7142857,Chao1,calf
+Dairy396,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 396,143.5714286,Chao1,calf
+Dairy398,CA,Farm2,07/14-15/2022,BRD,103,Dairy 398,131.1538462,Chao1,calf
+Dairy401,CA,Farm2,07/14-15/2022,BRD,102.2,Dairy 401,161.5882353,Chao1,calf
+Dairy402,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 402,72.875,Chao1,calf
+Dairy403,CA,Farm2,07/14-15/2022,BRD,101.8,Dairy 403,101.5,Chao1,calf
+Dairy404,CA,Farm2,07/14-15/2022,BRD,101.7,Dairy 404,128.4615385,Chao1,calf
+Dairy405,CA,Farm2,07/14-15/2022,BRD,97.8,Dairy 405,36.5,Chao1,calf
+Dairy406,CA,Farm2,07/14-15/2022,BRD,102.1,Dairy 406,127,Chao1,calf
+Dairy407,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 407,166.625,Chao1,calf
+Dairy408,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 408,77.8,Chao1,calf
+Dairy409,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 409,138.6666667,Chao1,calf
+Dairy410,CA,Farm2,07/14-15/2022,BRD,101.5,Dairy 410,99,Chao1,calf
+Dairy411,CA,Farm2,07/14-15/2022,BRD,102.7,Dairy 411,64.15384615,Chao1,calf
+Dairy412,CA,Farm2,07/14-15/2022,BRD,101.9,Dairy 412,190.0555556,Chao1,calf
+Dairy413,CA,Farm2,07/14-15/2022,BRD,102.4,Dairy 413,106.4285714,Chao1,calf
+Dairy414,CA,Farm2,07/14-15/2022,BRD,103.8,Dairy 414,52.6,Chao1,calf
+Dairy415,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 415,57,Chao1,calf
+Dairy416,CA,Farm2,07/14-15/2022,BRD,100.6,Dairy 416,52.33333333,Chao1,calf
+Dairy417,CA,Farm2,07/14-15/2022,BRD,101.6,Dairy 417,87.90909091,Chao1,calf
+Dairy418,CA,Farm2,07/14-15/2022,BRD,102.8,Dairy 418,110,Chao1,calf
+Dairy419,CA,Farm2,07/14-15/2022,BRD,103.3,Dairy 419,136.7142857,Chao1,calf
+Dairy420,CA,Farm2,07/14-15/2022,BRD,102.6,Dairy 420,41,Chao1,calf
+Dairy421,CA,Farm2,07/14-15/2022,BRD,102.9,Dairy 421,98.2,Chao1,calf
+Dairy1,IN,Farm5,2/20/21,BRD,101.7,Dairy 1,358.25,Chao1,calf
+Dairy100,IN,Farm5,2/27/21,Healthy,,Dairy 100,223.025,Chao1,calf
+Dairy12,IN,Farm5,2/20/21,BRD,102.6,Dairy 12,146.5,Chao1,calf
+Dairy13,IN,Farm5,2/20/21,Healthy,,Dairy 13,318.3846154,Chao1,Cow
+Dairy14,IN,Farm5,2/20/21,BRD,101.8,Dairy 14,124,Chao1,Cow
+Dairy15,IN,Farm5,2/20/21,Healthy,,Dairy 15,239.5,Chao1,calf
+Dairy16,IN,Farm5,2/20/21,BRD,102.4,Dairy 16,319.2,Chao1,calf
+Dairy17,IN,Farm5,2/20/21,BRD,101.2,Dairy 17,310.1666667,Chao1,calf
+Dairy18,IN,Farm5,2/20/21,BRD,102.7,Dairy 18,208.65,Chao1,calf
+Dairy19,IN,Farm5,2/20/21,BRD,102.3,Dairy 19,204.75,Chao1,calf
+Dairy20,IN,Farm5,2/20/21,BRD,101.5,Dairy 20,296.902439,Chao1,calf
+Dairy21,IN,Farm5,2/20/21,BRD,104.1,Dairy 21,349.4468085,Chao1,calf
+Dairy22,IN,Farm5,2/20/21,BRD,102.7,Dairy 22,268.6764706,Chao1,calf
+Dairy23,IN,Farm5,2/20/21,BRD,103,Dairy 23,263.04,Chao1,calf
+Dairy24,IN,Farm5,2/20/21,BRD,102.3,Dairy 24,317.575,Chao1,calf
+Dairy25,IN,Farm5,2/20/21,BRD,102.4,Dairy 25,355.943662,Chao1,calf
+Dairy26,IN,Farm5,2/20/21,BRD,102.5,Dairy 26,459.7213115,Chao1,calf
+Dairy27,IN,Farm5,2/20/21,BRD,103.2,Dairy 27,430,Chao1,calf
+Dairy28,IN,Farm5,2/20/21,BRD,102,Dairy 28,134.75,Chao1,calf
+Dairy29,IN,Farm5,2/20/21,BRD,102,Dairy 29,147.3333333,Chao1,calf
+Dairy3,IN,Farm5,2/20/21,BRD,100.5,Dairy 3,361.1702128,Chao1,Cow
+Dairy30,IN,Farm5,2/20/21,BRD,103.5,Dairy 30,205.4375,Chao1,calf
+Dairy31,IN,Farm5,2/20/21,BRD,103.3,Dairy 31,137.5882353,Chao1,calf
+Dairy33,IN,Farm5,2/20/21,BRD,102.1,Dairy 33,98.07692308,Chao1,calf
+Dairy34,IN,Farm5,2/20/21,BRD,101.4,Dairy 34,145.5833333,Chao1,calf
+Dairy35,IN,Farm5,2/20/21,Healthy,102.3,Dairy 35,101.5714286,Chao1,calf
+Dairy36,IN,Farm5,2/20/21,BRD,103.3,Dairy 36,163.75,Chao1,calf
+Dairy38,IN,Farm5,2/20/21,Healthy,102.1,Dairy 38,434.027027,Chao1,calf
+Dairy39,IN,Farm5,2/20/21,BRD,101.9,Dairy 39,157.3333333,Chao1,calf
+Dairy4,IN,Farm5,2/20/21,Healthy,,Dairy 4,256.5,Chao1,calf
+Dairy40,IN,Farm5,2/20/21,Healthy,101.3,Dairy 40,404.7884615,Chao1,calf
+Dairy41,IN,Farm5,2/20/21,Healthy,101.9,Dairy 41,209.5555556,Chao1,calf
+Dairy42,IN,Farm5,2/27/21,Healthy,101.8,Dairy 42,134,Chao1,calf
+Dairy43,IN,Farm5,2/27/21,Healthy,,Dairy 43,252.6774194,Chao1,calf
+Dairy44,IN,Farm5,2/27/21,Healthy,,Dairy 44,176.037037,Chao1,calf
+Dairy45,IN,Farm5,2/27/21,Healthy,,Dairy 45,223.6153846,Chao1,calf
+Dairy46,IN,Farm5,2/27/21,Healthy,,Dairy 46,306.1071429,Chao1,calf
+Dairy47,IN,Farm5,2/27/21,BRD,104.5,Dairy 47,96.58333333,Chao1,calf
+Dairy48,IN,Farm5,2/27/21,Healthy,,Dairy 48,495.5070423,Chao1,calf
+Dairy49,IN,Farm5,2/27/21,BRD,103.4,Dairy 49,244,Chao1,calf
+Dairy50,IN,Farm5,2/27/21,BRD,102.1,Dairy 50,172,Chao1,calf
+Dairy51,IN,Farm5,2/27/21,BRD,103.4,Dairy 51,335.1818182,Chao1,calf
+Dairy52,IN,Farm5,2/27/21,Healthy,103.2,Dairy 52,512.7746479,Chao1,calf
+Dairy53,IN,Farm5,2/27/21,BRD,102.7,Dairy 53,46,Chao1,calf
+Dairy54,IN,Farm5,2/27/21,Healthy,102.6,Dairy 54,344.5526316,Chao1,calf
+Dairy55,IN,Farm5,2/27/21,Healthy,102.8,Dairy 55,204.8484848,Chao1,calf
+Dairy56,IN,Farm5,2/27/21,Healthy,102.7,Dairy 56,387.3684211,Chao1,calf
+Dairy57,IN,Farm5,2/27/21,BRD,102.6,Dairy 57,244.3,Chao1,calf
+Dairy58,IN,Farm5,2/27/21,BRD,102.3,Dairy 58,89.36363636,Chao1,calf
+Dairy59,IN,Farm5,2/27/21,Healthy,102.4,Dairy 59,275.56,Chao1,calf
+Dairy6,IN,Farm5,2/20/21,BRD,103.2,Dairy 6,55,Chao1,Cow
+Dairy61,IN,Farm5,2/27/21,Healthy,102.6,Dairy 61,320.025,Chao1,calf
+Dairy62,IN,Farm5,2/27/21,BRD,102.5,Dairy 62,272.3703704,Chao1,calf
+Dairy63,IN,Farm5,2/27/21,Healthy,103.5,Dairy 63,234.3703704,Chao1,calf
+Dairy65,IN,Farm5,2/27/21,BRD,102.1,Dairy 65,80,Chao1,calf
+Dairy66,IN,Farm5,2/27/21,Healthy,102.2,Dairy 66,488.6666667,Chao1,calf
+Dairy67,IN,Farm5,2/27/21,Healthy,102.5,Dairy 67,393.3220339,Chao1,calf
+Dairy68,IN,Farm5,2/27/21,BRD,102.3,Dairy 68,170.5416667,Chao1,calf
+Dairy69,IN,Farm5,2/27/21,Healthy,102.3,Dairy 69,252.6,Chao1,calf
+Dairy7,IN,Farm5,2/20/21,Healthy,,Dairy 7,236.1818182,Chao1,calf
+Dairy70,IN,Farm5,2/27/21,Healthy,102.8,Dairy 70,287.44,Chao1,calf
+Dairy71,IN,Farm5,2/27/21,Healthy,102.3,Dairy 71,359.5588235,Chao1,calf
+Dairy72,IN,Farm5,2/27/21,BRD,103.7,Dairy 72,172,Chao1,calf
+Dairy74,IN,Farm5,2/27/21,Healthy,102.8,Dairy 74,195,Chao1,calf
+Dairy75,IN,Farm5,2/27/21,Healthy,102,Dairy 75,412.2222222,Chao1,calf
+Dairy77,IN,Farm5,2/27/21,Healthy,101.9,Dairy 77,124.3333333,Chao1,calf
+Dairy78,IN,Farm5,2/27/21,BRD,101.9,Dairy 78,91.5,Chao1,calf
+Dairy79,IN,Farm5,2/27/21,BRD,102.6,Dairy 79,236.5121951,Chao1,calf
+Dairy8,IN,Farm5,2/20/21,BRD,104.3,Dairy 8,184.5,Chao1,calf
+Dairy80,IN,Farm5,2/27/21,BRD,102.1,Dairy 80,150.1818182,Chao1,calf
+Dairy81,IN,Farm5,2/27/21,Healthy,101,Dairy 81,84.4,Chao1,calf
+Dairy82,IN,Farm5,2/27/21,Healthy,101.4,Dairy 82,409.8181818,Chao1,calf
+Dairy83,IN,Farm5,2/27/21,Healthy,,Dairy 83,502.3818182,Chao1,calf
+Dairy84,IN,Farm5,2/27/21,Healthy,100.9,Dairy 84,437.8125,Chao1,calf
+Dairy85,IN,Farm5,2/27/21,Healthy,,Dairy 85,258.575,Chao1,calf
+Dairy86,IN,Farm5,2/27/21,Healthy,101.6,Dairy 86,314.1363636,Chao1,calf
+Dairy87,IN,Farm5,2/27/21,BRD,101,Dairy 87,250.1111111,Chao1,calf
+Dairy88,IN,Farm5,2/27/21,Healthy,,Dairy 88,277.1304348,Chao1,calf
+Dairy89,IN,Farm5,2/27/21,BRD,103,Dairy 89,139,Chao1,calf
+Dairy9,IN,Farm5,2/20/21,Healthy,,Dairy 9,155.3333333,Chao1,calf
+Dairy90,IN,Farm5,2/27/21,BRD,102.3,Dairy 90,212.483871,Chao1,calf
+Dairy91,IN,Farm5,2/27/21,BRD,102.2,Dairy 91,262.1428571,Chao1,calf
+Dairy92,IN,Farm5,2/27/21,Healthy,,Dairy 92,206.9375,Chao1,calf
+Dairy93,IN,Farm5,2/27/21,Healthy,,Dairy 93,296.5,Chao1,calf
+Dairy94,IN,Farm5,2/27/21,Healthy,,Dairy 94,288.4545455,Chao1,calf
+Dairy95,IN,Farm5,2/27/21,Healthy,,Dairy 95,561.5540541,Chao1,calf
+Dairy96,IN,Farm5,2/27/21,Healthy,,Dairy 96,287,Chao1,calf
+Dairy97,IN,Farm5,2/27/21,Healthy,,Dairy 97,312.5,Chao1,calf
+Dairy98,IN,Farm5,2/27/21,BRD,103.6,Dairy 98,124.8,Chao1,calf
+Dairy99,IN,Farm5,2/27/21,BRD,102.8,Dairy 99,74.5,Chao1,calf
+Dairy101,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 101,636.6442308,Chao1,calf
+Dairy102,NY,Farm3,05/18-19/2021,Healthy,101.8,Dairy 102,229.0434783,Chao1,calf
+Dairy103,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 103,291.1304348,Chao1,calf
+Dairy104,NY,Farm3,05/18-19/2021,Healthy,102.6,Dairy 104,206.9565217,Chao1,calf
+Dairy105,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 105,196.9375,Chao1,calf
+Dairy106,NY,Farm3,05/18-19/2021,Healthy,,Dairy 106,412.9,Chao1,calf
+Dairy107,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 107,384.22,Chao1,calf
+Dairy108,NY,Farm3,05/18-19/2021,Healthy,,Dairy 108,287,Chao1,calf
+Dairy109,NY,Farm3,05/18-19/2021,Healthy,101.7,Dairy 109,304.8857143,Chao1,calf
+Dairy110,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 110,200.8333333,Chao1,calf
+Dairy111,NY,Farm3,05/18-19/2021,Healthy,102,Dairy 111,407.52,Chao1,calf
+Dairy112,NY,Farm3,05/18-19/2021,Healthy,102.2,Dairy 112,157.3333333,Chao1,calf
+Dairy113,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 113,338.2,Chao1,calf
+Dairy114,NY,Farm3,05/18-19/2021,Healthy,,Dairy 114,185.6666667,Chao1,calf
+Dairy115,NY,Farm3,05/18-19/2021,Healthy,,Dairy 115,247.75,Chao1,calf
+Dairy116,NY,Farm3,05/18-19/2021,Healthy,,Dairy 116,222.047619,Chao1,calf
+Dairy117,NY,Farm3,05/18-19/2021,Healthy,102.1,Dairy 117,212.7142857,Chao1,calf
+Dairy118,NY,Farm3,05/18-19/2021,Healthy,102.8,Dairy 118,152.1578947,Chao1,calf
+Dairy119,NY,Farm3,05/18-19/2021,Healthy,101.4,Dairy 119,329.5357143,Chao1,calf
+Dairy120,NY,Farm3,05/18-19/2021,Healthy,,Dairy 120,185.7142857,Chao1,calf
+Dairy121,NY,Farm3,05/18-19/2021,Healthy,102.5,Dairy 121,413.4482759,Chao1,calf
+Dairy122,NY,Farm3,05/18-19/2021,Healthy,101.9,Dairy 122,240.375,Chao1,calf
+Dairy123,NY,Farm3,05/18-19/2021,Healthy,,Dairy 123,455.122449,Chao1,calf
+Dairy124,NY,Farm3,05/18-19/2021,Healthy,,Dairy 124,538.5081967,Chao1,calf
+Dairy125,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 125,183.5,Chao1,calf
+Dairy126,NY,Farm3,05/18-19/2021,Healthy,,Dairy 126,127.6,Chao1,calf
+Dairy127,NY,Farm3,05/18-19/2021,Healthy,104,Dairy 127,339.902439,Chao1,calf
+Dairy128,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 128,211.4333333,Chao1,calf
+Dairy129,NY,Farm3,05/18-19/2021,Healthy,,Dairy 129,84,Chao1,calf
+Dairy130,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 130,302.3703704,Chao1,calf
+Dairy131,NY,Farm3,05/18-19/2021,Healthy,,Dairy 131,243.15625,Chao1,calf
+Dairy132,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 132,246.2857143,Chao1,calf
+Dairy133,NY,Farm3,05/18-19/2021,Healthy,102.7,Dairy 133,289.6851852,Chao1,calf
+Dairy134,NY,Farm3,05/18-19/2021,Healthy,102.3,Dairy 134,220.84,Chao1,calf
+Dairy135,NY,Farm3,05/18-19/2021,Healthy,102.4,Dairy 135,262.8965517,Chao1,calf
+Dairy136,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 136,184.0909091,Chao1,calf
+Dairy137,NY,Farm3,05/18-19/2021,BRD,102.7,Dairy 137,114.2,Chao1,calf
+Dairy138,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 138,225.2142857,Chao1,calf
+Dairy139,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 139,92,Chao1,calf
+Dairy140,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 140,268.4166667,Chao1,calf
+Dairy141,NY,Farm3,05/18-19/2021,BRD,102.3,Dairy 141,184.8666667,Chao1,calf
+Dairy142,NY,Farm3,05/18-19/2021,BRD,103.1,Dairy 142,102.6,Chao1,calf
+Dairy143,NY,Farm3,05/18-19/2021,BRD,103,Dairy 143,132.5,Chao1,calf
+Dairy144,NY,Farm3,05/18-19/2021,BRD,102,Dairy 144,187.4761905,Chao1,calf
+Dairy145,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 145,289.3703704,Chao1,calf
+Dairy146,NY,Farm3,05/18-19/2021,BRD,102.2,Dairy 146,245.8333333,Chao1,calf
+Dairy147,NY,Farm3,05/18-19/2021,BRD,102.5,Dairy 147,464.42,Chao1,calf
+Dairy149,NY,Farm3,05/18-19/2021,BRD,103,Dairy 149,112,Chao1,calf
+Dairy150,NY,Farm3,05/18-19/2021,BRD,103,Dairy 150,283.2368421,Chao1,calf
+Dairy151,NY,Farm3,05/18-19/2021,BRD,101.7,Dairy 151,294,Chao1,calf
+Dairy152,NY,Farm3,05/18-19/2021,BRD,103,Dairy 152,209.3333333,Chao1,calf
+Dairy153,NY,Farm3,05/18-19/2021,BRD,105.8,Dairy 153,229.05,Chao1,calf
+Dairy154,NY,Farm3,05/18-19/2021,BRD,105.3,Dairy 154,157.8846154,Chao1,calf
+Dairy155,NY,Farm3,05/18-19/2021,BRD,102,Dairy 155,310.44,Chao1,calf
+Dairy156,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 156,345.2222222,Chao1,calf
+Dairy157,NY,Farm3,05/18-19/2021,BRD,106,Dairy 157,322.0526316,Chao1,calf
+Dairy158,NY,Farm3,05/18-19/2021,BRD,106.3,Dairy 158,169.1538462,Chao1,calf
+Dairy159,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 159,288.1111111,Chao1,calf
+Dairy160,NY,Farm3,05/18-19/2021,BRD,102.1,Dairy 160,281.6470588,Chao1,calf
+Dairy161,NY,Farm3,05/18-19/2021,BRD,102.4,Dairy 161,150.6875,Chao1,calf
+Dairy162,NY,Farm3,05/18-19/2021,BRD,102.8,Dairy 162,167.8,Chao1,calf
+Dairy163,NY,Farm3,05/18-19/2021,BRD,102.6,Dairy 163,417.8,Chao1,calf
+Dairy164,NY,Farm3,05/18-19/2021,BRD,104.9,Dairy 164,126,Chao1,calf
+Dairy165,NY,Farm3,05/18-19/2021,BRD,101.6,Dairy 165,218.1578947,Chao1,calf
+Dairy166,NY,Farm3,05/18-19/2021,BRD,102,Dairy 166,141.6666667,Chao1,calf
+Dairy167,NY,Farm3,05/18-19/2021,BRD,,Dairy 167,166.9166667,Chao1,calf
+Dairy168,NY,Farm3,05/18-19/2021,BRD,101.2,Dairy 168,227.4545455,Chao1,calf
+Dairy169,NY,Farm3,05/18-19/2021,BRD,102,Dairy 169,359.9473684,Chao1,calf
+Dairy170,NY,Farm3,05/18-19/2021,BRD,104,Dairy 170,151.1428571,Chao1,calf
+Dairy171,NY,Farm4,5/20/21,Healthy,101.6,Dairy 171,65,Chao1,Cow
+Dairy172,NY,Farm4,5/20/21,Healthy,101.2,Dairy 172,76.90909091,Chao1,calf
+Dairy174,NY,Farm4,5/20/21,Healthy,101.7,Dairy 174,139.6666667,Chao1,Cow
+Dairy177,NY,Farm4,5/20/21,Healthy,,Dairy 177,334.4,Chao1,Cow
+Dairy178,NY,Farm4,5/20/21,Healthy,,Dairy 178,112.5,Chao1,Cow
+Dairy180,NY,Farm4,5/20/21,Healthy,102.5,Dairy 180,147,Chao1,Cow
+Dairy181,NY,Farm4,5/20/21,Healthy,,Dairy 181,245.5,Chao1,Cow
+Dairy182,NY,Farm4,5/20/21,Healthy,,Dairy 182,68,Chao1,Cow
+Dairy183,NY,Farm4,5/20/21,Healthy,,Dairy 183,194.1,Chao1,Cow
+Dairy184,NY,Farm4,5/20/21,Healthy,101.5,Dairy 184,170.5,Chao1,Cow
+Dairy185,NY,Farm4,5/20/21,Healthy,102,Dairy 185,118.9090909,Chao1,calf
+Dairy186,NY,Farm4,5/20/21,Healthy,101.5,Dairy 186,137,Chao1,Cow
+Dairy187,NY,Farm4,5/20/21,Healthy,102,Dairy 187,36,Chao1,calf
+Dairy188,NY,Farm4,5/20/21,BRD,103.2,Dairy 188,38,Chao1,calf
+Dairy189,NY,Farm4,5/20/21,BRD,101.2,Dairy 189,222.1363636,Chao1,Cow
+Dairy190,NY,Farm4,5/20/21,BRD,103,Dairy 190,52,Chao1,Cow
+Dairy191,NY,Farm4,5/20/21,BRD,102.5,Dairy 191,102.5,Chao1,Cow
+Dairy192,NY,Farm4,5/20/21,BRD,102.4,Dairy 192,163,Chao1,Cow
+Dairy193,NY,Farm4,5/20/21,BRD,101.4,Dairy 193,105.2,Chao1,Cow
+Dairy194,NY,Farm4,5/20/21,BRD,102,Dairy 194,62,Chao1,Cow
+Dairy195,NY,Farm4,5/20/21,BRD,100.1,Dairy 195,102.2727273,Chao1,Cow
+Dairy196,NY,Farm4,5/20/21,BRD,103.9,Dairy 196,194.3157895,Chao1,Cow
+Dairy197,NY,Farm4,5/20/21,BRD,102,Dairy 197,103.4285714,Chao1,calf
+Dairy198,NY,Farm4,5/20/21,BRD,102.3,Dairy 198,54,Chao1,calf
+Dairy199,NY,Farm4,5/20/21,BRD,102.5,Dairy 199,35,Chao1,calf
+Dairy200,NY,Farm4,5/20/21,BRD,101.8,Dairy 200,35,Chao1,Cow
+Dairy201,NY,Farm4,5/20/21,BRD,102.9,Dairy 201,189,Chao1,calf
+Dairy202,NY,Farm4,5/20/21,BRD,102.6,Dairy 202,81.3,Chao1,calf
+Dairy203,NY,Farm4,5/20/21,BRD,102.8,Dairy 203,84.11111111,Chao1,calf
+Dairy204,TX,Farm1,1/1/22,BRD,101.6,Dairy 204,109.5,Chao1,calf
+Dairy205,TX,Farm1,1/1/22,BRD,100.5,Dairy 205,107.0909091,Chao1,calf
+Dairy206,TX,Farm1,1/1/22,BRD,102.9,Dairy 206,146,Chao1,calf
+Dairy207,TX,Farm1,1/1/22,Healthy,101.9,Dairy 207,203.7142857,Chao1,calf
+Dairy208,TX,Farm1,1/1/22,Healthy,102.7,Dairy 208,289.3333333,Chao1,calf
+Dairy209,TX,Farm1,1/1/22,Healthy,101.5,Dairy 209,283.1666667,Chao1,calf
+Dairy210,TX,Farm1,1/1/22,BRD,102.1,Dairy 210,88,Chao1,calf
+Dairy213,TX,Farm1,1/1/22,Healthy,101.4,Dairy 213,370.4,Chao1,calf
+Dairy214,TX,Farm1,1/1/22,BRD,102.6,Dairy 214,144,Chao1,calf
+Dairy215,TX,Farm1,1/1/22,BRD,102.3,Dairy 215,75,Chao1,calf
+Dairy216,TX,Farm1,1/1/22,Healthy,101.9,Dairy 216,109.6,Chao1,calf
+Dairy217,TX,Farm1,1/1/22,Healthy,101.7,Dairy 217,58,Chao1,calf
+Dairy218,TX,Farm1,1/1/22,BRD,102.3,Dairy 218,47,Chao1,calf
+Dairy220,TX,Farm1,1/1/22,Healthy,100.6,Dairy 220,277.5714286,Chao1,calf
+Dairy221,TX,Farm1,1/1/22,Healthy,101.9,Dairy 221,95.5,Chao1,calf
+Dairy222,TX,Farm1,1/1/22,BRD,105.1,Dairy 222,108,Chao1,calf
+Dairy223,TX,Farm1,1/1/22,Healthy,101.7,Dairy 223,152.5,Chao1,calf
+Dairy224,TX,Farm1,1/1/22,BRD,101.7,Dairy 224,122,Chao1,calf
+Dairy225,TX,Farm1,1/1/22,BRD,97.8,Dairy 225,249.8666667,Chao1,calf
+Dairy226,TX,Farm1,1/1/22,Healthy,101.2,Dairy 226,147,Chao1,calf
+Dairy227,TX,Farm1,1/1/22,Healthy,102.1,Dairy 227,91,Chao1,calf
+Dairy228,TX,Farm1,1/1/22,BRD,101.4,Dairy 228,107,Chao1,calf
+Dairy231,TX,Farm1,1/1/22,Healthy,102,Dairy 231,111,Chao1,calf
+Dairy232,TX,Farm1,1/1/22,BRD,101,Dairy 232,137,Chao1,calf
+Dairy233,TX,Farm1,1/1/22,Healthy,102,Dairy 233,106,Chao1,calf
+Dairy237,TX,Farm1,1/1/22,Healthy,102.3,Dairy 237,316.5,Chao1,calf
+Dairy238,TX,Farm1,1/1/22,BRD,102.3,Dairy 238,175.5,Chao1,calf
+Dairy239,TX,Farm1,1/1/22,Healthy,101.5,Dairy 239,178,Chao1,calf
+Dairy240,TX,Farm1,1/1/22,BRD,102.1,Dairy 240,199.2727273,Chao1,calf
+Dairy241,TX,Farm1,1/1/22,BRD,102.7,Dairy 241,130,Chao1,calf
+Dairy243,TX,Farm1,1/1/22,Healthy,102.3,Dairy 243,412.5714286,Chao1,calf
+Dairy244,TX,Farm1,1/1/22,BRD,101.7,Dairy 244,169.3333333,Chao1,calf
+Dairy245,TX,Farm1,1/1/22,Healthy,103.3,Dairy 245,148.1111111,Chao1,calf
+Dairy248,TX,Farm1,1/1/22,BRD,101.8,Dairy 248,57,Chao1,calf
+Dairy249,TX,Farm1,1/1/22,Healthy,101.6,Dairy 249,174.2,Chao1,calf
+Dairy250,TX,Farm1,1/1/22,BRD,101.9,Dairy 250,186,Chao1,calf
+Dairy251,TX,Farm1,1/1/22,BRD,101.4,Dairy 251,125.75,Chao1,calf
+Dairy252,TX,Farm1,1/1/22,Healthy,101.9,Dairy 252,141.1666667,Chao1,calf
+Dairy253,TX,Farm1,1/1/22,Healthy,102.2,Dairy 253,111,Chao1,calf
+Dairy255,TX,Farm1,1/1/22,Healthy,101.7,Dairy 255,75.16666667,Chao1,calf
+Dairy256,TX,Farm1,1/1/22,BRD,102,Dairy 256,87,Chao1,calf
+Dairy257,TX,Farm1,1/1/22,BRD,102.5,Dairy 257,152,Chao1,calf
+Dairy258,TX,Farm1,1/1/22,Healthy,103.1,Dairy 258,138,Chao1,calf
+Dairy285,TX,Farm1,1/1/22,Healthy,102.2,Dairy 285,200.75,Chao1,calf
+Dairy286,TX,Farm1,1/1/22,BRD,102.3,Dairy 286,154.5882353,Chao1,calf
+Dairy287,TX,Farm1,1/1/22,Healthy,102.2,Dairy 287,128,Chao1,calf
+Dairy288,TX,Farm1,1/1/22,BRD,102.2,Dairy 288,476.5454545,Chao1,calf
+Dairy289,TX,Farm1,1/1/22,Healthy,102.2,Dairy 289,197.44,Chao1,calf
+Dairy290,TX,Farm1,1/1/22,BRD,101.2,Dairy 290,515.3382353,Chao1,calf
+Dairy291,TX,Farm1,1/1/22,Healthy,102.9,Dairy 291,154,Chao1,calf
+Dairy292,TX,Farm1,1/1/22,BRD,101.8,Dairy 292,219.6153846,Chao1,calf
+Dairy294,TX,Farm1,1/1/22,BRD,101.6,Dairy 294,315.125,Chao1,calf
+Dairy295,TX,Farm1,1/1/22,BRD,102,Dairy 295,367.972973,Chao1,calf
+Dairy296,TX,Farm1,1/1/22,BRD,102.5,Dairy 296,144.0909091,Chao1,calf
+Dairy299,TX,Farm1,1/1/22,Healthy,102.8,Dairy 299,229.3,Chao1,calf
+Dairy302,TX,Farm1,1/1/22,Healthy,101.5,Dairy 302,215.3571429,Chao1,calf
+Dairy303,TX,Farm1,1/1/22,BRD,101.2,Dairy 303,156.0909091,Chao1,calf
+Dairy304,TX,Farm1,1/1/22,BRD,102.1,Dairy 304,457.6375,Chao1,calf
+Dairy305,TX,Farm1,1/1/22,Healthy,102.2,Dairy 305,409.7254902,Chao1,calf
+Dairy306,TX,Farm1,1/1/22,Healthy,102.2,Dairy 306,306.3170732,Chao1,calf
+Dairy307,TX,Farm1,1/1/22,BRD,104.3,Dairy 307,153.1666667,Chao1,calf
+Dairy308,TX,Farm1,1/1/22,Healthy,102.2,Dairy 308,118.9090909,Chao1,calf
+Dairy309,TX,Farm1,1/1/22,BRD,101.7,Dairy 309,300.3333333,Chao1,calf
+Dairy310,TX,Farm1,1/1/22,Healthy,100.5,Dairy 310,267.6666667,Chao1,calf
+Dairy312,TX,Farm1,1/1/22,Healthy,102.2,Dairy 312,222.55,Chao1,calf
+Dairy314,TX,Farm1,1/1/22,BRD,101.1,Dairy 314,373.9565217,Chao1,calf
+Dairy315,TX,Farm1,1/1/22,Healthy,101.6,Dairy 315,726.6796117,Chao1,calf
+Dairy261,TX,Farm1,1/1/22,Healthy,102.7,Dairy261,106,Chao1,calf
+Dairy263,TX,Farm1,1/1/22,Healthy,101.8,Dairy263,172,Chao1,calf
+Dairy264,TX,Farm1,1/1/22,BRD,102.8,Dairy264,125.2,Chao1,calf
+Dairy265,TX,Farm1,1/1/22,Healthy,103,Dairy265,291.1666667,Chao1,calf
+Dairy266,TX,Farm1,1/1/22,Healthy,102.1,Dairy266,108.9090909,Chao1,calf
+Dairy268,TX,Farm1,1/1/22,Healthy,101.9,Dairy268,273.9090909,Chao1,calf
+Dairy269,TX,Farm1,1/1/22,Healthy,101.7,Dairy269,250.2,Chao1,calf
+Dairy270,TX,Farm1,1/1/22,BRD,102.3,Dairy270,154,Chao1,calf
+Dairy271,TX,Farm1,1/1/22,BRD,104.8,Dairy271,192.3636364,Chao1,calf
+Dairy273,TX,Farm1,1/1/22,BRD,103.8,Dairy273,216.6363636,Chao1,calf
+Dairy275,TX,Farm1,1/1/22,Healthy,102.9,Dairy275,85.33333333,Chao1,calf
+Dairy276,TX,Farm1,1/1/22,BRD,102.5,Dairy276,87.27272727,Chao1,calf
+Dairy277,TX,Farm1,1/1/22,BRD,102.7,Dairy277,74.3,Chao1,calf
+Dairy278,TX,Farm1,1/1/22,Healthy,102.2,Dairy278,237.65,Chao1,calf
+Dairy279,TX,Farm1,1/1/22,Healthy,103.2,Dairy279,132.3529412,Chao1,calf
+Dairy280,TX,Farm1,1/1/22,BRD,103.8,Dairy280,514.2307692,Chao1,calf
+Dairy282,TX,Farm1,1/1/22,BRD,103,Dairy282,218.2173913,Chao1,calf
+Dairy283,TX,Farm1,1/1/22,BRD,103,Dairy283,392.3170732,Chao1,calf
+Dairy284,TX,Farm1,1/1/22,Healthy,102.2,Dairy284,156.1428571,Chao1,calf
